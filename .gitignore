@@ -1,0 +1,47 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.import_linter_cache/
+*.egg-info/
+build/
+dist/
+
+# Coverage
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+junit.xml
+
+# Secrets and local data (never commit)
+.env
+.env.*
+!.env.example
+client_secret*.json
+token*.json
+*.pem
+*.key
+*.sqlite
+*.sqlite-*
+*.db
+
+# Raw, unsanitised fixture recordings
+tests/fixtures/_raw/
+
+# Mutation testing
+mutants/
+.mutmut-cache
+
+# Editors and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Obsidian
+.obsidian/workspace*.json
+.obsidian/cache

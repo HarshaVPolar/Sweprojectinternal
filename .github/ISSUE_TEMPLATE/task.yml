@@ -1,0 +1,43 @@
+name: Task
+description: Planned work item (build item or stage task)
+title: "[B00] "
+labels:
+  - "type:task"
+body:
+  - type: input
+    id: item
+    attributes:
+      label: Build item or task ID
+      placeholder: B12 or S1-4
+    validations:
+      required: true
+  - type: input
+    id: requirements
+    attributes:
+      label: SRS requirement IDs
+      placeholder: FR-5.5, FR-5.6
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria (done when)
+    validations:
+      required: true
+  - type: dropdown
+    id: size
+    attributes:
+      label: Size
+      options:
+        - S (under 2 hours)
+        - M (half a day)
+        - L (one to two days)
+    validations:
+      required: true
+  - type: input
+    id: brief
+    attributes:
+      label: Task brief path
+      placeholder: docs/ai/briefs/B12.md
+    validations:
+      required: false

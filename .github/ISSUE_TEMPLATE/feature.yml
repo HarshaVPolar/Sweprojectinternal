@@ -1,0 +1,25 @@
+name: Feature
+description: A new capability or change in behaviour
+title: "[feature] "
+labels:
+  - "type:feature"
+body:
+  - type: input
+    id: requirements
+    attributes:
+      label: SRS requirement IDs
+      placeholder: FR-1.7
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+    validations:
+      required: true
