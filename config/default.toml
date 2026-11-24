@@ -1,0 +1,79 @@
+[quota]
+daily_budget = 10000
+safety_reserve_pct = 5
+machine_daily_budget = 2000
+reset_tz = "America/Los_Angeles"
+
+[quota.costs]
+search_list = 100
+videos_list = 1
+channels_list = 1
+subscriptions_list = 1
+playlists_list = 1
+playlist_items_list = 1
+video_categories_list = 1
+playlists_insert = 50
+playlist_items_insert = 50
+
+[similarity]
+default_limit = 10
+max_limit = 50
+channel_default_limit = 10
+channel_max_limit = 30
+default_candidates = 50
+max_candidates = 200
+fr1_search_queries = 1
+channel_recent_uploads = 15
+field_weight_title = 3
+field_weight_tags = 2
+field_weight_description = 1
+
+[similarity.video]
+text = 0.50
+tag = 0.20
+category = 0.15
+duration = 0.10
+language = 0.05
+
+[similarity.channel]
+text = 0.55
+topic = 0.20
+cadence = 0.15
+size = 0.10
+
+[taste]
+likes = 0.5
+playlists = 0.3
+subscriptions = 0.2
+half_life_days = 180
+source_cap = 200
+per_channel_top10 = 2
+mmr_lambda = 0.7
+
+[playlist]
+tolerance_pct = 5
+per_channel_cap = 3
+dp_unit_s = 10
+dp_top_n = 60
+search_queries = 2
+min_total_s = 300
+max_total_s = 86400
+min_item_s = 60
+topic_max_len = 200
+title_max_len = 150
+proposal_ttl_min = 15
+default_visibility = "private"
+
+[cache]
+ttl_video_channel_h = 24
+ttl_search_h = 24
+ttl_categories_d = 7
+
+[limits]
+rate_limit_per_min = 30
+max_input_len = 2048
+retry_max = 3
+http_timeout_s = 15
+
+[approval]
+mode = "auto"
