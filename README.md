@@ -9,7 +9,7 @@ Stage 0: repository bootstrap. See CHANGELOG.md.
 ## Quick start
 
     python -m venv .venv
-    source .venv/bin/activate      # Windows: .venv\Scriptsctivate
+    source .venv/bin/activate      # Windows: .venv\Scripts\activate
     make setup
     make lint test
 
