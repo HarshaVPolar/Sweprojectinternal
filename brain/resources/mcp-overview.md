@@ -17,7 +17,7 @@ The Model Context Protocol (MCP) is an open protocol that lets an AI client (the
 - Messages use JSON-RPC 2.0. Two transports exist: stdio, where the client starts the server as a child process (the default for local use and the only one in release), and Streamable HTTP (deferred).
 - Tools are operations the model can call; each has a name, a description and a JSON Schema for its inputs. Resources are read-only data identified by a URI. Prompts are reusable templates and are not used here. This project exposes 9 tools and 4 resources.
 - Tool annotations such as readOnlyHint, destructiveHint, idempotentHint and openWorldHint are hints for the client, for example to ask the user before a write. They are not a security guarantee.
-- Elicitation lets a server ask the user for input through the client while a tool call is running. It is an optional client capability, so the server must check at initialisation whether the client announced it.
+- User elicitation lets a server ask the user for input through the client while a tool call is running. It is an optional client capability, so the server must check at initialisation whether the client announced it.
 - Errors: a failure inside a tool is returned in the tool result with an error flag so that the model can read it; protocol problems such as an unknown tool use a JSON-RPC error.
 - The server is written in Python with the official SDK (package mcp, FastMCP interface).
 
