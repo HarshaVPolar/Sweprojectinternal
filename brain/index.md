@@ -13,6 +13,7 @@ Entry point of the second brain. Maintained by the brain-refine skill (SK-14). L
 
 ## Projects
 
+- [[review-stage-1]]: Stage 1 review: what worked, what did not, what to change.
 - [[schedule]]: Planned calendar, stages and exit criteria.
 
 ## Areas

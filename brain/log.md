@@ -25,3 +25,5 @@ Append-only. One line per skill run, in this format: YYYY-MM-DD | skill | note |
 2026-11-26 | brain-refine | tf-idf-cosine
 2026-11-26 | brain-refine | youtube-api-quota
 2026-11-26 | brain-refine | index
+2026-11-26 | brain-ingest | review-stage-1
+2026-11-26 | brain-refine | index
