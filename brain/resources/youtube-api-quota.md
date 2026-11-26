@@ -1,11 +1,11 @@
 ---
 title: youtube-api-quota
-type: inbox
+type: resource
 created: 2026-11-26
 tags: [youtube, quota, api]
 requirements: [QTA-1, QTA-2, QTA-3, QTA-4, QTA-5, BR-2, BR-5, TQ-6]
 sources: [https://developers.google.com/youtube/v3/determine_quota_cost, SRS v1.0 section 3.3.2 and Appendix D.3]
-status: raw
+status: distilled
 ---
 
 # Summary
@@ -30,4 +30,6 @@ Every YouTube Data API call costs quota units. A Google Cloud project gets 10,00
 
 # Related
 
-- (links added during brain-refine)
+- [[quota-policy]]
+- [[oauth-testing-mode]]
+- [[fixture-recording-strategy]]

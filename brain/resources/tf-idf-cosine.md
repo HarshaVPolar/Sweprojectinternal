@@ -1,11 +1,11 @@
 ---
 title: tf-idf-cosine
-type: inbox
+type: resource
 created: 2026-11-26
 tags: [similarity, tf-idf, cosine, fr-1]
 requirements: [FR-1.6, FR-1.7, FR-2.6, FR-3.2, FR-5.5]
 sources: [SRS v1.0 Appendix B.2, https://en.wikipedia.org/wiki/Tf%E2%80%93idf]
-status: raw
+status: distilled
 ---
 
 # Summary
@@ -31,4 +31,5 @@ TF-IDF turns a text into a vector in which words that are characteristic of that
 
 # Related
 
-- (links added during brain-refine)
+- [[playlist-constraints]]
+- [[fixture-recording-strategy]]

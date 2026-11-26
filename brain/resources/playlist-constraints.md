@@ -1,11 +1,11 @@
 ---
 title: playlist-constraints
-type: inbox
+type: resource
 created: 2026-11-26
 tags: [playlist, algorithm, fr-5]
 requirements: [FR-5.5, FR-5.6, FR-5.7, NFR-PERF-3, TQ-1]
 sources: [SRS section 4.5.4, https://en.wikipedia.org/wiki/Subset_sum_problem]
-status: raw
+status: distilled
 ---
 
 # Summary
@@ -33,4 +33,5 @@ Building a playlist of a given total length is a bounded subset-sum problem with
 
 # Related
 
-- (links added during brain-refine)
+- [[iso8601-durations]]
+- [[tf-idf-cosine]]

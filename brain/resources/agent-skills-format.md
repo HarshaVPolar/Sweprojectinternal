@@ -1,11 +1,11 @@
 ---
 title: agent-skills-format
-type: inbox
+type: resource
 created: 2026-11-26
 tags: [skills, agents, format]
 requirements: [SK-1, SK-13, SK-14, SK-15, CON-11]
 sources: [https://agentskills.io, SRS section 4.6]
-status: raw
+status: distilled
 ---
 
 # Summary
@@ -29,4 +29,4 @@ An Agent Skill is a folder with a file called SKILL.md that teaches an AI agent 
 
 # Related
 
-- (links added during brain-refine)
+- [[mcp-overview]]

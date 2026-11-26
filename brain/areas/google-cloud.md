@@ -24,3 +24,6 @@ The team uses exactly ONE Google Cloud project (BR-5, CON-2). Creating extra pro
 Secrets stay outside the repository (SEC-3). Tokens use the OS keyring (ADR-005).
 
 # Related
+
+- [[oauth-testing-mode]]
+- [[youtube-api-quota]]

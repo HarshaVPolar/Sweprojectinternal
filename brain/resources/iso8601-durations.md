@@ -1,11 +1,11 @@
 ---
 title: iso8601-durations
-type: inbox
+type: resource
 created: 2026-11-26
 tags: [youtube, duration, parsing]
 requirements: [FR-5.3, FR-5.4, TQ-1]
 sources: [https://developers.google.com/youtube/v3/docs/videos, https://en.wikipedia.org/wiki/ISO_8601#Durations]
-status: raw
+status: distilled
 ---
 
 # Summary
@@ -29,4 +29,4 @@ YouTube reports the length of a video in the field contentDetails.duration as an
 
 # Related
 
-- (links added during brain-refine)
+- [[playlist-constraints]]

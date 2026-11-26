@@ -25,3 +25,5 @@ YouTube quota is per day and per Google Cloud project. It resets at midnight Pac
 QuotaGuard enforces both the global reserve and machine_daily_budget (config/default.toml).
 
 # Related
+
+- [[youtube-api-quota]]

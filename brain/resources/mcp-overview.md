@@ -1,11 +1,11 @@
 ---
 title: mcp-overview
-type: inbox
+type: resource
 created: 2026-11-26
 tags: [mcp, protocol, architecture]
 requirements: [NFR-POR-2, UI-1, SEC-5, A-4]
 sources: [https://modelcontextprotocol.io, SRS section 3.3.1]
-status: raw
+status: distilled
 ---
 
 # Summary
@@ -29,4 +29,5 @@ The Model Context Protocol (MCP) is an open protocol that lets an AI client (the
 
 # Related
 
-- (links added during brain-refine)
+- [[prompt-injection]]
+- [[agent-skills-format]]

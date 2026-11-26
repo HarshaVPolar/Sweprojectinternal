@@ -1,11 +1,11 @@
 ---
 title: sqlite-wal
-type: inbox
+type: resource
 created: 2026-11-26
 tags: [sqlite, storage, reliability]
 requirements: [NFR-PERF-4, NFR-REL-3, NFR-REL-4, SEC-10]
 sources: [https://www.sqlite.org/wal.html, https://www.sqlite.org/pragma.html]
-status: raw
+status: distilled
 ---
 
 # Summary
@@ -31,4 +31,4 @@ The server keeps its cache, quota ledger, proposals and audit log in one local S
 
 # Related
 
-- (links added during brain-refine)
+- [[youtube-api-quota]]

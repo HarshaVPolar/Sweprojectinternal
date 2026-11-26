@@ -1,11 +1,11 @@
 ---
 title: fixture-recording-strategy
-type: inbox
+type: resource
 created: 2026-11-26
 tags: [testing, fixtures, ci]
 requirements: [TQ-2, TQ-5, SEC-7, SE-6, CON-7]
 sources: [SRS v1.0 section 6.2, Master Project Plan v3 section 7.4]
-status: raw
+status: distilled
 ---
 
 # Summary
@@ -31,4 +31,5 @@ CI must never call the live API. Instead the tests replay recorded and sanitised
 
 # Related
 
-- (links added during brain-refine)
+- [[youtube-api-quota]]
+- [[iso8601-durations]]

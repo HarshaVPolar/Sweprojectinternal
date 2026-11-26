@@ -1,11 +1,11 @@
 ---
 title: prompt-injection
-type: inbox
+type: resource
 created: 2026-11-26
 tags: [security, prompt-injection, mcp]
 requirements: [SEC-5, SEC-6, BR-1, SK-3, TQ-SEC]
 sources: [https://owasp.org/www-project-top-10-for-large-language-model-applications/, SRS v1.0 SEC-5 and SEC-6]
-status: raw
+status: distilled
 ---
 
 # Summary
@@ -35,4 +35,5 @@ text that came from YouTube
 
 # Related
 
-- (links added during brain-refine)
+- [[mcp-overview]]
+- [[agent-skills-format]]

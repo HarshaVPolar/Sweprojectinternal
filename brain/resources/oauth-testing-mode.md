@@ -1,11 +1,11 @@
 ---
 title: oauth-testing-mode
-type: inbox
+type: resource
 created: 2026-11-26
 tags: [oauth, security, google]
 requirements: [SEC-1, SEC-2, SEC-3, CON-4, CON-10, UI-7]
 sources: [https://developers.google.com/identity/protocols/oauth2/native-app, https://developers.google.com/identity/protocols/oauth2#expiration]
-status: raw
+status: distilled
 ---
 
 # Summary
@@ -30,4 +30,5 @@ While the OAuth consent screen is in Testing mode, only listed test users can au
 
 # Related
 
-- (links added during brain-refine)
+- [[google-cloud]]
+- [[youtube-api-quota]]
