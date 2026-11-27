@@ -78,10 +78,11 @@ def run_command(
             output_tail=tail(output, 20),
         )
     except OSError as exc:
+        target = args[0] if args else name
         return StepResult(
             name=name,
             passed=False,
-            detail=f"failed to execute: {exc}",
+            detail=f"failed to execute '{target}': {exc}",
             output_tail="",
         )
 
