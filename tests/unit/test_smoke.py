@@ -10,6 +10,5 @@ def test_version_is_defined() -> None:
 
 
 @pytest.mark.unit
-def test_main_is_not_implemented_yet() -> None:
-    with pytest.raises(SystemExit):
-        main()
+def test_main_is_callable() -> None:
+    assert callable(main)
