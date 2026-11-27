@@ -1,0 +1,132 @@
+{
+ "args": {
+  "maxResults": 50,
+  "part": "snippet,contentDetails",
+  "playlistId": "PLsynthetic05"
+ },
+ "method": "playlist_items_list",
+ "response": {
+  "items": [
+   {
+    "contentDetails": {
+     "videoId": "synlike0033"
+    },
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "playlistId": "PLsynthetic05",
+     "position": 0,
+     "publishedAt": "2025-05-26T12:00:00Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "synlike0033"
+     }
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "synlike0034"
+    },
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "playlistId": "PLsynthetic05",
+     "position": 1,
+     "publishedAt": "2025-05-27T12:00:00Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "synlike0034"
+     }
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "synlike0035"
+    },
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "playlistId": "PLsynthetic05",
+     "position": 2,
+     "publishedAt": "2025-05-28T12:00:00Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "synlike0035"
+     }
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "synlike0036"
+    },
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "playlistId": "PLsynthetic05",
+     "position": 3,
+     "publishedAt": "2025-05-29T12:00:00Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "synlike0036"
+     }
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "synlike0037"
+    },
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "playlistId": "PLsynthetic05",
+     "position": 4,
+     "publishedAt": "2025-05-30T12:00:00Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "synlike0037"
+     }
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "synlike0038"
+    },
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "playlistId": "PLsynthetic05",
+     "position": 5,
+     "publishedAt": "2025-05-31T12:00:00Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "synlike0038"
+     }
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "synlike0039"
+    },
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "playlistId": "PLsynthetic05",
+     "position": 6,
+     "publishedAt": "2025-06-01T12:00:00Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "synlike0039"
+     }
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "synlike0040"
+    },
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "playlistId": "PLsynthetic05",
+     "position": 7,
+     "publishedAt": "2025-06-02T12:00:00Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "synlike0040"
+     }
+    }
+   }
+  ]
+ }
+}

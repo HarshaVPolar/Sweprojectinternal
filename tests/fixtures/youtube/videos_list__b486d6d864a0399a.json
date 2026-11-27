@@ -1,0 +1,21 @@
+{
+ "args": {
+  "id": "errrate0001",
+  "part": "snippet,contentDetails,statistics,status"
+ },
+ "method": "videos_list",
+ "response": {
+  "error": {
+   "code": 429,
+   "errors": [
+    {
+     "domain": "youtube.quota",
+     "message": "Too Many Requests",
+     "reason": "rateLimitExceeded"
+    }
+   ],
+   "message": "Too Many Requests"
+  }
+ },
+ "status": 429
+}

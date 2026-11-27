@@ -1,0 +1,1563 @@
+{
+ "args": {
+  "maxResults": 50,
+  "myRating": "like",
+  "part": "snippet,contentDetails,statistics,status"
+ },
+ "method": "videos_list",
+ "response": {
+  "items": [
+   {
+    "contentDetails": {
+     "duration": "PT5M0S"
+    },
+    "id": "synlike0001",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC08efd9a4363f8a86628523",
+     "channelTitle": "Synthetic Channel 01",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about linear algebra.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-06-30T12:00:00Z",
+     "tags": [
+      "linear algebra",
+      "vectors",
+      "matrices",
+      "math"
+     ],
+     "title": "Linear algebra lesson 1: vectors and matrices"
+    },
+    "statistics": {
+     "likeCount": "10",
+     "viewCount": "1000"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT7M17S"
+    },
+    "id": "synlike0002",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "28",
+     "channelId": "UC602dcf4f46d365efed5bff",
+     "channelTitle": "Synthetic Channel 02",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about python programming.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-06-22T11:00:00Z",
+     "tags": [
+      "python",
+      "programming",
+      "tutorial",
+      "code"
+     ],
+     "title": "Python programming tutorial 2: functions and classes"
+    },
+    "statistics": {
+     "likeCount": "13",
+     "viewCount": "1037"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT9M34S"
+    },
+    "id": "synlike0003",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "10",
+     "channelId": "UCd9a577245e3e4afb52e9ee",
+     "channelTitle": "Synthetic Channel 03",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about classical piano.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-06-14T10:00:00Z",
+     "tags": [
+      "piano",
+      "classical",
+      "music",
+      "sonata"
+     ],
+     "title": "Classical piano performance 3: sonata in practice"
+    },
+    "statistics": {
+     "likeCount": "16",
+     "viewCount": "1074"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT11M51S"
+    },
+    "id": "synlike0004",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCf0bcb358ba25ab13b06ba0",
+     "channelTitle": "Synthetic Channel 04",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about world history.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-06-06T09:00:00Z",
+     "tags": [
+      "history",
+      "world",
+      "lecture",
+      "empires"
+     ],
+     "title": "World history lecture 4: empires and trade"
+    },
+    "statistics": {
+     "likeCount": "19",
+     "viewCount": "1111"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT14M8S"
+    },
+    "id": "synlike0005",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC3b06aa24ff9526f91bf59c",
+     "channelTitle": "Synthetic Channel 05",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about linear algebra.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-05-29T08:00:00Z",
+     "tags": [
+      "linear algebra",
+      "vectors",
+      "matrices",
+      "math"
+     ],
+     "title": "Linear algebra lesson 5: vectors and matrices"
+    },
+    "statistics": {
+     "likeCount": "22",
+     "viewCount": "1148"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT16M25S"
+    },
+    "id": "synlike0006",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "28",
+     "channelId": "UCe1dab602dcceeb4d6cb9cc",
+     "channelTitle": "Synthetic Channel 06",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about python programming.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-05-21T07:00:00Z",
+     "tags": [
+      "python",
+      "programming",
+      "tutorial",
+      "code"
+     ],
+     "title": "Python programming tutorial 6: functions and classes"
+    },
+    "statistics": {
+     "likeCount": "25",
+     "viewCount": "1185"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT18M42S"
+    },
+    "id": "synlike0007",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "10",
+     "channelId": "UC2c606cabd5cc88964fc8ad",
+     "channelTitle": "Synthetic Channel 07",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about classical piano.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-05-13T06:00:00Z",
+     "tags": [
+      "piano",
+      "classical",
+      "music",
+      "sonata"
+     ],
+     "title": "Classical piano performance 7: sonata in practice"
+    },
+    "statistics": {
+     "likeCount": "28",
+     "viewCount": "1222"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT20M59S"
+    },
+    "id": "synlike0008",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC55b5e012f346f1c4f2cd55",
+     "channelTitle": "Synthetic Channel 08",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about world history.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-05-05T05:00:00Z",
+     "tags": [
+      "history",
+      "world",
+      "lecture",
+      "empires"
+     ],
+     "title": "World history lecture 8: empires and trade"
+    },
+    "statistics": {
+     "likeCount": "31",
+     "viewCount": "1259"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT23M16S"
+    },
+    "id": "synlike0009",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC34c5024c95b65e5c56a310",
+     "channelTitle": "Synthetic Channel 09",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about linear algebra.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-04-27T04:00:00Z",
+     "tags": [
+      "linear algebra",
+      "vectors",
+      "matrices",
+      "math"
+     ],
+     "title": "Linear algebra lesson 9: vectors and matrices"
+    },
+    "statistics": {
+     "likeCount": "34",
+     "viewCount": "1296"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT25M33S"
+    },
+    "id": "synlike0010",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "28",
+     "channelId": "UC454f7cdf626541396dde9f",
+     "channelTitle": "Synthetic Channel 10",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about python programming.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-04-19T03:00:00Z",
+     "tags": [
+      "python",
+      "programming",
+      "tutorial",
+      "code"
+     ],
+     "title": "Python programming tutorial 10: functions and classes"
+    },
+    "statistics": {
+     "likeCount": "37",
+     "viewCount": "1333"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT27M50S"
+    },
+    "id": "synlike0011",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "10",
+     "channelId": "UC688ef416033e407fb1457d",
+     "channelTitle": "Synthetic Channel 11",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about classical piano.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-04-11T02:00:00Z",
+     "tags": [
+      "piano",
+      "classical",
+      "music",
+      "sonata"
+     ],
+     "title": "Classical piano performance 11: sonata in practice"
+    },
+    "statistics": {
+     "likeCount": "40",
+     "viewCount": "1370"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT30M7S"
+    },
+    "id": "synlike0012",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCd81e94c428e6cb1799f720",
+     "channelTitle": "Synthetic Channel 12",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about world history.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-04-03T01:00:00Z",
+     "tags": [
+      "history",
+      "world",
+      "lecture",
+      "empires"
+     ],
+     "title": "World history lecture 12: empires and trade"
+    },
+    "statistics": {
+     "likeCount": "43",
+     "viewCount": "1407"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT32M24S"
+    },
+    "id": "synlike0013",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCee4f809daebe29fbb53e03",
+     "channelTitle": "Synthetic Channel 13",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about linear algebra.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-03-26T00:00:00Z",
+     "tags": [
+      "linear algebra",
+      "vectors",
+      "matrices",
+      "math"
+     ],
+     "title": "Linear algebra lesson 13: vectors and matrices"
+    },
+    "statistics": {
+     "likeCount": "46",
+     "viewCount": "1444"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT34M41S"
+    },
+    "id": "synlike0014",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "28",
+     "channelId": "UC2f78193425ab93451e938e",
+     "channelTitle": "Synthetic Channel 14",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about python programming.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-03-17T23:00:00Z",
+     "tags": [
+      "python",
+      "programming",
+      "tutorial",
+      "code"
+     ],
+     "title": "Python programming tutorial 14: functions and classes"
+    },
+    "statistics": {
+     "likeCount": "49",
+     "viewCount": "1481"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT36M58S"
+    },
+    "id": "synlike0015",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "10",
+     "channelId": "UCca16a5c7ea46ca8ac89f5c",
+     "channelTitle": "Synthetic Channel 15",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about classical piano.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-03-09T22:00:00Z",
+     "tags": [
+      "piano",
+      "classical",
+      "music",
+      "sonata"
+     ],
+     "title": "Classical piano performance 15: sonata in practice"
+    },
+    "statistics": {
+     "likeCount": "52",
+     "viewCount": "1518"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT39M15S"
+    },
+    "id": "synlike0016",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCbcae267f476c0b2baf4afd",
+     "channelTitle": "Synthetic Channel 16",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about world history.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-03-01T21:00:00Z",
+     "tags": [
+      "history",
+      "world",
+      "lecture",
+      "empires"
+     ],
+     "title": "World history lecture 16: empires and trade"
+    },
+    "statistics": {
+     "likeCount": "55",
+     "viewCount": "1555"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT41M32S"
+    },
+    "id": "synlike0017",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC08efd9a4363f8a86628523",
+     "channelTitle": "Synthetic Channel 01",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about linear algebra.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-02-21T20:00:00Z",
+     "tags": [
+      "linear algebra",
+      "vectors",
+      "matrices",
+      "math"
+     ],
+     "title": "Linear algebra lesson 17: vectors and matrices"
+    },
+    "statistics": {
+     "likeCount": "58",
+     "viewCount": "1592"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT43M49S"
+    },
+    "id": "synlike0018",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "28",
+     "channelId": "UC602dcf4f46d365efed5bff",
+     "channelTitle": "Synthetic Channel 02",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about python programming.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-02-13T19:00:00Z",
+     "tags": [
+      "python",
+      "programming",
+      "tutorial",
+      "code"
+     ],
+     "title": "Python programming tutorial 18: functions and classes"
+    },
+    "statistics": {
+     "likeCount": "61",
+     "viewCount": "1629"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT46M6S"
+    },
+    "id": "synlike0019",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "10",
+     "channelId": "UCd9a577245e3e4afb52e9ee",
+     "channelTitle": "Synthetic Channel 03",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about classical piano.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-02-05T18:00:00Z",
+     "tags": [
+      "piano",
+      "classical",
+      "music",
+      "sonata"
+     ],
+     "title": "Classical piano performance 19: sonata in practice"
+    },
+    "statistics": {
+     "likeCount": "64",
+     "viewCount": "1666"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT48M23S"
+    },
+    "id": "synlike0020",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCf0bcb358ba25ab13b06ba0",
+     "channelTitle": "Synthetic Channel 04",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about world history.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-01-28T17:00:00Z",
+     "tags": [
+      "history",
+      "world",
+      "lecture",
+      "empires"
+     ],
+     "title": "World history lecture 20: empires and trade"
+    },
+    "statistics": {
+     "likeCount": "67",
+     "viewCount": "1703"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT50M40S"
+    },
+    "id": "synlike0021",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC3b06aa24ff9526f91bf59c",
+     "channelTitle": "Synthetic Channel 05",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about linear algebra.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-01-20T16:00:00Z",
+     "tags": [
+      "linear algebra",
+      "vectors",
+      "matrices",
+      "math"
+     ],
+     "title": "Linear algebra lesson 21: vectors and matrices"
+    },
+    "statistics": {
+     "likeCount": "70",
+     "viewCount": "1740"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT52M57S"
+    },
+    "id": "synlike0022",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "28",
+     "channelId": "UCe1dab602dcceeb4d6cb9cc",
+     "channelTitle": "Synthetic Channel 06",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about python programming.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-01-12T15:00:00Z",
+     "tags": [
+      "python",
+      "programming",
+      "tutorial",
+      "code"
+     ],
+     "title": "Python programming tutorial 22: functions and classes"
+    },
+    "statistics": {
+     "likeCount": "73",
+     "viewCount": "1777"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT55M14S"
+    },
+    "id": "synlike0023",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "10",
+     "channelId": "UC2c606cabd5cc88964fc8ad",
+     "channelTitle": "Synthetic Channel 07",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about classical piano.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-01-04T14:00:00Z",
+     "tags": [
+      "piano",
+      "classical",
+      "music",
+      "sonata"
+     ],
+     "title": "Classical piano performance 23: sonata in practice"
+    },
+    "statistics": {
+     "likeCount": "76",
+     "viewCount": "1814"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT57M31S"
+    },
+    "id": "synlike0024",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC55b5e012f346f1c4f2cd55",
+     "channelTitle": "Synthetic Channel 08",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about world history.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-12-27T13:00:00Z",
+     "tags": [
+      "history",
+      "world",
+      "lecture",
+      "empires"
+     ],
+     "title": "World history lecture 24: empires and trade"
+    },
+    "statistics": {
+     "likeCount": "79",
+     "viewCount": "1851"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT59M48S"
+    },
+    "id": "synlike0025",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC34c5024c95b65e5c56a310",
+     "channelTitle": "Synthetic Channel 09",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about linear algebra.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-12-20T12:00:00Z",
+     "tags": [
+      "linear algebra",
+      "vectors",
+      "matrices",
+      "math"
+     ],
+     "title": "Linear algebra lesson 25: vectors and matrices"
+    },
+    "statistics": {
+     "likeCount": "82",
+     "viewCount": "1888"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT7M5S"
+    },
+    "id": "synlike0026",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "28",
+     "channelId": "UC454f7cdf626541396dde9f",
+     "channelTitle": "Synthetic Channel 10",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about python programming.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-12-12T11:00:00Z",
+     "tags": [
+      "python",
+      "programming",
+      "tutorial",
+      "code"
+     ],
+     "title": "Python programming tutorial 26: functions and classes"
+    },
+    "statistics": {
+     "likeCount": "85",
+     "viewCount": "1925"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT9M22S"
+    },
+    "id": "synlike0027",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "10",
+     "channelId": "UC688ef416033e407fb1457d",
+     "channelTitle": "Synthetic Channel 11",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about classical piano.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-12-04T10:00:00Z",
+     "tags": [
+      "piano",
+      "classical",
+      "music",
+      "sonata"
+     ],
+     "title": "Classical piano performance 27: sonata in practice"
+    },
+    "statistics": {
+     "likeCount": "88",
+     "viewCount": "1962"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT11M39S"
+    },
+    "id": "synlike0028",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCd81e94c428e6cb1799f720",
+     "channelTitle": "Synthetic Channel 12",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about world history.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-11-26T09:00:00Z",
+     "tags": [
+      "history",
+      "world",
+      "lecture",
+      "empires"
+     ],
+     "title": "World history lecture 28: empires and trade"
+    },
+    "statistics": {
+     "likeCount": "91",
+     "viewCount": "1999"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT13M56S"
+    },
+    "id": "synlike0029",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCee4f809daebe29fbb53e03",
+     "channelTitle": "Synthetic Channel 13",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about linear algebra.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-11-18T08:00:00Z",
+     "tags": [
+      "linear algebra",
+      "vectors",
+      "matrices",
+      "math"
+     ],
+     "title": "Linear algebra lesson 29: vectors and matrices"
+    },
+    "statistics": {
+     "likeCount": "94",
+     "viewCount": "2036"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT16M13S"
+    },
+    "id": "synlike0030",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "28",
+     "channelId": "UC2f78193425ab93451e938e",
+     "channelTitle": "Synthetic Channel 14",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about python programming.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-11-10T07:00:00Z",
+     "tags": [
+      "python",
+      "programming",
+      "tutorial",
+      "code"
+     ],
+     "title": "Python programming tutorial 30: functions and classes"
+    },
+    "statistics": {
+     "likeCount": "97",
+     "viewCount": "2073"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT18M30S"
+    },
+    "id": "synlike0031",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "10",
+     "channelId": "UCca16a5c7ea46ca8ac89f5c",
+     "channelTitle": "Synthetic Channel 15",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about classical piano.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-11-02T06:00:00Z",
+     "tags": [
+      "piano",
+      "classical",
+      "music",
+      "sonata"
+     ],
+     "title": "Classical piano performance 31: sonata in practice"
+    },
+    "statistics": {
+     "likeCount": "100",
+     "viewCount": "2110"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT20M47S"
+    },
+    "id": "synlike0032",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCbcae267f476c0b2baf4afd",
+     "channelTitle": "Synthetic Channel 16",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about world history.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-10-25T05:00:00Z",
+     "tags": [
+      "history",
+      "world",
+      "lecture",
+      "empires"
+     ],
+     "title": "World history lecture 32: empires and trade"
+    },
+    "statistics": {
+     "likeCount": "103",
+     "viewCount": "2147"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT23M4S"
+    },
+    "id": "synlike0033",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC08efd9a4363f8a86628523",
+     "channelTitle": "Synthetic Channel 01",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about linear algebra.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-10-17T04:00:00Z",
+     "tags": [
+      "linear algebra",
+      "vectors",
+      "matrices",
+      "math"
+     ],
+     "title": "Linear algebra lesson 33: vectors and matrices"
+    },
+    "statistics": {
+     "likeCount": "106",
+     "viewCount": "2184"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT25M21S"
+    },
+    "id": "synlike0034",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "28",
+     "channelId": "UC602dcf4f46d365efed5bff",
+     "channelTitle": "Synthetic Channel 02",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about python programming.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-10-09T03:00:00Z",
+     "tags": [
+      "python",
+      "programming",
+      "tutorial",
+      "code"
+     ],
+     "title": "Python programming tutorial 34: functions and classes"
+    },
+    "statistics": {
+     "likeCount": "109",
+     "viewCount": "2221"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT27M38S"
+    },
+    "id": "synlike0035",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "10",
+     "channelId": "UCd9a577245e3e4afb52e9ee",
+     "channelTitle": "Synthetic Channel 03",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about classical piano.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-10-01T02:00:00Z",
+     "tags": [
+      "piano",
+      "classical",
+      "music",
+      "sonata"
+     ],
+     "title": "Classical piano performance 35: sonata in practice"
+    },
+    "statistics": {
+     "likeCount": "112",
+     "viewCount": "2258"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT29M55S"
+    },
+    "id": "synlike0036",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCf0bcb358ba25ab13b06ba0",
+     "channelTitle": "Synthetic Channel 04",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about world history.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-09-23T01:00:00Z",
+     "tags": [
+      "history",
+      "world",
+      "lecture",
+      "empires"
+     ],
+     "title": "World history lecture 36: empires and trade"
+    },
+    "statistics": {
+     "likeCount": "115",
+     "viewCount": "2295"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT32M12S"
+    },
+    "id": "synlike0037",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC3b06aa24ff9526f91bf59c",
+     "channelTitle": "Synthetic Channel 05",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about linear algebra.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-09-15T00:00:00Z",
+     "tags": [
+      "linear algebra",
+      "vectors",
+      "matrices",
+      "math"
+     ],
+     "title": "Linear algebra lesson 37: vectors and matrices"
+    },
+    "statistics": {
+     "likeCount": "118",
+     "viewCount": "2332"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT34M29S"
+    },
+    "id": "synlike0038",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "28",
+     "channelId": "UCe1dab602dcceeb4d6cb9cc",
+     "channelTitle": "Synthetic Channel 06",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about python programming.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-09-06T23:00:00Z",
+     "tags": [
+      "python",
+      "programming",
+      "tutorial",
+      "code"
+     ],
+     "title": "Python programming tutorial 38: functions and classes"
+    },
+    "statistics": {
+     "likeCount": "121",
+     "viewCount": "2369"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT36M46S"
+    },
+    "id": "synlike0039",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "10",
+     "channelId": "UC2c606cabd5cc88964fc8ad",
+     "channelTitle": "Synthetic Channel 07",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about classical piano.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-08-29T22:00:00Z",
+     "tags": [
+      "piano",
+      "classical",
+      "music",
+      "sonata"
+     ],
+     "title": "Classical piano performance 39: sonata in practice"
+    },
+    "statistics": {
+     "likeCount": "124",
+     "viewCount": "2406"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT39M3S"
+    },
+    "id": "synlike0040",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC55b5e012f346f1c4f2cd55",
+     "channelTitle": "Synthetic Channel 08",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about world history.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-08-21T21:00:00Z",
+     "tags": [
+      "history",
+      "world",
+      "lecture",
+      "empires"
+     ],
+     "title": "World history lecture 40: empires and trade"
+    },
+    "statistics": {
+     "likeCount": "127",
+     "viewCount": "2443"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT41M20S"
+    },
+    "id": "synlike0041",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC34c5024c95b65e5c56a310",
+     "channelTitle": "Synthetic Channel 09",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about linear algebra.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-08-13T20:00:00Z",
+     "tags": [
+      "linear algebra",
+      "vectors",
+      "matrices",
+      "math"
+     ],
+     "title": "Linear algebra lesson 41: vectors and matrices"
+    },
+    "statistics": {
+     "likeCount": "130",
+     "viewCount": "2480"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT43M37S"
+    },
+    "id": "synlike0042",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "28",
+     "channelId": "UC454f7cdf626541396dde9f",
+     "channelTitle": "Synthetic Channel 10",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about python programming.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-08-05T19:00:00Z",
+     "tags": [
+      "python",
+      "programming",
+      "tutorial",
+      "code"
+     ],
+     "title": "Python programming tutorial 42: functions and classes"
+    },
+    "statistics": {
+     "likeCount": "133",
+     "viewCount": "2517"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT45M54S"
+    },
+    "id": "synlike0043",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "10",
+     "channelId": "UC688ef416033e407fb1457d",
+     "channelTitle": "Synthetic Channel 11",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about classical piano.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-07-28T18:00:00Z",
+     "tags": [
+      "piano",
+      "classical",
+      "music",
+      "sonata"
+     ],
+     "title": "Classical piano performance 43: sonata in practice"
+    },
+    "statistics": {
+     "likeCount": "136",
+     "viewCount": "2554"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT48M11S"
+    },
+    "id": "synlike0044",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCd81e94c428e6cb1799f720",
+     "channelTitle": "Synthetic Channel 12",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about world history.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-07-20T17:00:00Z",
+     "tags": [
+      "history",
+      "world",
+      "lecture",
+      "empires"
+     ],
+     "title": "World history lecture 44: empires and trade"
+    },
+    "statistics": {
+     "likeCount": "139",
+     "viewCount": "2591"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT50M28S"
+    },
+    "id": "synlike0045",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCee4f809daebe29fbb53e03",
+     "channelTitle": "Synthetic Channel 13",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about linear algebra.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-07-12T16:00:00Z",
+     "tags": [
+      "linear algebra",
+      "vectors",
+      "matrices",
+      "math"
+     ],
+     "title": "Linear algebra lesson 45: vectors and matrices"
+    },
+    "statistics": {
+     "likeCount": "142",
+     "viewCount": "2628"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT52M45S"
+    },
+    "id": "synlike0046",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "28",
+     "channelId": "UC2f78193425ab93451e938e",
+     "channelTitle": "Synthetic Channel 14",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about python programming.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-07-04T15:00:00Z",
+     "tags": [
+      "python",
+      "programming",
+      "tutorial",
+      "code"
+     ],
+     "title": "Python programming tutorial 46: functions and classes"
+    },
+    "statistics": {
+     "likeCount": "145",
+     "viewCount": "2665"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT55M2S"
+    },
+    "id": "synlike0047",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "10",
+     "channelId": "UCca16a5c7ea46ca8ac89f5c",
+     "channelTitle": "Synthetic Channel 15",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about classical piano.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-06-26T14:00:00Z",
+     "tags": [
+      "piano",
+      "classical",
+      "music",
+      "sonata"
+     ],
+     "title": "Classical piano performance 47: sonata in practice"
+    },
+    "statistics": {
+     "likeCount": "148",
+     "viewCount": "2702"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT57M19S"
+    },
+    "id": "synlike0048",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCbcae267f476c0b2baf4afd",
+     "channelTitle": "Synthetic Channel 16",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about world history.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-06-18T13:00:00Z",
+     "tags": [
+      "history",
+      "world",
+      "lecture",
+      "empires"
+     ],
+     "title": "World history lecture 48: empires and trade"
+    },
+    "statistics": {
+     "likeCount": "151",
+     "viewCount": "2739"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT59M36S"
+    },
+    "id": "synlike0049",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC08efd9a4363f8a86628523",
+     "channelTitle": "Synthetic Channel 01",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about linear algebra.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-06-11T12:00:00Z",
+     "tags": [
+      "linear algebra",
+      "vectors",
+      "matrices",
+      "math"
+     ],
+     "title": "Linear algebra lesson 49: vectors and matrices"
+    },
+    "statistics": {
+     "likeCount": "154",
+     "viewCount": "2776"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   },
+   {
+    "contentDetails": {
+     "duration": "PT6M53S"
+    },
+    "id": "synlike0050",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "28",
+     "channelId": "UC602dcf4f46d365efed5bff",
+     "channelTitle": "Synthetic Channel 02",
+     "defaultAudioLanguage": "en",
+     "description": "Synthetic description about python programming.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-06-03T11:00:00Z",
+     "tags": [
+      "python",
+      "programming",
+      "tutorial",
+      "code"
+     ],
+     "title": "Python programming tutorial 50: functions and classes"
+    },
+    "statistics": {
+     "likeCount": "157",
+     "viewCount": "2813"
+    },
+    "status": {
+     "embeddable": true,
+     "privacyStatus": "public"
+    }
+   }
+  ],
+  "nextPageToken": "SYNTH_LIKED_P2"
+ }
+}

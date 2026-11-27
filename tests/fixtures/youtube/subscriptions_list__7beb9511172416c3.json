@@ -1,0 +1,123 @@
+{
+ "args": {
+  "maxResults": 50,
+  "mine": "true",
+  "pageToken": "SYNTH_SUBS_P2",
+  "part": "snippet"
+ },
+ "method": "subscriptions_list",
+ "response": {
+  "items": [
+   {
+    "kind": "youtube#subscription",
+    "snippet": {
+     "publishedAt": "2025-04-06T12:00:00Z",
+     "resourceId": {
+      "channelId": "UC93dee38f00d70bedcea8bc",
+      "kind": "youtube#channel"
+     },
+     "title": "Synthetic Subscription 51"
+    }
+   },
+   {
+    "kind": "youtube#subscription",
+    "snippet": {
+     "publishedAt": "2025-03-28T12:00:00Z",
+     "resourceId": {
+      "channelId": "UCf49047419781740585d79d",
+      "kind": "youtube#channel"
+     },
+     "title": "Synthetic Subscription 52"
+    }
+   },
+   {
+    "kind": "youtube#subscription",
+    "snippet": {
+     "publishedAt": "2025-03-19T12:00:00Z",
+     "resourceId": {
+      "channelId": "UCbf2ed2a3336df71fbc9be5",
+      "kind": "youtube#channel"
+     },
+     "title": "Synthetic Subscription 53"
+    }
+   },
+   {
+    "kind": "youtube#subscription",
+    "snippet": {
+     "publishedAt": "2025-03-10T12:00:00Z",
+     "resourceId": {
+      "channelId": "UC70ac68b4b09166b3cf66fc",
+      "kind": "youtube#channel"
+     },
+     "title": "Synthetic Subscription 54"
+    }
+   },
+   {
+    "kind": "youtube#subscription",
+    "snippet": {
+     "publishedAt": "2025-03-01T12:00:00Z",
+     "resourceId": {
+      "channelId": "UC39e61899cb60dd32bfac51",
+      "kind": "youtube#channel"
+     },
+     "title": "Synthetic Subscription 55"
+    }
+   },
+   {
+    "kind": "youtube#subscription",
+    "snippet": {
+     "publishedAt": "2025-02-20T12:00:00Z",
+     "resourceId": {
+      "channelId": "UCe962385ff445bceae632af",
+      "kind": "youtube#channel"
+     },
+     "title": "Synthetic Subscription 56"
+    }
+   },
+   {
+    "kind": "youtube#subscription",
+    "snippet": {
+     "publishedAt": "2025-02-11T12:00:00Z",
+     "resourceId": {
+      "channelId": "UC10041b8f76a6da5414b91f",
+      "kind": "youtube#channel"
+     },
+     "title": "Synthetic Subscription 57"
+    }
+   },
+   {
+    "kind": "youtube#subscription",
+    "snippet": {
+     "publishedAt": "2025-02-02T12:00:00Z",
+     "resourceId": {
+      "channelId": "UC22a0126b32d2e6fd1d369b",
+      "kind": "youtube#channel"
+     },
+     "title": "Synthetic Subscription 58"
+    }
+   },
+   {
+    "kind": "youtube#subscription",
+    "snippet": {
+     "publishedAt": "2025-01-24T12:00:00Z",
+     "resourceId": {
+      "channelId": "UCbf35e145b55fee6025d7e4",
+      "kind": "youtube#channel"
+     },
+     "title": "Synthetic Subscription 59"
+    }
+   },
+   {
+    "kind": "youtube#subscription",
+    "snippet": {
+     "publishedAt": "2025-01-15T12:00:00Z",
+     "resourceId": {
+      "channelId": "UCa491de4f5e0d4ab0cf28ef",
+      "kind": "youtube#channel"
+     },
+     "title": "Synthetic Subscription 60"
+    }
+   }
+  ]
+ }
+}

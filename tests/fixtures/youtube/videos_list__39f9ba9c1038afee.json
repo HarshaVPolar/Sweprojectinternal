@@ -1,0 +1,21 @@
+{
+ "args": {
+  "id": "errquota001",
+  "part": "snippet,contentDetails,statistics,status"
+ },
+ "method": "videos_list",
+ "response": {
+  "error": {
+   "code": 403,
+   "errors": [
+    {
+     "domain": "youtube.quota",
+     "message": "The request cannot be completed because you have exceeded your quota.",
+     "reason": "quotaExceeded"
+    }
+   ],
+   "message": "The request cannot be completed because you have exceeded your quota."
+  }
+ },
+ "status": 403
+}

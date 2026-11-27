@@ -1,0 +1,21 @@
+{
+ "args": {
+  "id": "errsignup01",
+  "part": "snippet,contentDetails,statistics,status"
+ },
+ "method": "videos_list",
+ "response": {
+  "error": {
+   "code": 403,
+   "errors": [
+    {
+     "domain": "youtube.quota",
+     "message": "The user has not completed registration on YouTube.",
+     "reason": "youtubeSignupRequired"
+    }
+   ],
+   "message": "The user has not completed registration on YouTube."
+  }
+ },
+ "status": 403
+}

@@ -1,0 +1,21 @@
+{
+ "args": {
+  "id": "errreauth01",
+  "part": "snippet,contentDetails,statistics,status"
+ },
+ "method": "videos_list",
+ "response": {
+  "error": {
+   "code": 401,
+   "errors": [
+    {
+     "domain": "youtube.quota",
+     "message": "Invalid Credentials",
+     "reason": "authError"
+    }
+   ],
+   "message": "Invalid Credentials"
+  }
+ },
+ "status": 401
+}

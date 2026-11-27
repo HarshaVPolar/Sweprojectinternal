@@ -1,0 +1,30 @@
+{
+ "args": {
+  "mine": "true",
+  "part": "snippet,contentDetails,statistics,brandingSettings,topicDetails"
+ },
+ "method": "channels_list",
+ "response": {
+  "items": [
+   {
+    "contentDetails": {
+     "relatedPlaylists": {
+      "uploads": "UU03ca50d051d04d49d911ef"
+     }
+    },
+    "id": "UC03ca50d051d04d49d911ef",
+    "kind": "youtube#channel",
+    "snippet": {
+     "description": "Synthetic account used for offline tests.",
+     "publishedAt": "2024-04-21T12:00:00Z",
+     "title": "Synthetic Learner"
+    },
+    "statistics": {
+     "hiddenSubscriberCount": false,
+     "subscriberCount": "5",
+     "videoCount": "0"
+    }
+   }
+  ]
+ }
+}

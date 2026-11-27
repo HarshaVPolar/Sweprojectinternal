@@ -1,0 +1,21 @@
+{
+ "args": {
+  "id": "errserver01",
+  "part": "snippet,contentDetails,statistics,status"
+ },
+ "method": "videos_list",
+ "response": {
+  "error": {
+   "code": 500,
+   "errors": [
+    {
+     "domain": "youtube.quota",
+     "message": "Backend Error",
+     "reason": "backendError"
+    }
+   ],
+   "message": "Backend Error"
+  }
+ },
+ "status": 500
+}
