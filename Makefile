@@ -23,8 +23,7 @@ mutate:
 	$(PYTHON) -m mutmut run
 
 local-check:
-	@echo "local-check is not implemented yet (build items B32, first version in Stage 2)"
-	@exit 1
+	$(PYTHON) scripts/local_check.py
 
 record:
 	$(PYTHON) scripts/record_fixtures.py --dry-run
