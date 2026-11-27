@@ -27,8 +27,7 @@ local-check:
 	@exit 1
 
 record:
-	@echo "record is not implemented yet (build item B06)"
-	@exit 1
+	$(PYTHON) scripts/record_fixtures.py --dry-run
 
 docs:
 	@echo "docs target is not implemented yet"

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "searches": [
+    {"q": "linear algebra", "type": "video", "max_results": 50},
+    {"q": "linear algebra course lecture", "type": "video", "max_results": 50},
+    {"q": "python programming tutorial", "type": "video", "max_results": 50}
+  ],
+  "channels": {
+    "handles": ["@3blue1brown", "@khanacademy", "@mitocw"],
+    "usernames": ["khanacademy"],
+    "custom_names": ["3blue1brown"],
+    "recent_uploads": 15
+  },
+  "categories_region": "US",
+  "max_units": 600
+}
