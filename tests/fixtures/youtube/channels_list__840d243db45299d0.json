@@ -1,0 +1,20 @@
+{
+ "args": {
+  "forUsername": "khanacademy",
+  "part": "id"
+ },
+ "method": "channels_list",
+ "response": {
+  "items": [
+   {
+    "id": "UC4a-Gbdw7vOaccHmFo40b9g",
+    "kind": "youtube#channel"
+   }
+  ],
+  "kind": "youtube#channelListResponse",
+  "pageInfo": {
+   "resultsPerPage": 5,
+   "totalResults": 1
+  }
+ }
+}

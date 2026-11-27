@@ -1,0 +1,2496 @@
+{
+ "args": {
+  "id": "0uimNNIuUyY,23LLB9mNJvc,2RDrcR7urdA,2_bqKTeg5n0,50r6TnV7Lys,5d1WM0o95Dg,6-wh6yvk6uc,6GuyMZ-cSzE,7UJ4CFRGd-U,80yIVH2aOy0,9Os0o3wzS_I,BVIoAILnZ4Q,C8hEa2qb46k,CPnzmhR8cJU,E_SKSsUIwpc,FJ8PVhNAnHM,FX4C-JpTFgY,GfWRxr1OBm4,Js05B8Z1ivE,KvQkRX1nIqQ,NeJ4K_ijqH8,Rep34MitL3s,Ro_MScTDfU4,S5tOMUCvPFA,UHKACm20iS0,Wghz6w0btxI,YYXdXT2l-Gg,YiqIkSHSmyc,Yj0rMy6MBMk,Z1Yd7upQsXY,_uQrJ0TkZlc,aYAaLUAvmjs,cdZnhQjJu4I,fWjsdhR3z3c,fr1f84rg4Nw,ggWYkes-n6E,j1K84DGx2cI,kqtD5dpn9C8,nluUYtejoIE,osEADxaIKIc,pQhVDRojC1U,pvMkV_NoskI,q2-pnQffZik,rSjt1E9WHaQ,rcziCrf08Vs,rfscVS0vtbw,t8pPdKYpowI,twCURhXuBp4,uOwzP0BnBqU,vF7eyJ2g3kU",
+  "part": "snippet,contentDetails,statistics,status"
+ },
+ "method": "videos_list",
+ "response": {
+  "items": [
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1H21M16S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "0uimNNIuUyY",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "MIT 18.642 Topics in Mathematics with Applications in Finance, Fall 2024\nInstructor: Peter Kempthorne\nView the complete course: https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024\nYouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP601Q2jo-J",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-12-03T15:44:46Z",
+     "tags": [
+      "18-642-topics-in-mathematics-with-applications-in-finance-fall-2024",
+      "arbitrage",
+      "contingent claims",
+      "eigenvalues",
+      "eigenvectors",
+      "linear algebra",
+      "markov chains",
+      "matrix decomposition",
+      "option pricing",
+      "portfolio management",
+      "short selling",
+      "stochastic matrices",
+      "vector algebra"
+     ],
+     "title": "Lecture 2: Linear Algebra"
+    },
+    "statistics": {
+     "commentCount": "25",
+     "favoriteCount": "0",
+     "likeCount": "769",
+     "viewCount": "76745"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": false,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "sd",
+     "dimension": "2d",
+     "duration": "PT53M17S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "23LLB9mNJvc",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "MIT 18.06 Linear Algebra, Spring 2005\nInstructor: Gilbert Strang\nView the complete course: http://ocw.mit.edu/18-06S05\nYouTube Playlist: https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8\n\n19. Determinant Formulas and Cofactors\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://oc",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2009-05-07T04:03:28Z",
+     "tags": [
+      "18-06-linear-algebra-spring-2010",
+      "18-06sc-linear-algebra-fall-2011"
+     ],
+     "title": "19. Determinant Formulas and Cofactors"
+    },
+    "statistics": {
+     "commentCount": "238",
+     "favoriteCount": "0",
+     "likeCount": "4696",
+     "viewCount": "423672"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT10M32S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "2RDrcR7urdA",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCr7lmzIk63PZnBw3bezl-Mg",
+     "channelTitle": "The Math Sorcerer",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "My Courses: https://www.freemathvids.com/ || I discuss the best way to learn linear algebra and give you some options. Do you have advice for people? If so, please leave a comment below.\nProof Writing Book: https://amzn.to/3PTCdlz\nAnton's Linear Algebra: https://amzn.to/48zsE2D\nAnother: https://amzn",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2023-10-07T00:18:48Z",
+     "tags": [
+      "linear algebra",
+      "best way",
+      "to learn",
+      "math"
+     ],
+     "title": "The Best Way To Learn Linear Algebra"
+    },
+    "statistics": {
+     "commentCount": "112",
+     "favoriteCount": "0",
+     "likeCount": "3442",
+     "viewCount": "119868"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT25S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "2_bqKTeg5n0",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+     "channelTitle": "Tech With Tim",
+     "defaultAudioLanguage": "en-CA",
+     "defaultLanguage": "en",
+     "description": "How would I learn Python from scratch in 2026 with no coding, no experience, and no degree? Not just the language, because in 2026 Python alone isn't enough. \n\nThe jobs that actually pay what you want need three things together: programming, data skills, and AI. That's the combination that makes Pyt",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-09-16T11:58:15Z",
+     "tags": [
+      "tech with tim"
+     ],
+     "title": "How I'd Learn Python From Scratch"
+    },
+    "statistics": {
+     "commentCount": "17",
+     "favoriteCount": "0",
+     "likeCount": "831",
+     "viewCount": "45931"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT21M54S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "50r6TnV7Lys",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC1FfoXAlTmo_jGtTG_bw3bA",
+     "channelTitle": "MathsCare TGT-PGT By Dr.Gajendra Purohit",
+     "defaultAudioLanguage": "en-IN",
+     "defaultLanguage": "en",
+     "description": "UP PGT Mathematics | Linear Algebra Complete PYQ Solution 2019, 2021 & 2026 | By Dr. Gajendra Purohit (GP Sir)\n\nStrengthen your UP PGT Mathematics exam preparation with this comprehensive Linear Algebra Previous Year Questions (PYQs) session by Dr. Gajendra Purohit (GP Sir).\n\nIn this lecture, we cov",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-27T06:32:03Z",
+     "tags": [
+      "UP PGT Mathematics",
+      "UP PGT Exam",
+      "UP PGT 2026",
+      "UP PGT Linear Algebra",
+      "Linear Algebra PYQ",
+      "UP PGT Mathematics PYQ",
+      "UP PGT Previous Year Questions",
+      "UP PGT 2019 Mathematics",
+      "UP PGT 2021 Mathematics",
+      "UP PGT 2026 Mathematics",
+      "Linear Algebra PYQ Solution",
+      "PGT Mathematics Preparation",
+      "UP PGT Maths",
+      "UP TGT PGT Mathematics",
+      "Linear Algebra Marathon",
+      "PGT Maths Previous Year Paper",
+      "Linear Algebra by GP Sir",
+      "Dr Gajendra Purohit",
+      "GP Sir",
+      "Maths Care"
+     ],
+     "title": "UP PGT Mathematics | Linear Algebra | Complete PYQ Solution 2019,21 & 26 | GP Sir"
+    },
+    "statistics": {
+     "commentCount": "8",
+     "favoriteCount": "0",
+     "likeCount": "94",
+     "viewCount": "2380"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1M37S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "5d1WM0o95Dg",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC_L1H8_un0JzTlCFRPsEqUg",
+     "channelTitle": "Gravity Assist",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "Why Is Linear Algebra So Weird?",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-09-16T19:37:17Z",
+     "title": "Why Is Linear Algebra So Weird?"
+    },
+    "statistics": {
+     "commentCount": "119",
+     "favoriteCount": "0",
+     "likeCount": "9597",
+     "viewCount": "267883"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "sd",
+     "dimension": "2d",
+     "duration": "PT47M57S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "6-wh6yvk6uc",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "MIT 18.06 Linear Algebra, Spring 2005\nInstructor: Gilbert Strang\nView the complete course: http://ocw.mit.edu/18-06S05\nYouTube Playlist: https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8\n\n12. Graphs, Networks, Incidence Matrices\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2009-05-07T03:19:59Z",
+     "tags": [
+      "18-06-linear-algebra-spring-2010",
+      "18-06sc-linear-algebra-fall-2011"
+     ],
+     "title": "12. Graphs, Networks, Incidence Matrices"
+    },
+    "statistics": {
+     "commentCount": "227",
+     "favoriteCount": "0",
+     "likeCount": "3941",
+     "viewCount": "449721"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT2H2M53S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "6GuyMZ-cSzE",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCh9nVJoWXmFb7sLApWGcLPQ",
+     "channelTitle": "codebasics",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "This Python mini-course is built by keeping in mind the use case of AI. Any AI aspirant who wants to learn AI using Python or want to build AI applications using Python will find this useful.\n\nCode link: https://resources.codebasics.io/kv98ik\n\nAI Engineering Cohort link: https://resources.codebasics",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-07-01T13:47:41Z",
+     "tags": [
+      "yt:cc=on"
+     ],
+     "title": "Python Tutorial for AI: Everything You Need in 2 Hours"
+    },
+    "statistics": {
+     "commentCount": "187",
+     "favoriteCount": "0",
+     "likeCount": "6232",
+     "viewCount": "386116"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT7M34S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "7UJ4CFRGd-U",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "MIT 18.06SC Linear Algebra, Fall 2011\nInstructor: Gilbert Strang, Sarah Hansen\nView the complete course: https://ocw.mit.edu/18-06SCF11\nYouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP63uMA4q8GaU6Eg5nzeOc8tx\n\nIn this video, Professor Gilbert Strang shares how he infuses linear alg",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2019-08-19T11:25:37Z",
+     "tags": [
+      "18-06-linear-algebra-spring-2010",
+      "18-06sc-linear-algebra-fall-2011"
+     ],
+     "title": "An Interview with Gilbert Strang on Teaching Linear Algebra"
+    },
+    "statistics": {
+     "commentCount": "543",
+     "favoriteCount": "0",
+     "likeCount": "19236",
+     "viewCount": "1774344"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT11S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "80yIVH2aOy0",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCMUuCs6Y1WzDpAKg_2W-3yA",
+     "channelTitle": "Monu institute ",
+     "defaultAudioLanguage": "hi",
+     "defaultLanguage": "en-IN",
+     "description": "python programming|python for beginners|python full course\n\n\ud83d\udc49@monuinstitute\npython tutorial, learn python, python basics, python projects, machine learning, coder, python zero to hero, python for data, coding with python, python concepts, computer programming, learning python, coding python, data sc",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-06-06T00:51:25Z",
+     "tags": [
+      "advanced python",
+      "beginner python",
+      "coder",
+      "coding for kids",
+      "coding python",
+      "coding with python",
+      "computer programming",
+      "computers",
+      "data analysis",
+      "data science python",
+      "how to learn python fast",
+      "learn python",
+      "learning python",
+      "machine learning",
+      "python basics",
+      "python coding",
+      "python concepts",
+      "python course",
+      "python for data",
+      "python for kids",
+      "python programming basics",
+      "python project ideas",
+      "python projects",
+      "python syllabus",
+      "python tutorial",
+      "python zero to hero",
+      "software engineer"
+     ],
+     "title": "python programming|python for beginners|python full course"
+    },
+    "statistics": {
+     "commentCount": "292",
+     "favoriteCount": "0",
+     "likeCount": "31974",
+     "viewCount": "2118406"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT21M48S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "9Os0o3wzS_I",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+     "channelTitle": "Corey Schafer",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "In this Python Beginner Tutorial, we will begin learning how to write functions. Functions are one of the most important things to learn in Python Programming and will take us to the next level. We will learn how to create/define functions, how to pass in arguments, and also how to return values. Le",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2017-05-17T19:00:01Z",
+     "tags": [
+      "Python",
+      "Python Functions",
+      "Python Function",
+      "def",
+      "Python def",
+      "Functional Programming",
+      "Python for Beginners",
+      "Absolute Beginners",
+      "Python for Absolute Beginners",
+      "Python Basics",
+      "Getting Started with Python",
+      "Python 3.6",
+      "Python 36",
+      "Python 3",
+      "python functions",
+      "python",
+      "functions in python",
+      "python tutorial",
+      "args",
+      "kwargs",
+      "python args",
+      "python kwargs",
+      "*args",
+      "**kwargs",
+      "python *args",
+      "python **kwargs"
+     ],
+     "title": "Python Tutorial for Beginners 8: Functions"
+    },
+    "statistics": {
+     "commentCount": "870",
+     "favoriteCount": "0",
+     "likeCount": "26782",
+     "viewCount": "1368376"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1M53S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "BVIoAILnZ4Q",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCwr-evhuzGZgDFrq_1pLt_A",
+     "channelTitle": "Error Makes Clever",
+     "defaultLanguage": "en",
+     "description": "Join our Live 4 Month Job-Ready BOOTCAMPS: \n \nFull Stack Development \u2013 Build web apps from scratch \nhttps://www.errormakesclever.com/fullstack-course?source=FSD_YT_Organic \n \nDevOps with AWS\u2013 Learn automation, CI/CD & cloud deployment \nhttps://www.errormakesclever.com/devops?source=Devops_YT_Organic",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2023-05-07T03:30:06Z",
+     "tags": [
+      "Python",
+      "Python tutorial in tamil",
+      "programming in tamil",
+      "programming playlist",
+      "programming for beginners",
+      "python for beginners in tamil",
+      "python tamil",
+      "learn python in tamil",
+      "programming in 30 days",
+      "python",
+      "Python developer",
+      "you can become a python developer",
+      "how to become a python developer",
+      "how to code",
+      "coding tamil",
+      "brototype coding",
+      "learn coding fully"
+     ],
+     "title": "#01 Python Programming Tutorial Series \ud83d\udcda| Introduction to Python \ud83e\uddd1\u200d\ud83d\udcbb| EMC ACADEMY \ud83d\udcaa"
+    },
+    "statistics": {
+     "commentCount": "430",
+     "favoriteCount": "0",
+     "likeCount": "25456",
+     "viewCount": "1136032"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT27M22S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "C8hEa2qb46k",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCdEov4L0bpJ_h6W3sJxkfUA",
+     "channelTitle": "Vizuara",
+     "defaultAudioLanguage": "en-IN",
+     "defaultLanguage": "en",
+     "description": "For enrolling in our minor visit this page: https://vizuara.ai/spit\n\n\"Foundations for Machine Learning: New Course Launch\"\n\n\nIn 2022, I graduated with a PhD in Mechanical Engineering from MIT. \n\n\nAlthough a big component of my research was purely hands-on experiments, my exposure to foundational gra",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2024-10-22T10:00:07Z",
+     "title": "Foundations for Machine Learning | Linear Algebra, Probability, Calculus, Optimization [Lecture 1]"
+    },
+    "statistics": {
+     "commentCount": "76",
+     "favoriteCount": "0",
+     "likeCount": "2001",
+     "viewCount": "121273"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT34S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "CPnzmhR8cJU",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCr7lmzIk63PZnBw3bezl-Mg",
+     "channelTitle": "The Math Sorcerer",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "Here is the legendary book: https://amzn.to/3ALXWDG\nUseful Math Supplies https://amzn.to/3Y5TGcv\nMy Recording Gear https://amzn.to/3BFvcxp\n(these are my affiliate links)\n\n***********Math, Physics, and Computer Science Books***********\nEpic Math Book List https://amzn.to/3F98vT1\nPre-algebra, Algebra,",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2023-05-02T08:55:28Z",
+     "tags": [
+      "math",
+      "algebra",
+      "abstract",
+      "legendary"
+     ],
+     "title": "Abstract Algebra Book with TONS of Content"
+    },
+    "statistics": {
+     "commentCount": "66",
+     "favoriteCount": "0",
+     "likeCount": "4785",
+     "viewCount": "86830"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1H14M10S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "E_SKSsUIwpc",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC9PoSJoftLvEnXT-PtQ5Wtw",
+     "channelTitle": "GATE Wallah",
+     "defaultAudioLanguage": "hi",
+     "defaultLanguage": "en-IN",
+     "description": "Linear Algebra is a fundamental subject that plays a crucial role in various fields of mathematics, engineering, and computer science. Join us as we bring you all the tricks, formulas, patterns, and techniques you need to master Linear Algebra in one video.\n\n\ud83d\udcf2 PW App/Website: https://physicswallah.o",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2023-07-12T01:55:21Z",
+     "tags": [
+      "linear algebra",
+      "linear algebra gate",
+      "gate",
+      "linear algebra for gate exam",
+      "linear equations",
+      "linear algebra tricks",
+      "gate linear algebra tricks",
+      "linear algebra engineering mathematics tricks",
+      "linear algebra formulas for gate",
+      "linear algebra in one video",
+      "linear algebra techniques",
+      "gate 2024",
+      "engineering mathematics",
+      "gate engineering mathematics",
+      "engineering mathematics for gate",
+      "engineering mathematics gate 2024",
+      "linear algebra engineering mathematics",
+      "gate wallah",
+      "pw gate"
+     ],
+     "title": "Linear Algebra - All Tricks, Formulas, Patterns, Techniques In One Video"
+    },
+    "statistics": {
+     "commentCount": "57",
+     "favoriteCount": "0",
+     "likeCount": "2703",
+     "viewCount": "126826"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT6S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "FJ8PVhNAnHM",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "22",
+     "channelId": "UCRF8MjNalAwG_DGiVd8yf1g",
+     "channelTitle": "Techpath with chetan",
+     "defaultLanguage": "en",
+     "description": "Welcome to Python Basics for Beginners! \ud83d\udc0d\n\nIn this video, we\u2019ll learn what Python is, understand its basic features, and explore why it is one of the most popular programming languages.\n\nThis beginner-friendly series is designed for students, freshers, and anyone who wants to start learning Python f",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-09-29T06:05:35Z",
+     "title": "What Is Python ! Python Basics for Beginners ! Learn Python"
+    },
+    "statistics": {
+     "commentCount": "6",
+     "favoriteCount": "0",
+     "likeCount": "836",
+     "viewCount": "160161"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "sd",
+     "dimension": "2d",
+     "duration": "PT46M49S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "FX4C-JpTFgY",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "MIT 18.06 Linear Algebra, Spring 2005\nInstructor: Gilbert Strang\nView the complete course: http://ocw.mit.edu/18-06S05\nYouTube Playlist: https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8\n\n3. Multiplication and Inverse Matrices\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://oc",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2009-05-07T04:09:45Z",
+     "tags": [
+      "18-06-linear-algebra-spring-2010",
+      "18-06sc-linear-algebra-fall-2011"
+     ],
+     "title": "3. Multiplication and Inverse Matrices"
+    },
+    "statistics": {
+     "commentCount": "903",
+     "favoriteCount": "0",
+     "likeCount": "17989",
+     "viewCount": "1987697"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT9S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "GfWRxr1OBm4",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCMUuCs6Y1WzDpAKg_2W-3yA",
+     "channelTitle": "Monu institute ",
+     "defaultAudioLanguage": "hi",
+     "defaultLanguage": "en-IN",
+     "description": "Python Basics: The Best Way to Learn Python Programming (2024)\n\ud83d\udc49@monuinstitute\n\nSome of you asked me about Python courses for further learning. I strongly recommend you not to buy any overpriced course. One of the most underrated resources in the journey of programmers is Udemy (This post is not spo",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2024-12-29T01:57:30Z",
+     "tags": [
+      "advanced python",
+      "code",
+      "coding",
+      "coding for beginners",
+      "data analysis",
+      "data analysis python",
+      "data science python",
+      "how to learn python",
+      "learn python",
+      "learn python from scratch",
+      "programming",
+      "programming skills",
+      "python automation",
+      "python automation projects",
+      "python basics",
+      "python course",
+      "python for beginners",
+      "python programming",
+      "python projects",
+      "python scripting",
+      "python scripts",
+      "python tips",
+      "python tricks",
+      "python tutorial",
+      "python tutorial for beginners",
+      "python tutorials"
+     ],
+     "title": "Python Basics: The Best Way to Learn Python Programming (2024)"
+    },
+    "statistics": {
+     "commentCount": "341",
+     "favoriteCount": "0",
+     "likeCount": "43407",
+     "viewCount": "3541078"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT19M39S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "Js05B8Z1ivE",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+     "channelTitle": "Tech With Tim",
+     "defaultAudioLanguage": "en-CA",
+     "defaultLanguage": "en",
+     "description": "Never written a line of code before? Start with this Python tutorial to learn the basics. To go deeper, check out the DataCamp courses below:\n\nDataCamp Python Programming Fundamentals track - https://datacamp.pxf.io/QYGQox\nDataCamp Associate Python Developer track - https://datacamp.pxf.io/PzADXN\nGe",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-07-26T13:00:10Z",
+     "tags": [
+      "tech with tim",
+      "Python tutorial for beginners",
+      "learn Python in 20 minutes",
+      "Python basics",
+      "Python for beginners",
+      "Python install tutorial",
+      "VS Code Python setup",
+      "Python variables",
+      "Python functions",
+      "Python lists",
+      "Python loops",
+      "Python conditionals",
+      "Python f strings",
+      "Python user input",
+      "Python hello world",
+      "learn Python fast",
+      "Python beginner project",
+      "Python tip calculator",
+      "Python 2026 beginner",
+      "learn to code Python",
+      "Python step by step"
+     ],
+     "title": "Python Tutorial for Beginners - Learn the basics in 20 Min"
+    },
+    "statistics": {
+     "commentCount": "92",
+     "favoriteCount": "0",
+     "likeCount": "2416",
+     "viewCount": "122006"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "sd",
+     "dimension": "2d",
+     "duration": "PT31M43S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "KvQkRX1nIqQ",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "Part III: Linear Algebra, Lecture 1: Vector Spaces\nInstructor: Herbert Gross\nView the complete course: http://ocw.mit.edu/RES18-008F11\n\nLicense: Creative Commons BY-NC-SA\nMore information at http://ocw.mit.edu/terms\nMore courses at http://ocw.mit.edu",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2012-03-29T20:16:38Z",
+     "tags": [
+      "axiomatic",
+      "res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011",
+      "structural definition",
+      "subspaces"
+     ],
+     "title": "Part III: Linear Algebra, Lec 1: Vector Spaces"
+    },
+    "statistics": {
+     "commentCount": "140",
+     "favoriteCount": "0",
+     "likeCount": "1593",
+     "viewCount": "154968"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT5S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "NeJ4K_ijqH8",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCz3pg8qn0kNVwsZFQrrDn5w",
+     "channelTitle": "Mathematics Hub",
+     "defaultAudioLanguage": "hi",
+     "defaultLanguage": "en-IN",
+     "description": "types of matrices",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-08-12T18:19:52Z",
+     "tags": [
+      "types of matrices"
+     ],
+     "title": "Types of matrices"
+    },
+    "statistics": {
+     "commentCount": "12",
+     "favoriteCount": "0",
+     "likeCount": "3620",
+     "viewCount": "478486"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1M23S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "Rep34MitL3s",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "22",
+     "channelId": "UCX_RBNuVKFY5jgZ8qUNQtTA",
+     "channelTitle": "JuicedItUp",
+     "defaultLanguage": "en",
+     "description": "",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-08-27T18:42:00Z",
+     "title": "Summarizing How HARD Every Linear Algebra and Differential Equations Topic Is"
+    },
+    "statistics": {
+     "commentCount": "195",
+     "favoriteCount": "0",
+     "likeCount": "18264",
+     "viewCount": "510376"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT30M42S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "Ro_MScTDfU4",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCuudpdbKmQWq2PPzYgVCWlA",
+     "channelTitle": "Indently",
+     "defaultAudioLanguage": "en-GB",
+     "defaultLanguage": "en-GB",
+     "description": "In this video I\u2019m going to be teaching you the core concepts that you need to know to get started with using Python. \n\n\u25b6 Become job-ready with Python:\nhttps://www.indently.io\n\n\u25b6 Follow me on Instagram:\nhttps://www.instagram.com/indentlyreels\n\n00:00 Learning Python made simple\n00:05 Intro\n00:18 Requi",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2024-11-18T14:00:24Z",
+     "tags": [
+      "pyton",
+      "pyhton",
+      "pythn"
+     ],
+     "title": "Learn Python in Only 30 Minutes (Beginner Tutorial)"
+    },
+    "statistics": {
+     "commentCount": "723",
+     "favoriteCount": "0",
+     "likeCount": "36591",
+     "viewCount": "1496288"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT13M37S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "S5tOMUCvPFA",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+     "channelTitle": "Tech With Tim",
+     "defaultAudioLanguage": "en-CA",
+     "defaultLanguage": "en",
+     "description": "\ud83c\udf93 The best beginner-friendly Python resources I recommend:\n\ud83d\udd39 Python Programming Fundamentals Track (Datacamp) - https://datacamp.pxf.io/KBXX19\n\ud83d\udd39 Associate Python Developer Track (To get job ready) - https://datacamp.pxf.io/m4EEA1\n\ud83d\udd25 Get 25% OFF Datacamp with my exclusive link - https://datacamp.pxf.i",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-05-23T13:00:36Z",
+     "tags": [
+      "tech with tim",
+      "learn Python fast",
+      "Python for beginners",
+      "Python tutorial 2026",
+      "how to learn Python",
+      "Python roadmap",
+      "Python programming guide",
+      "Python OOP tutorial",
+      "Python projects for beginners",
+      "Python data science",
+      "Python web development",
+      "FastAPI tutorial",
+      "Django tutorial",
+      "Python automation",
+      "learn to code fast",
+      "Python fundamentals",
+      "best way to learn Python",
+      "Python career",
+      "Python AI development",
+      "Python github projects",
+      "programming for beginners"
+     ],
+     "title": "How I would learn Python programming FAST (If I could start over)"
+    },
+    "statistics": {
+     "commentCount": "80",
+     "favoriteCount": "0",
+     "likeCount": "3198",
+     "viewCount": "104432"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT12M14S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "UHKACm20iS0",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCGoLw0tC_QAXy0b4KCoxYZw",
+     "channelTitle": "code io - Tamil",
+     "defaultAudioLanguage": "ta",
+     "defaultLanguage": "en",
+     "description": "Python for Beginners in Tamil\nBasics, Compilers vs Interpreters , print \ncode io\n\nFollow us in Instagram for more updates\nhttps://www.instagram.com/code.i.o/\n\nHash Tags\n#Python\u200b\u200b #Python\u200b-Beginners\u200b #python\u200b-tamil\u200b\u200b #tamil\u200b\u200b #programming\u200b\u200b",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2021-05-12T04:48:52Z",
+     "tags": [
+      "python",
+      "python tutorial",
+      "python for beginners",
+      "python in tamil",
+      "tamil",
+      "programming",
+      "tamil programming",
+      "hacker rank",
+      "problem solving",
+      "tamil python",
+      "interview preparation",
+      "coding",
+      "coding made fun",
+      "fun coding",
+      "tamil coding"
+     ],
+     "title": "Python for Beginners | Ep - 01 | Basics - Print | Interpreter vs Compiler | Tamil | code io"
+    },
+    "statistics": {
+     "commentCount": "397",
+     "favoriteCount": "0",
+     "likeCount": "11933",
+     "viewCount": "557512"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT13S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "Wghz6w0btxI",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCMUuCs6Y1WzDpAKg_2W-3yA",
+     "channelTitle": "Monu institute ",
+     "defaultAudioLanguage": "hi",
+     "defaultLanguage": "en-IN",
+     "description": "Python Programming - A Full Course for Beginners (Learn Python in 2025!)\n\n@monuinstitute\nSome of you asked me about Python courses for further learning. I strongly recommend you not to buy any overpriced course. One of the most underrated resources in the journey of programmers is Udemy (This post i",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-08-12T01:15:53Z",
+     "tags": [
+      "beginner python",
+      "code",
+      "coding in python",
+      "coding python",
+      "coding tutorials",
+      "learn python",
+      "programming basics",
+      "programming course",
+      "python 3",
+      "python basics",
+      "python code",
+      "python coding",
+      "python course",
+      "python course for beginners",
+      "python exercises",
+      "python for all",
+      "python for beginners",
+      "python for data",
+      "python for data science",
+      "python from scratch",
+      "python full course",
+      "python language",
+      "python programming tutorial",
+      "python projects",
+      "python tutorial",
+      "tech with tim",
+      "what is python"
+     ],
+     "title": "Python Programming - A Full Course for Beginners (Learn Python in 2025!)"
+    },
+    "statistics": {
+     "commentCount": "39",
+     "favoriteCount": "0",
+     "likeCount": "4083",
+     "viewCount": "524061"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT15M29S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "YYXdXT2l-Gg",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+     "channelTitle": "Corey Schafer",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "In this Python Beginner Tutorial, we will start with the basics of how to install and setup Python for Mac and Windows. We will also take a look at the interactive prompt, as well as creating and running our first script. Let's get started.\n\nMac Install: 1:25\nWindows Install: 5:44\nInstalls Complete:",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2017-05-17T15:30:00Z",
+     "tags": [
+      "python tutorial",
+      "python",
+      "python (programming language)",
+      "python programming tutorial",
+      "python for beginners",
+      "python for absolute beginners",
+      "python basics",
+      "install python",
+      "python install",
+      "python beginner tutorial",
+      "python setup",
+      "setup python",
+      "python windows",
+      "python windows install",
+      "python mac",
+      "python mac install",
+      "python os x",
+      "getting started with python",
+      "python 3.6",
+      "python 3",
+      "python 36",
+      "python tutorial for beginners",
+      "programming",
+      "corey schafer",
+      "corey schafer python"
+     ],
+     "title": "Python Tutorial for Beginners 1: Install and Setup for Mac and Windows"
+    },
+    "statistics": {
+     "commentCount": "1526",
+     "favoriteCount": "0",
+     "likeCount": "51381",
+     "viewCount": "4449481"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT52M15S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "YiqIkSHSmyc",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018\nInstructor: Gilbert Strang\nView the complete course: https://ocw.mit.edu/18-065S18\nYouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k\n\nIn this first lecture, Profe",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2019-05-16T16:12:09Z",
+     "tags": [
+      "18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018",
+      "column rank",
+      "column space",
+      "linear algebra",
+      "matrix-vector multiplication",
+      "row rank"
+     ],
+     "title": "Lecture 1: The Column Space of A Contains All Vectors Ax"
+    },
+    "statistics": {
+     "commentCount": "299",
+     "favoriteCount": "0",
+     "likeCount": "6834",
+     "viewCount": "388431"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT47M50S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "Yj0rMy6MBMk",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCLnGGRG__uGSPLBLzyhg8dQ",
+     "channelTitle": "Oxford Mathematics",
+     "defaultAudioLanguage": "en-GB",
+     "defaultLanguage": "en",
+     "description": "In this lecture, the second in the first year Linear Algebra 1 course, Andy Wathen address how to add, scale and, crucially, how to multiply matrices.\n\nYou can watch many other student lectures via our main Student Lectures playlist (also check out specific student lectures playlists): https://www.y",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2023-12-28T10:51:14Z",
+     "tags": [
+      "maths",
+      "math",
+      "Linear algebra",
+      "Matrices",
+      "Oxford University"
+     ],
+     "title": "Linear Algebra 1: Matrix algebra - Oxford Mathematics 1st Year Student Lecture"
+    },
+    "statistics": {
+     "commentCount": "19",
+     "favoriteCount": "0",
+     "likeCount": "546",
+     "viewCount": "26849"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT24M38S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "Z1Yd7upQsXY",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCxX9wt5FWQUAAz4UrysqK9A",
+     "channelTitle": "CS Dojo",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "Learn Python programming with this Python tutorial for beginners!\n\nTips:\n1. Here is the playlist of this series: https://goo.gl/eVauVX\n2. If you want to learn faster than I talk, I\u2019d recommend 1.25x or 1.5x speed :)\n3. Check the outline in the comment section below if you want to skip around.\n4. Dow",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2017-12-26T14:57:53Z",
+     "tags": [
+      "python",
+      "python tutorial",
+      "programming",
+      "coding",
+      "coding tutorial for beginners",
+      "programming tutorial for beginners",
+      "javascript tutorial for beginners",
+      "java tutorial for beginners",
+      "C++ tutorial for beginners",
+      "python variables"
+     ],
+     "title": "Python Tutorial for Absolute Beginners #1 - What Are Variables?"
+    },
+    "statistics": {
+     "commentCount": "8566",
+     "favoriteCount": "0",
+     "likeCount": "205102",
+     "viewCount": "9536444"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT6H14M7S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "_uQrJ0TkZlc",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+     "channelTitle": "Programming with Mosh",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "Learn Python for AI, machine learning, and web development with this beginner-friendly course! \ud83d\ude80 Get 6 months of PyCharm FREE with the coupon in the description!\n\n\ud83d\ude80 Want to dive deeper?\n- Check out my Python mastery course: https://mosh.link/python-course\n- Subscribe for more awesome Python content:",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2019-02-18T15:00:08Z",
+     "tags": [
+      "python tutorial",
+      "python",
+      "python for beginners",
+      "python tutorial for beginners",
+      "learn python",
+      "python crash course",
+      "python 2019",
+      "python tutorial for beginners full",
+      "python (programming language)",
+      "python basics",
+      "python course",
+      "python from scratch",
+      "python full course",
+      "python language",
+      "python programming",
+      "python programming language",
+      "python programming tutorial",
+      "getting started with python",
+      "learn python programming",
+      "web development",
+      "mosh hamedani",
+      "machine learning",
+      "python 2020"
+     ],
+     "title": "Python Full Course for Beginners"
+    },
+    "statistics": {
+     "commentCount": "63054",
+     "favoriteCount": "0",
+     "likeCount": "1275694",
+     "viewCount": "49713973"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": false,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT26S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "aYAaLUAvmjs",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "22",
+     "channelId": "UCHjCBgtnoq0Rg7JCIafDM4A",
+     "channelTitle": "Xplore ",
+     "defaultLanguage": "en",
+     "description": "",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-04-02T14:11:43Z",
+     "title": "Legend \ud83d\udd25This is  experience \ud83d\ude4f last lecture by Professor Gilbert strang \ud83d\udc9d #mit #experience #edit"
+    },
+    "statistics": {
+     "commentCount": "1302",
+     "favoriteCount": "0",
+     "likeCount": "335743",
+     "viewCount": "17121866"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "sd",
+     "dimension": "2d",
+     "duration": "PT51M23S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "cdZnhQjJu4I",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "MIT 18.06 Linear Algebra, Spring 2005\nInstructor: Gilbert Strang\nView the complete course: http://ocw.mit.edu/18-06S05\nYouTube Playlist: https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8\n\n21. Eigenvalues and Eigenvectors\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2019-09-24T20:20:31Z",
+     "tags": [
+      "18-06-linear-algebra-spring-2010",
+      "18-06sc-linear-algebra-fall-2011"
+     ],
+     "title": "21. Eigenvalues and Eigenvectors"
+    },
+    "statistics": {
+     "commentCount": "345",
+     "favoriteCount": "0",
+     "likeCount": "12163",
+     "viewCount": "838966"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT10M30S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "fWjsdhR3z3c",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCuudpdbKmQWq2PPzYgVCWlA",
+     "channelTitle": "Indently",
+     "defaultAudioLanguage": "en-GB",
+     "defaultLanguage": "en-GB",
+     "description": "In this crash course I'll be teaching you the basics of Python in less than 10 minutes. Python is super easy to learn compared to the other languages!\n\nDownload Python: https://www.python.org/\nDownload PyCharm: https://www.jetbrains.com/pycharm/download/",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2021-05-26T12:32:40Z",
+     "tags": [
+      "code palace",
+      "cde palace",
+      "code palce",
+      "palace code"
+     ],
+     "title": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy)"
+    },
+    "statistics": {
+     "commentCount": "1016",
+     "favoriteCount": "0",
+     "likeCount": "40082",
+     "viewCount": "1977554"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT17M37S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "fr1f84rg4Nw",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCeVMnSShP_Iviwkknt83cww",
+     "channelTitle": "CodeWithHarry",
+     "defaultAudioLanguage": "hi",
+     "defaultLanguage": "en",
+     "description": "Python Udemy Course: https://goharry.in/python\nGet this course at 90% Discount if you use this link\n\nSource Code - https://archive.codewithharry.com/videos/learn-python-in-one-video-in-15-min-hindi\n\u25baClick here to subscribe - https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww\n\n\nBest Hindi Video",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2018-10-11T14:26:32Z",
+     "tags": [
+      "python tutorial hindi",
+      "python in hindi",
+      "learn python hindi",
+      "python tutorial in hindi",
+      "python tutorial in hindi by saurabh shukla",
+      "python tutorials for beginners in hindi",
+      "python tutorial for beginners in hindi",
+      "learn python fast",
+      "python hindi lectures",
+      "python hindi course",
+      "python hindi crash course",
+      "15 Minute Python Tutorial",
+      "python course hindi",
+      "python complete hindi",
+      "python hindi complete",
+      "complete python tutorial in hindi",
+      "complete python programming in hindi"
+     ],
+     "title": "15 Minute Python Tutorial For Beginners In Hindi (Full & Complete Python Crash Course)"
+    },
+    "statistics": {
+     "commentCount": "2237",
+     "favoriteCount": "0",
+     "likeCount": "74975",
+     "viewCount": "2574157"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT15M57S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "ggWYkes-n6E",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "MIT RES.18-009 Learn Differential Equations: Up Close with Gilbert Strang and Cleve Moler, Fall 2015\nView the complete course: http://ocw.mit.edu/RES-18-009F15\nInstructor: Gilbert Strang\n\nA matrix produces four subspaces: column space, row space (same dimension), the space of vectors perpendicular t",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2016-05-06T20:08:33Z",
+     "tags": [
+      "column space",
+      "linear algebra",
+      "res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015",
+      "row spaces",
+      "subspace",
+      "vector space",
+      "vector subspace"
+     ],
+     "title": "The Big Picture of Linear Algebra"
+    },
+    "statistics": {
+     "commentCount": "497",
+     "favoriteCount": "0",
+     "likeCount": "21844",
+     "viewCount": "1119146"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": false,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT6H27M55S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "j1K84DGx2cI",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "28",
+     "channelId": "UCyFWoLmPTgZ3BkHIKMRSV1g",
+     "channelTitle": "Nerd's lesson",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "What you'll learn\n\u2713Operations on one matrix, including solving linear systems, and Gauss-Jordan elimination\n\u2713Matrices as vectors, including linear combinations and span, linear independence, and subspaces\n\u2713Matrix-vector products, including the null and column spaces, and solving Ax=b\n\u2713Inverses, incl",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2021-02-08T13:28:14Z",
+     "tags": [
+      "linear algebra full course",
+      "linear algebra course",
+      "linear algebra for machine learning",
+      "linear algebra basics",
+      "linear algebra beginners",
+      "linear algebra bsc 2nd year",
+      "linear algebra crash course",
+      "linear algebra computer science",
+      "linear algebra for data science",
+      "linear algebra for beginners",
+      "linear algebra for computer science"
+     ],
+     "title": "Linear Algebra Full Course | Linear Algebra for beginners"
+    },
+    "statistics": {
+     "commentCount": "66",
+     "favoriteCount": "0",
+     "likeCount": "2168",
+     "viewCount": "83753"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1H6S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "kqtD5dpn9C8",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+     "channelTitle": "Programming with Mosh",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "Learn Python basics in just 1 hour! Perfect for beginners interested in AI and coding. \u26a1 Plus, get 6 months of PyCharm FREE with the coupon in the description!\n\n\ud83d\ude80 Want to dive deeper? Check out my Complete Python Mastery course: \n- Full course: https://mosh.link/python-course\n- Subscribe for more Py",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2020-09-16T13:00:20Z",
+     "tags": [
+      "code with mosh",
+      "introduction to python",
+      "learn python",
+      "learn python programming",
+      "mosh hamedani",
+      "programming",
+      "programming with mosh",
+      "python",
+      "python 2020",
+      "python 3",
+      "python basics",
+      "python course",
+      "python crash course",
+      "python for beginners",
+      "python from scratch",
+      "python programming",
+      "python tutorial",
+      "python tutorial for beginners",
+      "web development"
+     ],
+     "title": "Python for Beginners - Learn Coding with Python in 1 Hour"
+    },
+    "statistics": {
+     "commentCount": "29041",
+     "favoriteCount": "0",
+     "likeCount": "576123",
+     "viewCount": "26050282"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": false,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT25S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "nluUYtejoIE",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "28",
+     "channelId": "UCAy1PN6jrZXrGFg79WP_91A",
+     "channelTitle": "The Programmers Realm",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "In this quick tutorial, I\u2019ll show you how to write your very first line of Python code: the classic \"Hello, World!\" \ud83c\udf0d\u2728\n\nWhether you're a total beginner or brushing up on your basics, this video will get you started in under a minute. \ud83d\ude80\n\n\n\nDon't forget to like, subscribe, and leave a comment on what ",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2024-06-21T07:55:33Z",
+     "tags": [
+      "python",
+      "programming",
+      "helloworld",
+      "pythontutorial",
+      "learntocode",
+      "codingforbeginners",
+      "theprogrammersrealm"
+     ],
+     "title": "Python Basics: Your FIRST Program in Under a Minute! \ud83d\ude80"
+    },
+    "statistics": {
+     "commentCount": "168",
+     "favoriteCount": "0",
+     "likeCount": "23130",
+     "viewCount": "1843770"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT2M14S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "osEADxaIKIc",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "28",
+     "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+     "channelTitle": "Lex Fridman",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "Full episode with Gilbert Strang (Nov 2019): https://www.youtube.com/watch?v=lEZPfmGCEk0\nNew clips channel (Lex Clips): https://www.youtube.com/lexclips\nOnce it reaches 20,000 subscribers, I'll start posting the clips there instead. \n(more links below)\n\nFor now, new full episodes are released once o",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2019-11-27T01:20:00Z",
+     "tags": [
+      "calculus",
+      "linear algebra",
+      "mit ocw",
+      "mit",
+      "mit opencourseware",
+      "introduction to linear algebra",
+      "gilbert strang",
+      "artificial intelligence",
+      "ai",
+      "ai podcast",
+      "artificial intelligence podcast",
+      "lex clips",
+      "lex fridman",
+      "lex podcast",
+      "lex mit",
+      "lex ai",
+      "mit ai",
+      "ai podcast clips",
+      "ai clips"
+     ],
+     "title": "Gilbert Strang: Linear Algebra vs Calculus"
+    },
+    "statistics": {
+     "commentCount": "489",
+     "favoriteCount": "0",
+     "likeCount": "16862",
+     "viewCount": "685435"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT53M55S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "pQhVDRojC1U",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "28",
+     "channelId": "UCLnGGRG__uGSPLBLzyhg8dQ",
+     "channelTitle": "Oxford Mathematics",
+     "defaultAudioLanguage": "en-GB",
+     "defaultLanguage": "en",
+     "description": "Our latest student lecture features the first lecture in the second term  (1st Year) introductory course on Linear Algebra from leading Oxford Mathematician James Maynard. \n\nWe are making these lectures available to give an insight in to the student experience and how we teach. All first and second ",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2020-01-30T10:10:10Z",
+     "tags": [
+      "Oxford Mathematics",
+      "Student Lecture",
+      "Oxford Mathematics Student Lecture",
+      "Student Lecture Linear Algebra",
+      "Linear Algebra",
+      "James Maynard",
+      "University of Oxford"
+     ],
+     "title": "Linear Algebra II: Oxford Mathematics 1st Year Student Lecture - James Maynard"
+    },
+    "statistics": {
+     "commentCount": "2370",
+     "favoriteCount": "0",
+     "likeCount": "33841",
+     "viewCount": "2829628"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT2H10M12S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "pvMkV_NoskI",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCY47Bv-7rvfz4JTdW5173Hw",
+     "channelTitle": "Unfold AI with Ajay",
+     "defaultAudioLanguage": "hi",
+     "defaultLanguage": "en",
+     "description": "Linear Algebra Full Course in Hindi - Machine Learning by Digital Daru\ud83c\udf7a \n\nLinear algebra\u00a0is a sub-field of mathematics concerned with vectors,\u00a0matrices, and linear transforms.\n\nIt is a key foundation to the field of machine learning, from notations used to describe the operation of algorithms to the",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2021-01-01T03:09:29Z",
+     "tags": [
+      "linear algebra for machine learning in hindi",
+      "machine learning mathematics in hindi",
+      "linear algebra for machine learning course",
+      "#mathematicsformachinelearning",
+      "linear algebra for machine learning hindi",
+      "digital daru",
+      "digitaldaru",
+      "linear algebra full course in hindi",
+      "linear algebra for machine learning",
+      "linear algebra for data science",
+      "linear algebra crash course for machine learning"
+     ],
+     "title": "Linear Algebra Full Course in Hindi - Machine Learning by Digital Daru\ud83c\udf7a"
+    },
+    "statistics": {
+     "commentCount": "219",
+     "favoriteCount": "0",
+     "likeCount": "4285",
+     "viewCount": "161362"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT22S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "q2-pnQffZik",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC7zZ2-Q_oxbUaoMVL0z51wg",
+     "channelTitle": "Sajjaad Khader",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "Learn Python for FREE in 2025 #coding #compsci #python #fyp \n\n\nSource: TikTok (individualkex)",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2024-12-31T02:30:33Z",
+     "title": "Learn Python for FREE in 2025"
+    },
+    "statistics": {
+     "commentCount": "245",
+     "favoriteCount": "0",
+     "likeCount": "33827",
+     "viewCount": "1492821"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT6H5M12S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "rSjt1E9WHaQ",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+     "channelTitle": "freeCodeCamp.org",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "Learn linear algebra in this course for beginners. This course covers the linear algebra skills needed for data science, machine learning, and AI, with a focus on practical applications and real-world examples.\n\n\u270f\ufe0f Course developed by @LunarTech_ai \n\nLearn more linear algebra with this 25+ hour cour",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2024-05-27T18:12:09Z",
+     "title": "Linear Algebra Course \u2013 Mathematics for Machine Learning and Generative AI"
+    },
+    "statistics": {
+     "commentCount": "228",
+     "favoriteCount": "0",
+     "likeCount": "10479",
+     "viewCount": "393322"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT41M25S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "rcziCrf08Vs",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCfH0JZ7wVrJBeVUZl6vkvgw",
+     "channelTitle": "Math at Andrews University",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "Recorded Monday, January 10.\n\nA second course in linear algebra covering vector spaces and matrix decompositions taught by Dr. Anthony Bosman.\n\nFull Course:\nhttps://www.youtube.com/playlist?list=PLOROtRhtegr4HyXIIHKHketOm2k3JWSpK\n\nThe lectures closely follow 'Advanced Linear and Matrix Algebra' by J",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2022-01-18T03:39:02Z",
+     "tags": [
+      "linear algebra",
+      "matrix algebra",
+      "vector space",
+      "subspace",
+      "polynomials"
+     ],
+     "title": "Advanced Linear Algebra 1: Vector Spaces & Subspaces"
+    },
+    "statistics": {
+     "commentCount": "38",
+     "favoriteCount": "0",
+     "likeCount": "1177",
+     "viewCount": "69195"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT4H26M52S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "rfscVS0vtbw",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+     "channelTitle": "freeCodeCamp.org",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "This course will give you a full introduction into all of the core concepts in python. Follow along with the videos and you'll be a python programmer in no time!\n\nClick the \u2699\ufe0f to change to a dub track in Spanish, Arabic, or Portuguese, or Hindi. \n(Hindi dubbed via Melt Labs - https://www.withmelt.co",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2018-07-11T18:00:42Z",
+     "tags": [
+      "python",
+      "python tutorial",
+      "python language",
+      "python full course",
+      "python course",
+      "learn python",
+      "learn python programming",
+      "python tutorial for beginners",
+      "python tutorial 2018",
+      "python programming tutorial",
+      "python programming language",
+      "software development",
+      "programming tutorial",
+      "freecodecamp"
+     ],
+     "title": "Learn Python - Full Course for Beginners [Tutorial]"
+    },
+    "statistics": {
+     "commentCount": "46069",
+     "favoriteCount": "0",
+     "likeCount": "1123987",
+     "viewCount": "49640690"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT5H31M30S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "t8pPdKYpowI",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+     "channelTitle": "TechWorld with Nana",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "\u25ba  Grab your free IT Fundamentals Roadmap: https://bit.ly/3GV5Noy\n\n\ud83d\udc9a Hands-On course to learn the complete SDLC - from code to deployment: https://bit.ly/43gOF3f\n\nPython Tutorial for Beginners | Full Python Course | Learn Python\n\nIn this complete Python course you will learn everything you need to g",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2021-03-05T14:10:17Z",
+     "tags": [
+      "python",
+      "python tutorial",
+      "python tutorial for beginners",
+      "python for beginners",
+      "python course",
+      "python crash course",
+      "python full course",
+      "python automation",
+      "learn python",
+      "python programming",
+      "learn programming",
+      "programming for beginners",
+      "learn python from scratch",
+      "learn python programming for beginners",
+      "python course for beginners",
+      "freecodecamp python",
+      "techworld with nana",
+      "python zero to hero",
+      "python basics",
+      "python complete course",
+      "getting started with python"
+     ],
+     "title": "Python Tutorial for Beginners - Learn Python in 5 Hours [FULL COURSE]"
+    },
+    "statistics": {
+     "commentCount": "4183",
+     "favoriteCount": "0",
+     "likeCount": "171526",
+     "viewCount": "6946976"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT12S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "twCURhXuBp4",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCMUuCs6Y1WzDpAKg_2W-3yA",
+     "channelTitle": "Monu institute ",
+     "defaultAudioLanguage": "hi",
+     "defaultLanguage": "en-IN",
+     "description": "python full course in hindi \ud83d\udc0d python full course in playlist\n\n@monuinstitute\nPython is one of the world's most popular and versatile programming languages, and for good reason. With its user-friendly syntax and powerful capabilities, Python is an excellent language for beginners and experienced prog",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-09-07T02:04:39Z",
+     "tags": [
+      "c++",
+      "coding career",
+      "coding in hindi",
+      "coding in vscode",
+      "data science",
+      "data scientist",
+      "frontend",
+      "full python course",
+      "hindi programming",
+      "learn python",
+      "programming for beginners",
+      "programming tutorial",
+      "programming with mosh",
+      "python basics",
+      "python coding",
+      "python course",
+      "python for beginners",
+      "python for data",
+      "python for everybody",
+      "python hindi",
+      "python playlist",
+      "python programming",
+      "python roadmap",
+      "python scripting",
+      "python tutorial",
+      "shorts",
+      "tech with tim python",
+      "vscode python"
+     ],
+     "title": "python full course in hindi \ud83d\udc0d python full course in playlist"
+    },
+    "statistics": {
+     "commentCount": "61",
+     "favoriteCount": "0",
+     "likeCount": "9459",
+     "viewCount": "1037620"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT6S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "uOwzP0BnBqU",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "22",
+     "channelId": "UCrXcoOfYN6Rg_LgDXC5vswg",
+     "channelTitle": "Code with fazi",
+     "defaultLanguage": "en",
+     "description": "\ud83d\udc0d Start your Python journey with the basics.\n\nSimple and beginner-friendly Python concepts to help you build a strong foundation in programming. \ud83d\udcbb\ud83d\udcda\n\nSave this video for your future revision and keep learning, one step at a time.\n\n#Python #PythonForBeginners #LearnPython #Programming #Coding #CodingF",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-10-01T16:57:23Z",
+     "title": "Python for Beginners \ud83d\udc0d | Learn Python Basics Step by Step | Beginner-Friendly Tutorial"
+    },
+    "statistics": {
+     "commentCount": "3",
+     "favoriteCount": "0",
+     "likeCount": "516",
+     "viewCount": "69721"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "sd",
+     "dimension": "2d",
+     "duration": "PT50M40S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "vF7eyJ2g3kU",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "MIT 18.06 Linear Algebra, Spring 2005\nInstructor: Gilbert Strang\nView the complete course: http://ocw.mit.edu/18-06S05\nYouTube Playlist: https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8\n\n27. Positive Definite Matrices and Minima\n\nLicense: Creative Commons BY-NC-SA\nMore information at https:/",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2009-05-07T04:25:49Z",
+     "tags": [
+      "18-06-linear-algebra-spring-2010",
+      "18-06sc-linear-algebra-fall-2011"
+     ],
+     "title": "27. Positive Definite Matrices and Minima"
+    },
+    "statistics": {
+     "commentCount": "163",
+     "favoriteCount": "0",
+     "likeCount": "2587",
+     "viewCount": "294214"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   }
+  ],
+  "kind": "youtube#videoListResponse",
+  "pageInfo": {
+   "resultsPerPage": 50,
+   "totalResults": 50
+  }
+ }
+}

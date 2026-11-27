@@ -1,0 +1,2261 @@
+{
+ "args": {
+  "id": "-1Znu3emVIs,-KKxtHwxKhE,4sCaMWAgPO8,5oZ84mlt7tM,8yYR4sc5Sy8,BAqBMEMrKQo,E8YQPBHLUrY,Ezefs1g59ns,FB11EeUc4O0,HItonQ_FekE,HhiteGViCOk,Ip3X9LOh2dk,J7DzL2_Na80,JnTa9XtvmfI,KQ_HqtEQF1w,KgSpRiH0MhY,LHsPJ2bQX1U,LyGKycYT2v0,MDss_MiVUL0,MieZJ0bxv7k,P2LTAUO1TdA,PBCqn3WG9Dk,PFDu9oVAE-g,QL4_4GAWvPs,QVKj3LADCnA,TLRiju0jFEI,TdoEw1cQNU8,TgKwz5Ikpc8,UijHYSu6raI,XkY2DOUCWMU,ZKUqtErZCiU,b-UZJVdLbXc,bydeAhoctdU,csgNflj69-Y,ek4xgJSAFuI,fNk_zzaMoSs,hbHmE7H7c8Y,k7RM-ot2NWY,kMMjSMPjP6Q,kYB8IZa5AuE,kjBOesZCoqc,lUUte2o2Sn8,mASbibLvEGg,mQewAJb8oJ8,n2S2G-jqlcA,nHlE7EgJFds,p48uw2vFWQs,tQrCmSy32S4,uQhTuRlWMxw,zxIj1vNVS4A",
+  "part": "snippet,contentDetails,statistics,status"
+ },
+ "method": "videos_list",
+ "response": {
+  "items": [
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT10M12S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "-1Znu3emVIs",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCGPUOBWuUVm6l28mOlUMfxg",
+     "channelTitle": "Brain Station Advanced",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "Your support makes all the difference! By joining my Patreon, you\u2019ll help sustain and grow the content you love\n\nwww.patreon.com/BrainStation\n\nNaive Bayes:\nhttps://www.youtube.com/watch?v=YlqN5hUm9F0\n\nKMeans:\nhttps://www.youtube.com/watch?v=srsTTbhVAiA\n\nLinear Algebra | Matrices | Matrix Multiplicat",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-05-17T12:30:00Z",
+     "title": "Everything About Linear Algebra in 10 minutes"
+    },
+    "statistics": {
+     "commentCount": "46",
+     "favoriteCount": "0",
+     "likeCount": "2759",
+     "viewCount": "70760"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT11M19S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "-KKxtHwxKhE",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+     "channelTitle": "IBM Technology",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/Bdpij5\n\nLearn more about Linear Algebra for Machine Learning here \u2192 https://ibm.biz/BdpijN\n\nHow do machines learn to recognize cats and dogs in images? \ud83d\udc3e Fangfang Lee ",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-03-19T11:00:00Z",
+     "tags": [
+      "IBM",
+      "IBM Cloud"
+     ],
+     "title": "How Linear Algebra Powers Machine Learning (ML)"
+    },
+    "statistics": {
+     "commentCount": "316",
+     "favoriteCount": "0",
+     "likeCount": "7843",
+     "viewCount": "223223"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT8M7S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "4sCaMWAgPO8",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCVfdCxWcTKczupn1Z-Xir3g",
+     "channelTitle": "ENGINEERING KING",
+     "defaultAudioLanguage": "ta",
+     "defaultLanguage": "en",
+     "description": "MA25C02 Linear Algebra Arrear Exam \ud83d\udd25 Easy Pass Tricks | Important Questions | R2025\n\u2026\nFor our whats app group link\nhttps://whatsapp.com/channel/0029VbAcKer1NCrLjPANYR3Y\n\u2026.\nFor this pdf file link\nhttps://drive.google.com/file/d/1YjUZUPDL4m-SUuIjYQuQGaIhYGPLtbBG/view?usp=drivesdk\n\u2026\nMA25C02 Linear Alge",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-26T08:30:26Z",
+     "title": "MA25C02 Linear Algebra Arrear Exam \ud83d\udd25 Easy Pass Tricks | Important Questions | R2025 | Engineering "
+    },
+    "statistics": {
+     "commentCount": "11",
+     "favoriteCount": "0",
+     "likeCount": "109",
+     "viewCount": "5497"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT29M57S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "5oZ84mlt7tM",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "28",
+     "channelId": "UCfFEE8vgtFJITrQuLQFgucA",
+     "channelTitle": "Zachary Huang",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "*Don't like the Sound Effect?:* https://youtu.be/qsj98uXiNNk\r\n*Text:* https://github.com/The-Pocket/PocketFlow-Tutorial-Video-Generator/blob/main/docs/math/linear_algebra.md\r\n\r\n0:00:00 - Introduction\r\n0:01:19 - Vectors & The Dot Product\r\n0:06:50 - Linear Systems Ax=b & Gaussian Elimination\r\n0:12:30 ",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-10-14T08:01:15Z",
+     "title": "Give Me 30 min, I will make Linear Algebra Click Forever"
+    },
+    "statistics": {
+     "commentCount": "185",
+     "favoriteCount": "0",
+     "likeCount": "7226",
+     "viewCount": "242689"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT54S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "8yYR4sc5Sy8",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCASGBz9CIre1P7MQrOaar-Q",
+     "channelTitle": "NiLTime",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "An awesome battle between calculus and Linear algebra ... who wins?\n\n#calculus #linearalgebra",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-04-16T16:59:45Z",
+     "title": "Calculus vs Linear Algebra Epic Battle."
+    },
+    "statistics": {
+     "commentCount": "57",
+     "favoriteCount": "0",
+     "likeCount": "4526",
+     "viewCount": "224317"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT5H32M42S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "BAqBMEMrKQo",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "28",
+     "channelId": "UCLnGNDtreNCRiK3FthCr9Rg",
+     "channelTitle": "Kia Keng's nerd folder",
+     "defaultAudioLanguage": "en-GB",
+     "defaultLanguage": "en-GB",
+     "description": "Every idea in a first course on linear algebra, built one picture at a time, in one video. Ten chapters, following Gilbert Strang's Introduction to Linear Algebra (6th ed.) from vectors to the SVD and machine learning.\n\nYou'll learn:\n\u2022 why Ax = b is a question about the columns of A, and how elimina",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-10-18T23:56:48Z",
+     "tags": [
+      "linear algebra full course",
+      "linear algebra",
+      "linear algebra course",
+      "Gilbert Strang",
+      "Introduction to Linear Algebra",
+      "MIT 18.06",
+      "Gaussian elimination",
+      "LU decomposition",
+      "four fundamental subspaces",
+      "least squares",
+      "Gram-Schmidt",
+      "determinants",
+      "eigenvalues and eigenvectors",
+      "diagonalization",
+      "singular value decomposition",
+      "SVD",
+      "PCA",
+      "linear transformations",
+      "linear algebra for machine learning",
+      "math animation",
+      "KK's Nerd Folder"
+     ],
+     "title": "All of Linear Algebra in One Video (Full Course)"
+    },
+    "statistics": {
+     "commentCount": "87",
+     "favoriteCount": "0",
+     "likeCount": "838",
+     "viewCount": "28614"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT10M15S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "E8YQPBHLUrY",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "24",
+     "channelId": "UC_kKcjcQmAbIFulGV3twxiw",
+     "channelTitle": "Find Y",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "To try everything Brilliant has to offer\u2014free\u2014for a full 30 days, visit https://brilliant.org/FindY . You\u2019ll also get 20% off an annual premium subscription. \n\nTHIS VIDEO IS SPONSORED BY BRILLIANT.ORG\n\nGet your friends out of the doom scrolling and support a guy:\nShare the video & Join the Discord S",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-05-30T07:00:06Z",
+     "tags": [
+      "science",
+      "memes",
+      "mathematics",
+      "explained for gen z",
+      "calculus explained for gen z",
+      "linear algebra explained",
+      "linear algebra",
+      "linear algebra explained in 10 minutes",
+      "All Of Linear Algebra Explained In 10 Minutes",
+      "vectors",
+      "matricies",
+      "matrix",
+      "scalars explained",
+      "vectors explained",
+      "matrix explained maths",
+      "vectors explained simple",
+      "what is a vector",
+      "linear transformations",
+      "matrix transformations",
+      "matrix algebra",
+      "what is the image of a matrix",
+      "image linear algebra",
+      "dot product explained",
+      "scalar"
+     ],
+     "title": "All Of Linear Algebra Explained In 10 Minutes"
+    },
+    "statistics": {
+     "commentCount": "534",
+     "favoriteCount": "0",
+     "likeCount": "20240",
+     "viewCount": "531503"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT27M10S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "Ezefs1g59ns",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "28",
+     "channelId": "UC3Z1rXCFFadHw69-PZpQRYQ",
+     "channelTitle": "DIBEOS",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "PDF link to see the detailed solution to the problem:\nhttps://dibeos.com/wp-content/uploads/2026/04/the_roadmap_to_linear_algebra__free.pdf\n\nFull PDF link to learn the Roadmap Linear Algebra:\nhttps://di-beos-shop.fourthwall.com/products/the-roadmap-to-linear-algebra\n\nVisit our site to sign up with y",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-04-05T14:00:18Z",
+     "tags": [
+      "physics",
+      "mathematics",
+      "maths",
+      "math",
+      "3blue1brown",
+      "linear algebra",
+      "course on linear algebra",
+      "functional analysis",
+      "vectors",
+      "what is a vector",
+      "vector space",
+      "linear algebra explained",
+      "how is a matrix a vector",
+      "what are vectors",
+      "linear algebra explained intuitively",
+      "quantum mechanics",
+      "linear algebra for engineers"
+     ],
+     "title": "The Roadmap to Linear Algebra I Wish I Had"
+    },
+    "statistics": {
+     "commentCount": "117",
+     "favoriteCount": "0",
+     "likeCount": "3561",
+     "viewCount": "94724"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT52S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "FB11EeUc4O0",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCr7lmzIk63PZnBw3bezl-Mg",
+     "channelTitle": "The Math Sorcerer",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "In this video I will briefly show you one of my math books. This book is great for people who want to learn linear algebra. It is called Elementary Linear Algebra and it was written by Howard Anton.\n\nHere it is: https://amzn.to/3w1aNPQ\nUseful Math Supplies https://amzn.to/3Y5TGcv\nMy Recording Gear h",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2023-01-13T01:55:37Z",
+     "tags": [
+      "linear algebra",
+      "math book"
+     ],
+     "title": "This Will Help You With Linear Algebra"
+    },
+    "statistics": {
+     "commentCount": "198",
+     "favoriteCount": "0",
+     "likeCount": "30643",
+     "viewCount": "500037"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT16M49S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "HItonQ_FekE",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCJihyK0A38SZ6SdJirEdIOw",
+     "channelTitle": "Gate Smashers",
+     "defaultAudioLanguage": "en-GB",
+     "defaultLanguage": "en",
+     "description": "File Link for Lec-1: https://drive.google.com/file/d/1GgsY0Ug9kHkE1dAcO3f1wethdmOsZQLM/view?usp=sharing\n\n\ud83d\ude80 MASTER COMPUTER SCIENCE | INTERVIEWS | EXAMS\nGate Smashers \u2014 Learn Computer Science through free lectures, structured playlists, interview resources, important questions, notes & exam preparati",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2023-12-21T12:43:47Z",
+     "title": "Lec-1: Algebra Of Matrices | Linear Algebra"
+    },
+    "statistics": {
+     "commentCount": "87",
+     "favoriteCount": "0",
+     "likeCount": "4140",
+     "viewCount": "386168"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT16S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "HhiteGViCOk",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "28",
+     "channelId": "UCW1svfGxG4ADnbc1HCH6dqA",
+     "channelTitle": "Roman Paolucci",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "*\ud83d\uddfd Apply to My School of Quantitative Finance*\nhttps://quantguild.com/?utm_source=youtube&utm_medium=short&utm_content=linear-algebra-the-most-useful-class-ever\n\n*\ud83c\udfdb\ufe0f Accredited Investors Seeking Capital Management Solutions*\nhttps://quantguildcapital.com/?utm_source=youtube&utm_medium=short&utm_camp",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-10-13T17:56:25Z",
+     "title": "Linear Algebra: The Most Useful Class Ever"
+    },
+    "statistics": {
+     "commentCount": "39",
+     "favoriteCount": "0",
+     "likeCount": "709",
+     "viewCount": "74717"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT10M3S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "Ip3X9LOh2dk",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "The determinant measures how much volumes change during a transformation.\nHelp fund future projects: https://www.patreon.com/3blue1brown\nAn equally valuable form of support is to simply share some of the videos.\nHome page: https://www.3blue1brown.com/\n\n\nFull series: http://3b1b.co/eola\n\nFuture serie",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2016-08-10T22:31:18Z",
+     "title": "The determinant | Chapter 6, Essence of linear algebra"
+    },
+    "statistics": {
+     "commentCount": "4507",
+     "favoriteCount": "0",
+     "likeCount": "109678",
+     "viewCount": "5062874"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "sd",
+     "dimension": "2d",
+     "duration": "PT39M49S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "J7DzL2_Na80",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "MIT 18.06 Linear Algebra, Spring 2005\nInstructor: Gilbert Strang\nView the complete course: http://ocw.mit.edu/18-06S05\nYouTube Playlist: https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8\n\n1. The Geometry of Linear Equations\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.m",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2019-09-24T20:20:31Z",
+     "tags": [
+      "18-06-linear-algebra-spring-2010",
+      "18-06sc-linear-algebra-fall-2011"
+     ],
+     "title": "1. The Geometry of Linear Equations"
+    },
+    "statistics": {
+     "commentCount": "1238",
+     "favoriteCount": "0",
+     "likeCount": "41623",
+     "viewCount": "2980438"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "sd",
+     "dimension": "2d",
+     "duration": "PT11H39M45S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "JnTa9XtvmfI",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+     "channelTitle": "freeCodeCamp.org",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "Learn Linear Algebra in this 20-hour college course. Watch the second half here: https://youtu.be/DJ6YwBN7Ya8\nThis course is taught by Dr. Jim Hefferon, a professor of mathematics at St Michael's College.\n\n\ud83d\udcd4 The course follows along with Dr. Hefferon's Linear Algebra text book. The book is available",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2020-11-19T14:13:56Z",
+     "title": "Linear Algebra - Full College Course"
+    },
+    "statistics": {
+     "commentCount": "1192",
+     "favoriteCount": "0",
+     "likeCount": "63208",
+     "viewCount": "2725459"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT24S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "KQ_HqtEQF1w",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCr7lmzIk63PZnBw3bezl-Mg",
+     "channelTitle": "The Math Sorcerer",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "Proof Based Linear Algebra Book\n\nHere it is: https://amzn.to/3KTjLqz\nUseful Math Supplies https://amzn.to/3Y5TGcv\nMy Recording Gear https://amzn.to/3BFvcxp\n(these are my affiliate links)\n\n***********Math, Physics, and Computer Science Books***********\nEpic Math Book List https://amzn.to/3F98vT1\nPre-",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2023-04-12T17:05:09Z",
+     "tags": [
+      "linear algebra",
+      "friedberg"
+     ],
+     "title": "Proof Based Linear Algebra Book"
+    },
+    "statistics": {
+     "commentCount": "88",
+     "favoriteCount": "0",
+     "likeCount": "7138",
+     "viewCount": "160224"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT58S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "KgSpRiH0MhY",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC-9q66tsrFt9KTL1gVYpJgA",
+     "channelTitle": "Ubilum",
+     "defaultLanguage": "en",
+     "description": "Calc III or Linear Algebra: which one was harder? \ud83d\udc47\n\nA matrix is a way to move space.\n\u2192 Where two arrows land = the matrix\n\u2192 How much area grows = the determinant\n\u2192 Arrows that don't turn = eigenvectors\n\nSave this for your final \ud83d\udccc\n\nLearn math visually: https://ubilum.com\n\nlinear algebra explained, m",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-10-26T19:40:26Z",
+     "tags": [
+      "math"
+     ],
+     "title": "The Only Linear Algebra Video You Need to Watch \ud83e\udde0 #math #shorts #education"
+    },
+    "statistics": {
+     "commentCount": "8",
+     "favoriteCount": "0",
+     "likeCount": "910",
+     "viewCount": "28723"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT18M18S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "LHsPJ2bQX1U",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCcbu9qaBn3MNFYr96mbg72w",
+     "channelTitle": "SawFin Mathematics",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "Linear Algebra \u2014 Systems of Linear Equations\n\nCONTINUE LEARNING \u2014 Linear Algebra (Lay)\nFull playlist: https://www.youtube.com/playlist?list=PLbGDZJvBMOR0\nStart here: This is the first video in this playlist.\nNext Video: Linear Algebra 1.1.2 Solve Systems of Linear Equations in Augmented Matrices Usi",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2019-07-09T07:47:01Z",
+     "title": "Systems of Linear Equations (1.1.1)"
+    },
+    "statistics": {
+     "commentCount": "269",
+     "favoriteCount": "0",
+     "likeCount": "7936",
+     "viewCount": "1014363"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT14M12S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "LyGKycYT2v0",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "Why the formula for dot products matches their geometric intuition.\nHelp fund future projects: https://www.patreon.com/3blue1brown\nAn equally valuable form of support is to simply share some of the videos.\nHome page: https://www.3blue1brown.com/\n\nDot products are a nice geometric tool for understand",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2016-08-24T19:20:58Z",
+     "title": "Dot products and duality | Chapter 9, Essence of linear algebra"
+    },
+    "statistics": {
+     "commentCount": "2508",
+     "favoriteCount": "0",
+     "likeCount": "64767",
+     "viewCount": "3477580"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1H8M6S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "MDss_MiVUL0",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCuASRVNVmk1ylwHHkfcrx8w",
+     "channelTitle": "Rajan Chopra",
+     "defaultAudioLanguage": "hi",
+     "defaultLanguage": "hi",
+     "description": "Join My Quantum Computing Course: https://www.mathsshtam.com/courses/610014\n\nQuantum Computing Playlist: https://www.youtube.com/playlist?list=PLHO7IP-WvJpkHwNSJwBnAWBjx5eFJgWq5\n\nFOLLOW ME:\n\nInstagram: https://www.instagram.com/rajan15x/\n\nDiscord: https://discord.gg/zWbA4dwQH5\n\nTwitter: https://twit",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-05-12T12:02:26Z",
+     "title": "Linear Algebra for Everyone | Quantum Computing | Episode 01"
+    },
+    "statistics": {
+     "commentCount": "234",
+     "favoriteCount": "0",
+     "likeCount": "3001",
+     "viewCount": "81103"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT51M36S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "MieZJ0bxv7k",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCLnGGRG__uGSPLBLzyhg8dQ",
+     "channelTitle": "Oxford Mathematics",
+     "defaultAudioLanguage": "en-GB",
+     "defaultLanguage": "en",
+     "description": "In this lecture, the first in the first year undergraduate Linear Algebra 1 course, Andy Wathen provides a recap and an introduction to the subject, ensuring that everyone is up to speed, before going on to discuss reduction of linear equations to triangular, diagonal and reduced row echelon forms.\n",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2023-12-21T10:30:15Z",
+     "tags": [
+      "maths",
+      "math",
+      "Linear algebra",
+      "Oxford University",
+      "Student lecture"
+     ],
+     "title": "Linear Algebra 1: Systems of linear equations - Oxford Mathematics 1st Year Student Lecture"
+    },
+    "statistics": {
+     "commentCount": "88",
+     "favoriteCount": "0",
+     "likeCount": "1921",
+     "viewCount": "96308"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT12M51S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "P2LTAUO1TdA",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "How do you translate back and forth between coordinate systems that use different basis vectors?\nHelp fund future projects: https://www.patreon.com/3blue1brown\nAn equally valuable form of support is to simply share some of the videos.\nHome page: https://www.3blue1brown.com/\n\nFuture series like this ",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2016-09-11T17:56:20Z",
+     "title": "Change of basis | Chapter 13, Essence of linear algebra"
+    },
+    "statistics": {
+     "commentCount": "1703",
+     "favoriteCount": "0",
+     "likeCount": "49375",
+     "viewCount": "2615631"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT2H30M54S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "PBCqn3WG9Dk",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC9PoSJoftLvEnXT-PtQ5Wtw",
+     "channelTitle": "GATE Wallah",
+     "defaultAudioLanguage": "hi",
+     "defaultLanguage": "en-IN",
+     "description": "Linear Algebra is a fundamental topic in Engineering Mathematics, crucial for all branches preparing for GATE 2025. It lays the groundwork for understanding systems of linear equations, vector spaces, matrices, eigenvalues, and eigenvectors, which are extensively applied in various engineering domai",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2024-11-24T09:12:35Z",
+     "tags": [
+      "gate 2025",
+      "gate crash course",
+      "gate exam",
+      "linear algebra",
+      "engineering mathematics",
+      "gate math",
+      "gate mathematics",
+      "gate",
+      "gate 2025 engineering mathematics",
+      "engineering mathematics gate",
+      "gate engineering mathematics",
+      "engineering mathematics for gate",
+      "linear algebra engineering mathematics",
+      "linear algebra gate",
+      "gate linear algebra",
+      "linear algebra questions",
+      "algebra",
+      "gate engineering mathematics class",
+      "engineering maths",
+      "engineering maths for gate",
+      "gate wallah",
+      "pw gate"
+     ],
+     "title": "Engineering Mathematics 01 | Linear Algebra (Part 01) | All Branches GATE 2025 Crash Course"
+    },
+    "statistics": {
+     "commentCount": "110",
+     "favoriteCount": "0",
+     "likeCount": "4176",
+     "viewCount": "508739"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT17M16S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "PFDu9oVAE-g",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "A visual understanding of eigenvectors, eigenvalues, and the usefulness of an eigenbasis.\nHelp fund future projects: https://www.patreon.com/3blue1brown\nAn equally valuable form of support is to simply share some of the videos.\nHome page: https://www.3blue1brown.com\n\nFull series: https://3b1b.co/eol",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2016-09-15T18:22:14Z",
+     "title": "Eigenvectors and eigenvalues | Chapter 14, Essence of linear algebra"
+    },
+    "statistics": {
+     "commentCount": "3677",
+     "favoriteCount": "0",
+     "likeCount": "126041",
+     "viewCount": "6531046"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT7M3S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "QL4_4GAWvPs",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCxQfwMu5S83-B0rnvcxhmVw",
+     "channelTitle": "KoothBrush",
+     "defaultLanguage": "en",
+     "description": "This is your complete crash course on Linear Algebra \u2014 from vectors and matrices to eigenvalues and transformations. Whether you're a student, self-learner, or just curious about how linear algebra works, this short video gives you the core concepts in a fast, easy-to-follow way.\n\n\ud83d\udcda Topics covered:\n",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-06-20T14:00:54Z",
+     "tags": [
+      "linear algebra",
+      "all of linear algebra",
+      "linear algebra full course",
+      "learn linear algebra",
+      "linear algebra explained",
+      "vectors and matrices",
+      "row reduction",
+      "gaussian elimination",
+      "matrix transformations",
+      "linear algebra crash course",
+      "eigenvectors",
+      "eigenvalues",
+      "basis and dimension",
+      "linear combinations",
+      "matrix rank",
+      "determinant",
+      "inverse matrix",
+      "vector space",
+      "linear transformations",
+      "college algebra",
+      "math tutorial",
+      "math explained",
+      "math for beginners",
+      "high school math",
+      "matrix math"
+     ],
+     "title": "ALL of linear algebra in 7 minutes."
+    },
+    "statistics": {
+     "commentCount": "224",
+     "favoriteCount": "0",
+     "likeCount": "12978",
+     "viewCount": "468619"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "sd",
+     "dimension": "2d",
+     "duration": "PT47M42S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "QVKj3LADCnA",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "MIT 18.06 Linear Algebra, Spring 2005\nInstructor: Gilbert Strang\nView the complete course: http://ocw.mit.edu/18-06S05\nYouTube Playlist: https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8\n\n2. Elimination with Matrices.\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2009-05-07T04:00:50Z",
+     "tags": [
+      "18-06-linear-algebra-spring-2010",
+      "18-06sc-linear-algebra-fall-2011"
+     ],
+     "title": "2. Elimination with Matrices."
+    },
+    "statistics": {
+     "commentCount": "1209",
+     "favoriteCount": "0",
+     "likeCount": "26262",
+     "viewCount": "3470363"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT4H15M32S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "TLRiju0jFEI",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCOsV75fSUr8gnMbhx-Qh3Lg",
+     "channelTitle": "GATE Wallah (English)",
+     "defaultLanguage": "en",
+     "description": "\ud83d\udcd5 \ud835\udc01\ud835\udc1a\ud835\udc2d\ud835\udc1c\ud835\udc21/\ud835\udc02\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc2c\ud835\udc1e \ud835\udc0b\ud835\udc22\ud835\udc27\ud835\udc24\ud835\udc2c: \n\ud83d\udceeParakram GATE 2027 Batch B - (English)  \nME & XE - https://physicswallah.onelink.me/ZAZB/nnstqklu\nCE - https://physicswallah.onelink.me/ZAZB/2bp9v7zz\nECE - https://physicswallah.onelink.me/ZAZB/02u477rk\nEE - https://physicswallah.onelink.me/ZAZB/r8owewci\nCS - https://physicsw",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2022-10-26T02:30:08Z",
+     "tags": [
+      "linear algebra gate",
+      "gate linear algebra",
+      "linear algebra",
+      "Physics wallah linear algebra",
+      "linear algebra full chapter",
+      "Full chapter linear algebra",
+      "linear algebra full chapter gate",
+      "Full chapter linear algebra gate",
+      "gate linear algebra full chapter",
+      "gate linear algebra physics wallah",
+      "PW linear algebra gate",
+      "linear algebra gate full chapter",
+      "linear algebra full chapter gate gate",
+      "linear algebra one shot",
+      "engineering mathematics one shot",
+      "engineering mathematics in one shot",
+      "gate"
+     ],
+     "title": "Engineering Mathematics | Linear Algebra (Matrices) | GATE 2023 | For All Branches"
+    },
+    "statistics": {
+     "commentCount": "172",
+     "favoriteCount": "0",
+     "likeCount": "7406",
+     "viewCount": "444263"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT10M36S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "TdoEw1cQNU8",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCrx-FlNM6BWOJvu3re6HH7w",
+     "channelTitle": "4G Silver Academy \u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en-IN",
+     "description": "21. a) Vector Basis or Not Problems\nhttps://youtu.be/eEqzDyKwF5s?si=HfDakuhn5EAuO-m5\nhttps://youtu.be/6Y6NMYGcbsk?si=vynagO8p0zPUZ1DY\nhttps://youtu.be/jkh5EWVO4nc?si=B7DZteB6cDBIzJsR\nhttps://youtu.be/z2WkDwcpl14?si=6H7U-P1zRN2PFuPq\nhttps://youtu.be/7HOLYhhmbdY?si=DaK5mRPDOIkRrfE3\nhttps://youtu.be/wf",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-06-05T20:51:32Z",
+     "title": "Linear Algebra Important Questions Sem 2 MA25C02 Linear Algebra Part C 12 Marks Important 11/06/2026"
+    },
+    "statistics": {
+     "commentCount": "668",
+     "favoriteCount": "0",
+     "likeCount": "3935",
+     "viewCount": "313775"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT16M46S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "TgKwz5Ikpc8",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "This is really the reason linear algebra is so powerful.\nHelp fund future projects: https://www.patreon.com/3blue1brown\nAn equally valuable form of support is to simply share some of the videos.\nHome page: https://www.3blue1brown.com/\n\n\nFull series: http://3b1b.co/eola\n\nFuture series like this are f",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2016-09-24T19:29:09Z",
+     "title": "Abstract vector spaces | Chapter 16, Essence of linear algebra"
+    },
+    "statistics": {
+     "commentCount": "3440",
+     "favoriteCount": "0",
+     "likeCount": "63096",
+     "viewCount": "1847374"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT39S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "UijHYSu6raI",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "28",
+     "channelId": "UCW1svfGxG4ADnbc1HCH6dqA",
+     "channelTitle": "Roman Paolucci",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "*\ud83e\uddee Quantitative Investments for an Intelligent Future*\nhttps://quantguild.com/?utm_source=youtube&utm_medium=video&utm_content=linear-algebra-is-essential-for-quant-finance\n\nJoin the Quant Guild Discord server here: https://discord.gg/quantguild\n\n@QuantGuild Video Title: Books that Made Me a Quant\n#",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-11-23T19:02:45Z",
+     "title": "Linear Algebra is Essential for Quant Finance"
+    },
+    "statistics": {
+     "commentCount": "12",
+     "favoriteCount": "0",
+     "likeCount": "331",
+     "viewCount": "9329"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT10M4S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "XkY2DOUCWMU",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "Multiplying two matrices represents applying one transformation after another.\nHelp fund future projects: https://www.patreon.com/3blue1brown\nAn equally valuable form of support is to simply share some of the videos.\nHome page: https://www.3blue1brown.com/\n\nFull series: http://3b1b.co/eola\n\nFuture s",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2016-08-08T22:20:43Z",
+     "title": "Matrix multiplication as composition | Chapter 4, Essence of linear algebra"
+    },
+    "statistics": {
+     "commentCount": "3327",
+     "favoriteCount": "0",
+     "likeCount": "92613",
+     "viewCount": "4543047"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT12M58S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "ZKUqtErZCiU",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC9rTsvTxJnx1DNrDA3Rqa6A",
+     "channelTitle": "Dr. Trefor Bazett",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "This is the start of a one semester university level course on Linear Algebra that emphasizes both conceptual understanding as well as procedural fluency with the techniques of Linear Algebra. In this video, we get to see just the beginning of some of the big ideas of Linear Algebra. \n\nFULL PLAYLIST",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2018-02-18T17:24:07Z",
+     "tags": [
+      "Math",
+      "Solution",
+      "College",
+      "Linear Algebra",
+      "Linear Transformation",
+      "Linear System",
+      "Geometric",
+      "Algebraic",
+      "Introduction",
+      "intro",
+      "introduction",
+      "playlist"
+     ],
+     "title": "What's the big idea of Linear Algebra?    **Course Intro**"
+    },
+    "statistics": {
+     "commentCount": "290",
+     "favoriteCount": "0",
+     "likeCount": "8810",
+     "viewCount": "600238"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": false,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1H41M21S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "b-UZJVdLbXc",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC9PoSJoftLvEnXT-PtQ5Wtw",
+     "channelTitle": "GATE Wallah",
+     "defaultLanguage": "en",
+     "description": "Unlock your potential with Shreshth GATE 2025 & 2026+ PSUs + Placement preparation! \nOur comprehensive program offers expert guidance and curated resources to help you excel in GATE and PSUs, and boost your chances in campus placements. Join now and take the leap towards a successful future!\n\n\ud83d\udcf2 PW A",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2022-11-15T12:30:41Z",
+     "tags": [
+      "gate exam 2023",
+      "gate exam 2024",
+      "gate exam 2025",
+      "gate career",
+      "gate 2022",
+      "pw",
+      "engineering mathematics",
+      "engineering mathematics for gate",
+      "gate 2023",
+      "engineering mathematics for gate me",
+      "engineering mathematics for gate cs",
+      "engineering mathematics for gate cs and it",
+      "gate wallah",
+      "pw gate wallah",
+      "engineering mathematics for gate all branches",
+      "engineering maths",
+      "engineering maths all branches",
+      "linear algebra gate",
+      "linear algebra gate engineering mathematics",
+      "linear algebra"
+     ],
+     "title": "Engineering Mathematics 01 | Linear Algebra : Lets Play with Determinant | GATE - For All Branches"
+    },
+    "statistics": {
+     "commentCount": "1864",
+     "favoriteCount": "0",
+     "likeCount": "34306",
+     "viewCount": "2791402"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT8M7S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "bydeAhoctdU",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "22",
+     "channelId": "UCPK_ewqGYj3O2Nb9R-wEUYg",
+     "channelTitle": "John Paul Cook",
+     "defaultLanguage": "en",
+     "description": "This video provides a basic outline for how we will go about studying linear algebra by attempting to answer the question:  What is Linear Algebra?\n\nSources:  The example of a linear system, as well as the terms 'row picture' and 'column picture,' are taken from Gilbert Strang's Introduction to Line",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2014-05-07T16:24:35Z",
+     "tags": [
+      "Linear Algebra (Field Of Study)",
+      "Algebra (Mathematical Concept)",
+      "systems of linear equations"
+     ],
+     "title": "What is Linear Algebra?"
+    },
+    "statistics": {
+     "commentCount": "94",
+     "favoriteCount": "0",
+     "likeCount": "2549",
+     "viewCount": "170588"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT10M46S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "csgNflj69-Y",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+     "channelTitle": "Professor Dave Explains",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "With calculus well behind us, it's time to enter the next major topic in any study of mathematics. Linear Algebra! The name doesn't sound very intimidating, but there are some pretty abstract concepts in this subject. Let's start nice and easy simply by learning about what this subject covers and so",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2018-09-19T15:25:14Z",
+     "tags": [
+      "linear algebra",
+      "systems of linear equations",
+      "linear equations",
+      "coefficients",
+      "constants",
+      "two equations two unknowns",
+      "solution to the system",
+      "three-dimensional coordinates",
+      "intersecting planes",
+      "matrix notation"
+     ],
+     "title": "Introduction to Linear Algebra: Systems of Linear Equations"
+    },
+    "statistics": {
+     "commentCount": "175",
+     "favoriteCount": "0",
+     "likeCount": "10232",
+     "viewCount": "714882"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "sd",
+     "dimension": "2d",
+     "duration": "PT45M21S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "ek4xgJSAFuI",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCOgMBTdFTSCtr8p7yVzSHkw",
+     "channelTitle": "Pradeep Giri Academy",
+     "defaultLanguage": "en",
+     "description": "Linear Algebra | Eigen Values | Lecture 01 |  MATHEMATICS | PRADEEP GIRI SIR\n#firstyearengineering #engineering #allbranchesofengineering #mathematics #pradeepgirisir \n\nTelegram Link : https://t.me/pradeepgiriacademy\n\nFor Pradeep Sir's Support Subscribe Both the Channel \n\nEngineering Channel : https",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2022-11-18T13:30:10Z",
+     "tags": [
+      "mht cet 2022",
+      "giri tutorials",
+      "problems in mht cet 2022",
+      "PAWAN WAGH ACADEMY",
+      "PRADEEP GIRI UPDATE",
+      "mht cet 1st shift questions",
+      "1st year engineering mathematics",
+      "1st year engineering drawing",
+      "1st year engineering physics",
+      "1st year engineering syllabus",
+      "1st year engineering college reopen date 2022",
+      "how to change college after 1st year engineering",
+      "how to pass engineering mechanics 1st year",
+      "how to pass engineering chemistry 1st year",
+      "c++",
+      "c++ coding",
+      "c++ full course"
+     ],
+     "title": "Linear Algebra | Eigen Values | Lecture 01 | MATHEMATICS | PRADEEP GIRI SIR"
+    },
+    "statistics": {
+     "commentCount": "117",
+     "favoriteCount": "0",
+     "likeCount": "2290",
+     "viewCount": "146106"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT9M52S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "fNk_zzaMoSs",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "Beginning the linear algebra series with the basics.\nHelp fund future projects: https://www.patreon.com/3blue1brown\n\nMusic: https://vincerubinetti.bandcamp.com/track/grants-etude\n\nThanks to Elo Marie Viennot and Ambros Gleixner from HTW Berlin (www.htw-berlin.de) for contributing German translations",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2016-08-06T00:05:49Z",
+     "title": "Vectors | Chapter 1, Essence of linear algebra"
+    },
+    "statistics": {
+     "commentCount": "4074",
+     "favoriteCount": "0",
+     "likeCount": "243830",
+     "viewCount": "13261607"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT2H36M36S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "hbHmE7H7c8Y",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC9Ewr-HjbPuo_O5rKTq12vA",
+     "channelTitle": "First Principles AI",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "A complete visual course in linear algebra, built from geometric intuition rather than symbol manipulation. 33 animated chapters covering vectors, spans, matrices, elimination, subspaces, determinants, eigenvalues, and decompositions.\nAll 33 lectures one by one: https://www.youtube.com/playlist?list",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-09-14T20:43:27Z",
+     "tags": [
+      "determinants",
+      "eigenvalues",
+      "eigenvectors",
+      "gaussian elimination",
+      "least squares",
+      "linear algebra",
+      "linear transformations",
+      "matrices",
+      "matrix multiplication",
+      "orthogonality",
+      "vectors"
+     ],
+     "title": "Linear Algebra Explained Visually \u2014 Full Course (Vectors to Eigenvalues)"
+    },
+    "statistics": {
+     "commentCount": "18",
+     "favoriteCount": "0",
+     "likeCount": "663",
+     "viewCount": "25807"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT9M59S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "k7RM-ot2NWY",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "The fundamental concepts of span, linear combinations, linear dependence, and bases.\nHelp fund future projects: https://www.patreon.com/3blue1brown\n\nThanks to Elo Marie Viennot and Ambros Gleixner from HTW Berlin (www.htw-berlin.de) for contributing German translations and dubbing.\n\nThanks to these ",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2016-08-06T23:49:28Z",
+     "title": "Linear combinations, span, and basis vectors | Chapter 2, Essence of linear algebra"
+    },
+    "statistics": {
+     "commentCount": "3139",
+     "favoriteCount": "0",
+     "likeCount": "147942",
+     "viewCount": "7698773"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT9M17S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "kMMjSMPjP6Q",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCr7lmzIk63PZnBw3bezl-Mg",
+     "channelTitle": "The Math Sorcerer",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "Is it possible to learn Linear Algebra in 4 weeks? In this video we discuss this topic.\nHere is the book: https://amzn.to/3VKgWOA\nMy Courses: https://www.freemathvids.com/\nBest Place To Find Stocks: https://finviz.com/?a=593802429\nUseful Math Supplies https://amzn.to/3Y5TGcv\nMy Recording Gear https:",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2024-04-07T21:21:25Z",
+     "tags": [
+      "linear algebra",
+      "4 weeks",
+      "math",
+      "learn"
+     ],
+     "title": "Linear Algebra in 4 Weeks"
+    },
+    "statistics": {
+     "commentCount": "143",
+     "favoriteCount": "0",
+     "likeCount": "1653",
+     "viewCount": "51187"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT10M59S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "kYB8IZa5AuE",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "Quite possibly the most important idea for understanding linear algebra.\nHelp fund future projects: https://www.patreon.com/3blue1brown\nAn equally valuable form of support is to simply share some of the videos.\nHome page: https://www.3blue1brown.com\n\nFull series: http://3b1b.co/eola\n\nFuture series l",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2016-08-07T21:39:19Z",
+     "title": "Linear transformations and matrices | Chapter 3, Essence of linear algebra"
+    },
+    "statistics": {
+     "commentCount": "5080",
+     "favoriteCount": "0",
+     "likeCount": "153721",
+     "viewCount": "7407776"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT5M9S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "kjBOesZCoqc",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "Home page: https://www.3blue1brown.com/\nThis introduces the \"Essence of linear algebra\" series, aimed at animating the geometric intuitions underlying many of the topics taught in a standard linear algebra course.\nError corrections: \n- At one point I mistakenly allude to calculators using the Taylor",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2016-08-05T01:01:44Z",
+     "title": "Essence of linear algebra preview"
+    },
+    "statistics": {
+     "commentCount": "1241",
+     "favoriteCount": "0",
+     "likeCount": "49484",
+     "viewCount": "2781228"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1H5M9S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "lUUte2o2Sn8",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "Speakers:  Gilbert Strang, Alan Edelman, Pavel Grinfeld, Michel Goemans\n \nRevered mathematics professor Gilbert Strang capped a 61-year career as a faculty member at MIT by delivering his final 18.06 Linear Algebra lecture before retiring at the age of 88. In addition to a brief review for the cours",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2023-05-15T16:11:07Z",
+     "tags": [
+      "18-06-linear-algebra-spring-2010",
+      "18-06sc-linear-algebra-fall-2011"
+     ],
+     "title": "Gil Strang's Final 18.06 Linear Algebra Lecture"
+    },
+    "statistics": {
+     "commentCount": "2240",
+     "favoriteCount": "0",
+     "likeCount": "61444",
+     "viewCount": "3795763"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1M25S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "mASbibLvEGg",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCAdboa2coX0gLH16auf2Uww",
+     "channelTitle": "Math Scribbles",
+     "defaultLanguage": "en",
+     "description": "",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-18T19:05:38Z",
+     "title": "the BASICS of linear algebra on GTA6 #mathematics #maths"
+    },
+    "statistics": {
+     "commentCount": "23",
+     "favoriteCount": "0",
+     "likeCount": "1710",
+     "viewCount": "33331"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1H31M58S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "mQewAJb8oJ8",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCCWi3hpnq_Pe03nGxuS7isg",
+     "channelTitle": "CampusX",
+     "defaultAudioLanguage": "hi",
+     "defaultLanguage": "en",
+     "description": "Code - https://colab.research.google.com/drive/1WfshZ-tT4XOFAuYK6dvQaEvsqpesELq0?usp=sharing\nPDF - https://drive.google.com/file/d/1E3Q2_omNtvE6sydWTahYsysEcyVQn8EG/view?usp=share_link\n\n============================\nDo you want to learn from me?\nCheck my affordable mentorship program at : https://lea",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2023-04-12T14:30:07Z",
+     "tags": [
+      "Education",
+      "Engineering",
+      "Campus",
+      "Placement",
+      "Skills",
+      "Machine Learning",
+      "Software",
+      "Web Development",
+      "Profile Building"
+     ],
+     "title": "Supercharge Your ML Journey: Mastering Vectors in Linear Algebra - Part 1"
+    },
+    "statistics": {
+     "commentCount": "175",
+     "favoriteCount": "0",
+     "likeCount": "2816",
+     "viewCount": "136596"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "creativeCommon",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT4H50M10S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "n2S2G-jqlcA",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC_4NoVAkQzeSaxCgm-to25A",
+     "channelTitle": "Dr.Gajendra Purohit",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "\ud83d\udcda Linear Algebra in One Shot | All Concepts & Examples | B.Tech & B.Sc Mathematics | By GP Sir\n\nWelcome to the Complete One Shot Series of Linear Algebra \u2013 1 by Dr. Gajendra Purohit (GP Sir).\n\nIn this video, GP Sir covers 12 important topics of Linear Algebra with concepts, theorems, proofs, and exa",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-18T04:00:07Z",
+     "tags": [
+      "linear algebra",
+      "linear algebra one shot",
+      "linear algebra btech",
+      "linear algebra bsc",
+      "types of matrix",
+      "transpose of matrix",
+      "trace of matrix",
+      "determinant of matrix",
+      "rank of matrix",
+      "system of linear equations",
+      "homogeneous equations",
+      "non homogeneous equations",
+      "eigen values",
+      "cayley hamilton theorem",
+      "minimal polynomial",
+      "diagonalization of matrix",
+      "jordan canonical form",
+      "engineering mathematics",
+      "btech mathematics",
+      "bsc mathematics",
+      "gp sir",
+      "gajendra purohit",
+      "maths care"
+     ],
+     "title": "B.Tech & B.Sc | Linear Algebra in One Shot : All Concept & Example | GP Sir"
+    },
+    "statistics": {
+     "commentCount": "9",
+     "favoriteCount": "0",
+     "likeCount": "138",
+     "viewCount": "10842"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "sd",
+     "dimension": "2d",
+     "duration": "PT49M20S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "nHlE7EgJFds",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "MIT 18.06 Linear Algebra, Spring 2005\nInstructor: Gilbert Strang\nView the complete course: http://ocw.mit.edu/18-06S05\nYouTube Playlist: https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8\n\n10. The Four Fundamental Subspaces\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mi",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2009-05-07T03:41:23Z",
+     "tags": [
+      "18-06-linear-algebra-spring-2010",
+      "18-06sc-linear-algebra-fall-2011"
+     ],
+     "title": "10. The Four Fundamental Subspaces"
+    },
+    "statistics": {
+     "commentCount": "381",
+     "favoriteCount": "0",
+     "likeCount": "7048",
+     "viewCount": "792962"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT7M8S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "p48uw2vFWQs",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCpk5K5JOrL8RdExPeS-nVsQ",
+     "channelTitle": "Postcard Professor",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "A quick review of basic matrix operations.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2020-08-18T15:40:44Z",
+     "tags": [
+      "Engineering"
+     ],
+     "title": "Linear Algebra - Matrix Operations"
+    },
+    "statistics": {
+     "commentCount": "201",
+     "favoriteCount": "0",
+     "likeCount": "15486",
+     "viewCount": "993467"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT2H9M12S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "tQrCmSy32S4",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCOsV75fSUr8gnMbhx-Qh3Lg",
+     "channelTitle": "GATE Wallah (English)",
+     "defaultAudioLanguage": "en-IN",
+     "defaultLanguage": "en-IN",
+     "description": "Dive into the fundamentals of Linear Algebra in Engineering Mathematics 01, part of the Gate 2025 series for all branches! \ud83d\udcd0\ud83d\udd22 Join us as we explore the basics of vectors, matrices, and linear transformations, essential for GATE preparation. Whether you're from Mechanical, Civil, Electrical, or any e",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2024-04-15T15:47:41Z",
+     "tags": [
+      "engineering mathematics",
+      "engineering mathematics for gate",
+      "linear algebra engineering mathematics",
+      "linear algebra",
+      "linear algebra for gate",
+      "gate engineering mathematics",
+      "gate maths linear algebra",
+      "linear algebra for gate 2025",
+      "linear algebra gate 2025",
+      "gate 2025 linear algebra",
+      "gate 2025 engineering mathematics",
+      "gate exam",
+      "gate preparation",
+      "gate",
+      "gate exam 2025",
+      "gate wallah",
+      "gate 2025 preparation in english",
+      "gate 2025 series",
+      "engineering mathematics for all branches",
+      "gate 2025"
+     ],
+     "title": "Engineering Mathematics 01 | Linear Algebra (Part 01) | GATE 2025 series | All Branch"
+    },
+    "statistics": {
+     "commentCount": "65",
+     "favoriteCount": "0",
+     "likeCount": "2204",
+     "viewCount": "143379"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT12M9S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "uQhTuRlWMxw",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "How to think about linear systems of equations geometrically.\nHelp fund future projects: https://www.patreon.com/3blue1brown\nAn equally valuable form of support is to simply share some of the videos.\nHome page: https://www.3blue1brown.com/\n\nFull series: http://3b1b.co/eola\n\nFuture series like this a",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2016-08-15T22:00:22Z",
+     "title": "Inverse matrices, column space and null space | Chapter 7, Essence of linear algebra"
+    },
+    "statistics": {
+     "commentCount": "2420",
+     "favoriteCount": "0",
+     "likeCount": "81160",
+     "viewCount": "3983213"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "sd",
+     "dimension": "2d",
+     "duration": "PT19M59S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "zxIj1vNVS4A",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCYgL81lc7DOLNhnel1_J6Vg",
+     "channelTitle": "Math and Science",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "This is just a few minutes of a complete course. \nGet full lessons & more subjects at: http://www.MathTutorDVD.com.\n\nIn this lesson the student will learn how to work with matrices in linear algebra.  We will discuss the fundamental concept of a matrix, then explore more detailed topics including th",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2016-02-05T01:37:45Z",
+     "tags": [
+      "linear algebra",
+      "linear algebra intro",
+      "matrix linear algebra",
+      "transpose matrix",
+      "linear algebra tutor",
+      "linear algebra course",
+      "learn linear algebra",
+      "linear algebra help",
+      "elements of linear algebra",
+      "matrices lesson",
+      "linear",
+      "matrices",
+      "linear algebra vector spaces",
+      "linear algebra basis",
+      "linear algebra determinants",
+      "linear algebra transformations",
+      "linear algebra and its applications",
+      "matrix problems",
+      "algebra",
+      "algebra matrix",
+      "algebra matrices",
+      "engineering"
+     ],
+     "title": "01 - Matrices, Elements, And Transpose (Learn Linear Algebra)"
+    },
+    "statistics": {
+     "commentCount": "43",
+     "favoriteCount": "0",
+     "likeCount": "1243",
+     "viewCount": "66966"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   }
+  ],
+  "kind": "youtube#videoListResponse",
+  "pageInfo": {
+   "resultsPerPage": 50,
+   "totalResults": 50
+  }
+ }
+}

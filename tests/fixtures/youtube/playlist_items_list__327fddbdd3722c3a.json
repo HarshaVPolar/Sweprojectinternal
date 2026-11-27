@@ -1,0 +1,363 @@
+{
+ "args": {
+  "maxResults": 15,
+  "part": "snippet,contentDetails",
+  "playlistId": "UUEBb1b_L6zDS3xTUrIALZOw"
+ },
+ "method": "playlist_items_list",
+ "response": {
+  "items": [
+   {
+    "contentDetails": {
+     "videoId": "uqFwmaLoQcw",
+     "videoPublishedAt": "2026-11-17T15:23:41Z"
+    },
+    "id": "VVVFQmIxYl9MNnpEUzN4VFVySUFMWk93LnVxRndtYUxvUWN3",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "description": "An Open Conversation with Dr. Desir\u00e9e Plata and Dr. Chris Raben Hosted by Curt Newton\n\nUnderstanding the connections between climate, energy, and economic growth is critical to shaping a future where thriving communities and economic prosperity are no longer tied to greenhouse gas emissions. How can",
+     "playlistId": "UUEBb1b_L6zDS3xTUrIALZOw",
+     "position": 0,
+     "publishedAt": "2026-11-17T15:23:41Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "uqFwmaLoQcw"
+     },
+     "title": "Building Climate and Energy Resilience through Education Live Webcast",
+     "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "videoOwnerChannelTitle": "MIT OpenCourseWare"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "QMt6FEuXz0s",
+     "videoPublishedAt": "2026-11-16T18:00:17Z"
+    },
+    "id": "VVVFQmIxYl9MNnpEUzN4VFVySUFMWk93LlFNdDZGRXVYejBz",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "description": "Which way is she facing? Is the dress black & blue, or white & gold? Prof. Josh McDermott explores our fascination with optical illusions and explains how the brain uses visual signals to make inferences about the world around us.",
+     "playlistId": "UUEBb1b_L6zDS3xTUrIALZOw",
+     "position": 1,
+     "publishedAt": "2026-11-16T18:00:17Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "QMt6FEuXz0s"
+     },
+     "title": "Optical Illusions!",
+     "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "videoOwnerChannelTitle": "MIT OpenCourseWare"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "8hiGWBQ94WU",
+     "videoPublishedAt": "2026-11-13T15:13:31Z"
+    },
+    "id": "VVVFQmIxYl9MNnpEUzN4VFVySUFMWk93LjhoaUdXQlE5NFdV",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "description": "MIT 3.071 Amorphous Materials, Spring 2025\nInstructor: Juejun Hu\n \nView the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLMFCFeCMp5Zc\n \nThe lecture discusses phase-change materials used in data storage, s",
+     "playlistId": "UUEBb1b_L6zDS3xTUrIALZOw",
+     "position": 2,
+     "publishedAt": "2026-11-13T15:13:31Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "8hiGWBQ94WU"
+     },
+     "title": "Lecture 5 on Topic 5: Viscosity of Glass",
+     "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "videoOwnerChannelTitle": "MIT OpenCourseWare"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "MUn9aT8lOXA",
+     "videoPublishedAt": "2026-11-13T15:13:31Z"
+    },
+    "id": "VVVFQmIxYl9MNnpEUzN4VFVySUFMWk93Lk1VbjlhVDhsT1hB",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "description": "MIT 3.071 Amorphous Materials, Spring 2025\nInstructor: Juejun Hu\n \nView the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLMFCFeCMp5Zc\n \nThe lecture discusses glass viscosity, its reference points, and the",
+     "playlistId": "UUEBb1b_L6zDS3xTUrIALZOw",
+     "position": 3,
+     "publishedAt": "2026-11-13T15:13:31Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "MUn9aT8lOXA"
+     },
+     "title": "Lecture 6 on Topic 6: Glass Shaping",
+     "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "videoOwnerChannelTitle": "MIT OpenCourseWare"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "08v3PPgmL0E",
+     "videoPublishedAt": "2026-11-13T15:13:28Z"
+    },
+    "id": "VVVFQmIxYl9MNnpEUzN4VFVySUFMWk93LjA4djNQUGdtTDBF",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "description": "MIT 3.071 Amorphous Materials, Spring 2025\nInstructor: Juejun Hu\n \nView the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLMFCFeCMp5Zc\n \nThe lecture covers the mechanical properties of glass and amorphous ",
+     "playlistId": "UUEBb1b_L6zDS3xTUrIALZOw",
+     "position": 4,
+     "publishedAt": "2026-11-13T15:13:28Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "08v3PPgmL0E"
+     },
+     "title": "Lecture 10 on Topic 8: Mechanical Properties",
+     "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "videoOwnerChannelTitle": "MIT OpenCourseWare"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "FnNwGxlrt3U",
+     "videoPublishedAt": "2026-11-13T15:13:26Z"
+    },
+    "id": "VVVFQmIxYl9MNnpEUzN4VFVySUFMWk93LkZuTndHeGxydDNV",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "description": "MIT 3.071 Amorphous Materials, Spring 2025\nInstructor: Juejun Hu\n \nView the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLMFCFeCMp5Zc\n \nThe lecture covers classes of amorphous materials, including silicat",
+     "playlistId": "UUEBb1b_L6zDS3xTUrIALZOw",
+     "position": 5,
+     "publishedAt": "2026-11-13T15:13:26Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "FnNwGxlrt3U"
+     },
+     "title": "Lecture 2 on Topic 2: Classes of Amorphous Materials",
+     "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "videoOwnerChannelTitle": "MIT OpenCourseWare"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "6q0qeDNrz6g",
+     "videoPublishedAt": "2026-11-13T15:13:24Z"
+    },
+    "id": "VVVFQmIxYl9MNnpEUzN4VFVySUFMWk93LjZxMHFlRE5yejZn",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "description": "MIT 3.071 Amorphous Materials, Spring 2025\nInstructor: Juejun Hu\n \nView the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLMFCFeCMp5Zc\n \nThis lecture covers characterizing amorphous materials using X-ray d",
+     "playlistId": "UUEBb1b_L6zDS3xTUrIALZOw",
+     "position": 6,
+     "publishedAt": "2026-11-13T15:13:24Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "6q0qeDNrz6g"
+     },
+     "title": "Lecture 23 on Topic 15: Characterizing the Amorphous State",
+     "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "videoOwnerChannelTitle": "MIT OpenCourseWare"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "ApjChL4yFZs",
+     "videoPublishedAt": "2026-11-13T15:13:22Z"
+    },
+    "id": "VVVFQmIxYl9MNnpEUzN4VFVySUFMWk93LkFwakNoTDR5Rlpz",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "description": "MIT 3.071 Amorphous Materials, Spring 2025\nInstructor: Juejun Hu\n \nView the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLMFCFeCMp5Zc\n \nThe lecture covers the course policy and introduces amorphous materi",
+     "playlistId": "UUEBb1b_L6zDS3xTUrIALZOw",
+     "position": 7,
+     "publishedAt": "2026-11-13T15:13:22Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "ApjChL4yFZs"
+     },
+     "title": "Lecture 1 on Topic 1: Fundamentals of the Amorphous State",
+     "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "videoOwnerChannelTitle": "MIT OpenCourseWare"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "VIZJyt0eeBA",
+     "videoPublishedAt": "2026-11-13T15:13:20Z"
+    },
+    "id": "VVVFQmIxYl9MNnpEUzN4VFVySUFMWk93LlZJWkp5dDBlZUJB",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "description": "MIT 3.071 Amorphous Materials, Spring 2025\nInstructor: Peter Houk and Mariel Bass\n \nView the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLMFCFeCMp5Zc\n \nThe 3.071 class visited the MIT Glass Lab.\n \nLicens",
+     "playlistId": "UUEBb1b_L6zDS3xTUrIALZOw",
+     "position": 8,
+     "publishedAt": "2026-11-13T15:13:20Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "VIZJyt0eeBA"
+     },
+     "title": "Lecture 9: MIT Glass Lab Tour",
+     "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "videoOwnerChannelTitle": "MIT OpenCourseWare"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "5cwOeOKrA4A",
+     "videoPublishedAt": "2026-11-13T15:13:18Z"
+    },
+    "id": "VVVFQmIxYl9MNnpEUzN4VFVySUFMWk93LjVjd09lT0tyQTRB",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "description": "MIT 3.071 Amorphous Materials, Spring 2025\nInstructor: Juejun Hu\n \nView the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLMFCFeCMp5Zc\n \nThe lecture covers amorphous silicon properties, hydrogen passivatio",
+     "playlistId": "UUEBb1b_L6zDS3xTUrIALZOw",
+     "position": 9,
+     "publishedAt": "2026-11-13T15:13:18Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "5cwOeOKrA4A"
+     },
+     "title": "Lecture 17 on Topic 12: Amorphous Silicon Macroelectronics",
+     "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "videoOwnerChannelTitle": "MIT OpenCourseWare"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "nrVaAz9KCms",
+     "videoPublishedAt": "2026-11-13T15:13:15Z"
+    },
+    "id": "VVVFQmIxYl9MNnpEUzN4VFVySUFMWk93Lm5yVmFBejlLQ21z",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "description": "MIT 3.071 Amorphous Materials, Spring 2025\nInstructor: Juejun Hu\n \nView the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLMFCFeCMp5Zc\n \nThe lecture explains conduction in amorphous materials, covering ion",
+     "playlistId": "UUEBb1b_L6zDS3xTUrIALZOw",
+     "position": 10,
+     "publishedAt": "2026-11-13T15:13:15Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "nrVaAz9KCms"
+     },
+     "title": "Lecture 16 on Topic 11: Electrical and Transport Properties",
+     "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "videoOwnerChannelTitle": "MIT OpenCourseWare"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "wiLU4MMAS04",
+     "videoPublishedAt": "2026-11-13T15:13:13Z"
+    },
+    "id": "VVVFQmIxYl9MNnpEUzN4VFVySUFMWk93LndpTFU0TU1BUzA0",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "description": "MIT 3.071 Amorphous Materials, Spring 2025\nInstructor: Juejun Hu\n \nView the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLMFCFeCMp5Zc\n \nThe lecture discusses glass viscosity, its reference points, and the",
+     "playlistId": "UUEBb1b_L6zDS3xTUrIALZOw",
+     "position": 11,
+     "publishedAt": "2026-11-13T15:13:13Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "wiLU4MMAS04"
+     },
+     "title": "Lecture 7 on Topic 6: Glass Shaping",
+     "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "videoOwnerChannelTitle": "MIT OpenCourseWare"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "17hvcCboukw",
+     "videoPublishedAt": "2026-11-13T15:13:12Z"
+    },
+    "id": "VVVFQmIxYl9MNnpEUzN4VFVySUFMWk93LjE3aHZjQ2JvdWt3",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "description": "MIT 3.071 Amorphous Materials, Spring 2025\nInstructor: Juejun Hu\n \nView the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLMFCFeCMp5Zc\n \nThis lecture covers characterizing amorphous materials using X-ray d",
+     "playlistId": "UUEBb1b_L6zDS3xTUrIALZOw",
+     "position": 12,
+     "publishedAt": "2026-11-13T15:13:12Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "17hvcCboukw"
+     },
+     "title": "Lecture 22 on Topic 15: Characterizing the Amorphous State",
+     "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "videoOwnerChannelTitle": "MIT OpenCourseWare"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "5ZgnEiA4oj0",
+     "videoPublishedAt": "2026-11-13T15:13:10Z"
+    },
+    "id": "VVVFQmIxYl9MNnpEUzN4VFVySUFMWk93LjVaZ25FaUE0b2ow",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "description": "MIT 3.071 Amorphous Materials, Spring 2025\nInstructor: Juejun Hu\n \nView the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLMFCFeCMp5Zc\n \nThis lecture explains how biomineralization creates inorganic solids",
+     "playlistId": "UUEBb1b_L6zDS3xTUrIALZOw",
+     "position": 13,
+     "publishedAt": "2026-11-13T15:13:10Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "5ZgnEiA4oj0"
+     },
+     "title": "Lecture 24 on Topic 16: Biomineralization",
+     "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "videoOwnerChannelTitle": "MIT OpenCourseWare"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "zjUmTmY0aYA",
+     "videoPublishedAt": "2026-11-13T15:13:08Z"
+    },
+    "id": "VVVFQmIxYl9MNnpEUzN4VFVySUFMWk93LnpqVW1UbVkwYVlB",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "description": "MIT 3.071 Amorphous Materials, Spring 2025\nInstructor: Juejun Hu\n \nView the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLMFCFeCMp5Zc\n \nThe lecture covers the course policy and introduces amorphous materi",
+     "playlistId": "UUEBb1b_L6zDS3xTUrIALZOw",
+     "position": 14,
+     "publishedAt": "2026-11-13T15:13:08Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "zjUmTmY0aYA"
+     },
+     "title": "Lecture 13 on Topic 9: Glass Strengthening",
+     "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "videoOwnerChannelTitle": "MIT OpenCourseWare"
+    }
+   }
+  ],
+  "kind": "youtube#playlistItemListResponse",
+  "nextPageToken": "SYNTH_PAGE_TOKEN_03",
+  "pageInfo": {
+   "resultsPerPage": 15,
+   "totalResults": 8188
+  }
+ }
+}

@@ -1,0 +1,820 @@
+{
+ "args": {
+  "maxResults": 50,
+  "part": "snippet",
+  "q": "linear algebra course lecture",
+  "type": "video"
+ },
+ "method": "search_list",
+ "response": {
+  "items": [
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "J7DzL2_Na80"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "description": "MIT 18.06 Linear Algebra, Spring 2005 Instructor: Gilbert Strang View the complete course: http://ocw.mit.edu/18-06S05 YouTube ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2019-09-24T20:20:31Z",
+     "publishedAt": "2019-09-24T20:20:31Z",
+     "title": "1. The Geometry of Linear Equations"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "QVKj3LADCnA"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "description": "MIT 18.06 Linear Algebra, Spring 2005 Instructor: Gilbert Strang View the complete course: http://ocw.mit.edu/18-06S05 YouTube ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2009-05-07T04:00:50Z",
+     "publishedAt": "2009-05-07T04:00:50Z",
+     "title": "2. Elimination with Matrices."
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "QL4_4GAWvPs"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCxQfwMu5S83-B0rnvcxhmVw",
+     "channelTitle": "KoothBrush",
+     "description": "This is your complete crash course on Linear Algebra \u2014 from vectors and matrices to eigenvalues and transformations. Whether ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2025-06-20T14:00:54Z",
+     "publishedAt": "2025-06-20T14:00:54Z",
+     "title": "ALL of linear algebra in 7 minutes."
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "b-UZJVdLbXc"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UC9PoSJoftLvEnXT-PtQ5Wtw",
+     "channelTitle": "GATE Wallah",
+     "description": "Unlock your potential with Shreshth GATE 2025 & 2026+ PSUs + Placement preparation! Our comprehensive program offers ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2022-11-15T12:30:41Z",
+     "publishedAt": "2022-11-15T12:30:41Z",
+     "title": "Engineering Mathematics 01 | Linear Algebra : Lets Play with Determinant | GATE - For All Branches"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "Yj0rMy6MBMk"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCLnGGRG__uGSPLBLzyhg8dQ",
+     "channelTitle": "Oxford Mathematics",
+     "description": "In this lecture, the second in the first year Linear Algebra 1 course, Andy Wathen address how to add, scale and, crucially, how to ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2023-12-28T10:51:14Z",
+     "publishedAt": "2023-12-28T10:51:14Z",
+     "title": "Linear Algebra 1: Matrix algebra - Oxford Mathematics 1st Year Student Lecture"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "0uimNNIuUyY"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "description": "MIT 18.642 Topics in Mathematics with Applications in Finance, Fall 2024 Instructor: Peter Kempthorne View the complete course: ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2025-12-03T15:44:46Z",
+     "publishedAt": "2025-12-03T15:44:46Z",
+     "title": "Lecture 2: Linear Algebra"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "HItonQ_FekE"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCJihyK0A38SZ6SdJirEdIOw",
+     "channelTitle": "Gate Smashers",
+     "description": "File Link for Lec-1: https://drive.google.com/file/d/1GgsY0Ug9kHkE1dAcO3f1wethdmOsZQLM/view?usp=sharing MASTER ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2023-12-21T12:43:47Z",
+     "publishedAt": "2023-12-21T12:43:47Z",
+     "title": "Lec-1: Algebra Of Matrices | Linear Algebra"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "fNk_zzaMoSs"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "description": "Beginning the linear algebra series with the basics. Help fund future projects: https://www.patreon.com/3blue1brown Music: ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2016-08-06T00:05:49Z",
+     "publishedAt": "2016-08-06T00:05:49Z",
+     "title": "Vectors | Chapter 1, Essence of linear algebra"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "TLRiju0jFEI"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCOsV75fSUr8gnMbhx-Qh3Lg",
+     "channelTitle": "GATE Wallah (English)",
+     "description": "Batch/Course Links: Parakram GATE 2027 Batch B - (English) ME & XE ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2022-10-26T02:30:08Z",
+     "publishedAt": "2022-10-26T02:30:08Z",
+     "title": "Engineering Mathematics | Linear Algebra (Matrices) | GATE 2023 | For All Branches"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "5oZ84mlt7tM"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCfFEE8vgtFJITrQuLQFgucA",
+     "channelTitle": "Zachary Huang",
+     "description": "Don't like the Sound Effect?:* https://youtu.be/qsj98uXiNNk *Text:* ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2025-10-14T08:01:15Z",
+     "publishedAt": "2025-10-14T08:01:15Z",
+     "title": "Give Me 30 min, I will make Linear Algebra Click Forever"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "MieZJ0bxv7k"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCLnGGRG__uGSPLBLzyhg8dQ",
+     "channelTitle": "Oxford Mathematics",
+     "description": "In this lecture, the first in the first year undergraduate Linear Algebra 1 course, Andy Wathen provides a recap and an introduction ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2023-12-21T10:30:15Z",
+     "publishedAt": "2023-12-21T10:30:15Z",
+     "title": "Linear Algebra 1: Systems of linear equations - Oxford Mathematics 1st Year Student Lecture"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "ZKUqtErZCiU"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UC9rTsvTxJnx1DNrDA3Rqa6A",
+     "channelTitle": "Dr. Trefor Bazett",
+     "description": "This is the start of a one semester university level course on Linear Algebra that emphasizes both conceptual understanding as ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2018-02-18T17:24:07Z",
+     "publishedAt": "2018-02-18T17:24:07Z",
+     "title": "What&#39;s the big idea of Linear Algebra?    **Course Intro**"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "pQhVDRojC1U"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCLnGGRG__uGSPLBLzyhg8dQ",
+     "channelTitle": "Oxford Mathematics",
+     "description": "Our latest student lecture features the first lecture in the second term (1st Year) introductory course on Linear Algebra from leading ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2020-01-30T10:10:10Z",
+     "publishedAt": "2020-01-30T10:10:10Z",
+     "title": "Linear Algebra II: Oxford Mathematics 1st Year Student Lecture - James Maynard"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "HhiteGViCOk"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCW1svfGxG4ADnbc1HCH6dqA",
+     "channelTitle": "Roman Paolucci",
+     "description": "Apply to My School of Quantitative Finance* ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2026-10-13T17:56:25Z",
+     "publishedAt": "2026-10-13T17:56:25Z",
+     "title": "Linear Algebra: The Most Useful Class Ever"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "tQrCmSy32S4"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCOsV75fSUr8gnMbhx-Qh3Lg",
+     "channelTitle": "GATE Wallah (English)",
+     "description": "Dive into the fundamentals of Linear Algebra in Engineering Mathematics 01, part of the Gate 2025 series for all branches!",
+     "liveBroadcastContent": "none",
+     "publishTime": "2024-04-15T15:47:41Z",
+     "publishedAt": "2024-04-15T15:47:41Z",
+     "title": "Engineering Mathematics 01 | Linear Algebra (Part 01) | GATE 2025 series | All Branch"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "ggWYkes-n6E"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "description": "MIT RES.18-009 Learn Differential Equations: Up Close with Gilbert Strang and Cleve Moler, Fall 2015 View the complete course: ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2016-05-06T20:08:33Z",
+     "publishedAt": "2016-05-06T20:08:33Z",
+     "title": "The Big Picture of Linear Algebra"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "ek4xgJSAFuI"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCOgMBTdFTSCtr8p7yVzSHkw",
+     "channelTitle": "Pradeep Giri Academy",
+     "description": "Linear Algebra | Eigen Values | Lecture 01 | MATHEMATICS | PRADEEP GIRI SIR #firstyearengineering #engineering ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2022-11-18T13:30:10Z",
+     "publishedAt": "2022-11-18T13:30:10Z",
+     "title": "Linear Algebra | Eigen Values | Lecture 01 | MATHEMATICS | PRADEEP GIRI SIR"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "MDss_MiVUL0"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCuASRVNVmk1ylwHHkfcrx8w",
+     "channelTitle": "Rajan Chopra",
+     "description": "Join My Quantum Computing Course: https://www.mathsshtam.com/courses/610014 Quantum Computing Playlist: ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2025-05-12T12:02:26Z",
+     "publishedAt": "2025-05-12T12:02:26Z",
+     "title": "Linear Algebra for Everyone | Quantum Computing | Episode 01"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "Rep34MitL3s"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCX_RBNuVKFY5jgZ8qUNQtTA",
+     "channelTitle": "JuicedItUp",
+     "description": "",
+     "liveBroadcastContent": "none",
+     "publishTime": "2025-08-27T18:42:00Z",
+     "publishedAt": "2025-08-27T18:42:00Z",
+     "title": "Summarizing How HARD Every Linear Algebra and Differential Equations Topic Is"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "nHlE7EgJFds"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "description": "MIT 18.06 Linear Algebra, Spring 2005 Instructor: Gilbert Strang View the complete course: http://ocw.mit.edu/18-06S05 YouTube ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2009-05-07T03:41:23Z",
+     "publishedAt": "2009-05-07T03:41:23Z",
+     "title": "10. The Four Fundamental Subspaces"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "lUUte2o2Sn8"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "description": "Speakers: Gilbert Strang, Alan Edelman, Pavel Grinfeld, Michel Goemans Revered mathematics professor Gilbert Strang capped ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2023-05-15T16:11:07Z",
+     "publishedAt": "2023-05-15T16:11:07Z",
+     "title": "Gil Strang&#39;s Final 18.06 Linear Algebra Lecture"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "csgNflj69-Y"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+     "channelTitle": "Professor Dave Explains",
+     "description": "With calculus well behind us, it's time to enter the next major topic in any study of mathematics. Linear Algebra! The name doesn't ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2018-09-19T15:25:14Z",
+     "publishedAt": "2018-09-19T15:25:14Z",
+     "title": "Introduction to Linear Algebra: Systems of Linear Equations"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "FX4C-JpTFgY"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "description": "MIT 18.06 Linear Algebra, Spring 2005 Instructor: Gilbert Strang View the complete course: http://ocw.mit.edu/18-06S05 YouTube ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2009-05-07T04:09:45Z",
+     "publishedAt": "2009-05-07T04:09:45Z",
+     "title": "3. Multiplication and Inverse Matrices"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "pvMkV_NoskI"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCY47Bv-7rvfz4JTdW5173Hw",
+     "channelTitle": "Unfold AI with Ajay",
+     "description": "Linear Algebra Full Course in Hindi - Machine Learning by Digital Daru   Linear algebra is a sub-field of mathematics concerned ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2021-01-01T03:09:29Z",
+     "publishedAt": "2021-01-01T03:09:29Z",
+     "title": "Linear Algebra Full Course in Hindi - Machine Learning by Digital Daru\ud83c\udf7a"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "j1K84DGx2cI"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCyFWoLmPTgZ3BkHIKMRSV1g",
+     "channelTitle": "Nerd's lesson",
+     "description": "What you'll learn \u2713Operations on one matrix, including solving linear systems, and Gauss-Jordan elimination \u2713Matrices as ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2021-02-08T13:28:14Z",
+     "publishedAt": "2021-02-08T13:28:14Z",
+     "title": "Linear Algebra Full Course | Linear Algebra for beginners"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "osEADxaIKIc"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+     "channelTitle": "Lex Fridman",
+     "description": "Full episode with Gilbert Strang (Nov 2019): https://www.youtube.com/watch?v=lEZPfmGCEk0 New clips channel (Lex Clips): ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2019-11-27T01:20:00Z",
+     "publishedAt": "2019-11-27T01:20:00Z",
+     "title": "Gilbert Strang: Linear Algebra vs Calculus"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "E8YQPBHLUrY"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UC_kKcjcQmAbIFulGV3twxiw",
+     "channelTitle": "Find Y",
+     "description": "To try everything Brilliant has to offer\u2014free\u2014for a full 30 days, visit https://brilliant.org/FindY . You'll also get 20% off an annual ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2025-05-30T07:00:06Z",
+     "publishedAt": "2025-05-30T07:00:06Z",
+     "title": "All Of Linear Algebra Explained In 10 Minutes"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "JnTa9XtvmfI"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+     "channelTitle": "freeCodeCamp.org",
+     "description": "Learn Linear Algebra in this 20-hour college course. Watch the second half here: https://youtu.be/DJ6YwBN7Ya8 This course is ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2020-11-19T14:13:56Z",
+     "publishedAt": "2020-11-19T14:13:56Z",
+     "title": "Linear Algebra - Full College Course"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "PBCqn3WG9Dk"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UC9PoSJoftLvEnXT-PtQ5Wtw",
+     "channelTitle": "GATE Wallah",
+     "description": "Linear Algebra is a fundamental topic in Engineering Mathematics, crucial for all branches preparing for GATE 2025. It lays the ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2024-11-24T09:12:35Z",
+     "publishedAt": "2024-11-24T09:12:35Z",
+     "title": "Engineering Mathematics 01 | Linear Algebra (Part 01) | All Branches GATE 2025 Crash Course"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "rcziCrf08Vs"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCfH0JZ7wVrJBeVUZl6vkvgw",
+     "channelTitle": "Math at Andrews University",
+     "description": "Recorded Monday, January 10. A second course in linear algebra covering vector spaces and matrix decompositions taught by ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2022-01-18T03:39:02Z",
+     "publishedAt": "2022-01-18T03:39:02Z",
+     "title": "Advanced Linear Algebra 1: Vector Spaces &amp; Subspaces"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "2RDrcR7urdA"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCr7lmzIk63PZnBw3bezl-Mg",
+     "channelTitle": "The Math Sorcerer",
+     "description": "My Courses: https://www.freemathvids.com/ || I discuss the best way to learn linear algebra and give you some options. Do you ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2023-10-07T00:18:48Z",
+     "publishedAt": "2023-10-07T00:18:48Z",
+     "title": "The Best Way To Learn Linear Algebra"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "7UJ4CFRGd-U"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "description": "MIT 18.06SC Linear Algebra, Fall 2011 Instructor: Gilbert Strang, Sarah Hansen View the complete course: ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2019-08-19T11:25:37Z",
+     "publishedAt": "2019-08-19T11:25:37Z",
+     "title": "An Interview with Gilbert Strang on Teaching Linear Algebra"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "E_SKSsUIwpc"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UC9PoSJoftLvEnXT-PtQ5Wtw",
+     "channelTitle": "GATE Wallah",
+     "description": "Linear Algebra is a fundamental subject that plays a crucial role in various fields of mathematics, engineering, and computer ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2023-07-12T01:55:21Z",
+     "publishedAt": "2023-07-12T01:55:21Z",
+     "title": "Linear Algebra - All Tricks, Formulas, Patterns, Techniques In One Video"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "KQ_HqtEQF1w"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCr7lmzIk63PZnBw3bezl-Mg",
+     "channelTitle": "The Math Sorcerer",
+     "description": "Proof Based Linear Algebra Book Here it is: https://amzn.to/3KTjLqz Useful Math Supplies https://amzn.to/3Y5TGcv My Recording ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2023-04-12T17:05:09Z",
+     "publishedAt": "2023-04-12T17:05:09Z",
+     "title": "Proof Based Linear Algebra Book"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "5d1WM0o95Dg"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UC_L1H8_un0JzTlCFRPsEqUg",
+     "channelTitle": "Gravity Assist",
+     "description": "Why Is Linear Algebra So Weird?",
+     "liveBroadcastContent": "none",
+     "publishTime": "2026-09-16T19:37:17Z",
+     "publishedAt": "2026-09-16T19:37:17Z",
+     "title": "Why Is Linear Algebra So Weird?"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "p48uw2vFWQs"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCpk5K5JOrL8RdExPeS-nVsQ",
+     "channelTitle": "Postcard Professor",
+     "description": "A quick review of basic matrix operations.",
+     "liveBroadcastContent": "none",
+     "publishTime": "2020-08-18T15:40:44Z",
+     "publishedAt": "2020-08-18T15:40:44Z",
+     "title": "Linear Algebra - Matrix Operations"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "NeJ4K_ijqH8"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCz3pg8qn0kNVwsZFQrrDn5w",
+     "channelTitle": "Mathematics Hub",
+     "description": "types of matrices.",
+     "liveBroadcastContent": "none",
+     "publishTime": "2025-08-12T18:19:52Z",
+     "publishedAt": "2025-08-12T18:19:52Z",
+     "title": "Types of matrices"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "kYB8IZa5AuE"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "description": "Quite possibly the most important idea for understanding linear algebra. Help fund future projects: ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2016-08-07T21:39:19Z",
+     "publishedAt": "2016-08-07T21:39:19Z",
+     "title": "Linear transformations and matrices | Chapter 3, Essence of linear algebra"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "aYAaLUAvmjs"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCHjCBgtnoq0Rg7JCIafDM4A",
+     "channelTitle": "Xplore ",
+     "description": "",
+     "liveBroadcastContent": "none",
+     "publishTime": "2026-04-02T14:11:43Z",
+     "publishedAt": "2026-04-02T14:11:43Z",
+     "title": "Legend \ud83d\udd25This is  experience \ud83d\ude4f last lecture by Professor Gilbert strang \ud83d\udc9d #mit #experience #edit"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "zxIj1vNVS4A"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCYgL81lc7DOLNhnel1_J6Vg",
+     "channelTitle": "Math and Science",
+     "description": "This is just a few minutes of a complete course. Get full lessons & more subjects at: http://www.MathTutorDVD.com. In this lesson ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2016-02-05T01:37:45Z",
+     "publishedAt": "2016-02-05T01:37:45Z",
+     "title": "01 - Matrices, Elements, And Transpose (Learn Linear Algebra)"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "cdZnhQjJu4I"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "description": "MIT 18.06 Linear Algebra, Spring 2005 Instructor: Gilbert Strang View the complete course: http://ocw.mit.edu/18-06S05 YouTube ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2019-09-24T20:20:31Z",
+     "publishedAt": "2019-09-24T20:20:31Z",
+     "title": "21. Eigenvalues and Eigenvectors"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "rSjt1E9WHaQ"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+     "channelTitle": "freeCodeCamp.org",
+     "description": "Learn linear algebra in this course for beginners. This course covers the linear algebra skills needed for data science, machine ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2024-05-27T18:12:09Z",
+     "publishedAt": "2024-05-27T18:12:09Z",
+     "title": "Linear Algebra Course \u2013 Mathematics for Machine Learning and Generative AI"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "vF7eyJ2g3kU"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "description": "MIT 18.06 Linear Algebra, Spring 2005 Instructor: Gilbert Strang View the complete course: http://ocw.mit.edu/18-06S05 YouTube ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2009-05-07T04:25:49Z",
+     "publishedAt": "2009-05-07T04:25:49Z",
+     "title": "27. Positive Definite Matrices and Minima"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "6-wh6yvk6uc"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "description": "MIT 18.06 Linear Algebra, Spring 2005 Instructor: Gilbert Strang View the complete course: http://ocw.mit.edu/18-06S05 YouTube ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2009-05-07T03:19:59Z",
+     "publishedAt": "2009-05-07T03:19:59Z",
+     "title": "12. Graphs, Networks, Incidence Matrices"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "YiqIkSHSmyc"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "description": "MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018 Instructor: Gilbert Strang ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2019-05-16T16:12:09Z",
+     "publishedAt": "2019-05-16T16:12:09Z",
+     "title": "Lecture 1: The Column Space of A Contains All Vectors Ax"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "50r6TnV7Lys"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UC1FfoXAlTmo_jGtTG_bw3bA",
+     "channelTitle": "MathsCare TGT-PGT By Dr.Gajendra Purohit",
+     "description": "UP PGT Mathematics | Linear Algebra Complete PYQ Solution 2019, 2021 & 2026 | By Dr. Gajendra Purohit (GP Sir) Strengthen ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2026-11-27T06:32:03Z",
+     "publishedAt": "2026-11-27T06:32:03Z",
+     "title": "UP PGT Mathematics | Linear Algebra | Complete PYQ Solution 2019,21 &amp; 26 | GP Sir"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "23LLB9mNJvc"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "description": "MIT 18.06 Linear Algebra, Spring 2005 Instructor: Gilbert Strang View the complete course: http://ocw.mit.edu/18-06S05 YouTube ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2009-05-07T04:03:28Z",
+     "publishedAt": "2009-05-07T04:03:28Z",
+     "title": "19. Determinant Formulas and Cofactors"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "C8hEa2qb46k"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCdEov4L0bpJ_h6W3sJxkfUA",
+     "channelTitle": "Vizuara",
+     "description": "For enrolling in our minor visit this page: https://vizuara.ai/spit \"Foundations for Machine Learning: New Course Launch\" In 2022, ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2024-10-22T10:00:07Z",
+     "publishedAt": "2024-10-22T10:00:07Z",
+     "title": "Foundations for Machine Learning | Linear Algebra, Probability, Calculus, Optimization [Lecture 1]"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "CPnzmhR8cJU"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCr7lmzIk63PZnBw3bezl-Mg",
+     "channelTitle": "The Math Sorcerer",
+     "description": "Here is the legendary book: https://amzn.to/3ALXWDG Useful Math Supplies https://amzn.to/3Y5TGcv My Recording Gear ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2023-05-02T08:55:28Z",
+     "publishedAt": "2023-05-02T08:55:28Z",
+     "title": "Abstract Algebra Book with TONS of Content"
+    }
+   },
+   {
+    "id": {
+     "kind": "youtube#video",
+     "videoId": "KvQkRX1nIqQ"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "description": "Part III: Linear Algebra, Lecture 1: Vector Spaces Instructor: Herbert Gross View the complete course: ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2012-03-29T20:16:38Z",
+     "publishedAt": "2012-03-29T20:16:38Z",
+     "title": "Part III: Linear Algebra, Lec 1: Vector Spaces"
+    }
+   }
+  ],
+  "kind": "youtube#searchListResponse",
+  "nextPageToken": "SYNTH_PAGE_TOKEN_SEARCH_02",
+  "pageInfo": {
+   "resultsPerPage": 50,
+   "totalResults": 1000000
+  },
+  "regionCode": "IN"
+ }
+}

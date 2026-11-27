@@ -1,0 +1,1288 @@
+{
+ "args": {
+  "id": "5B41CPvYMjY,7wnove7K-ZQ,AFtHfBs5tco,AQJbHAeUhzM,AZ0M2s-dX4c,DInMru2Eq6E,GmdGv5ndX54,Gx5qb1uHss4,J9kP7bjwERk,K5KVEU3aaeQ,KorR0O7kiEk,LRhOzoxHlJo,PNSIWjWAA7o,QXeEoD0pB3E,UrsmFxEIp5k,VNOz6vEHjEY,WHY3bz5_QdI,XV-lIaO00H8,XfFkz_ND5jg,ZDa-Z5JzLYM,gbYLsUngzLc,hEgO047GxaQ,mC4nyib2sfg,oAkLSJNr5zY,q3AuP01daL4,yZl5FJ3ChkI",
+  "part": "snippet,contentDetails,statistics,status"
+ },
+ "method": "videos_list",
+ "response": {
+  "items": [
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT9S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "5B41CPvYMjY",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "28",
+     "channelId": "UCR9aFwQQm7cDzrHMOPsAvaA",
+     "channelTitle": "Pynade",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "The Ultimate Python Roadmap: From Beginner to Expert in 2025!\n\nDo you want to embark on an exciting journey into the world of Python programming world?\n\nJoin us on a transformative journey as we unravel the Python Roadmap from its foundational basics to the realm of advanced topics. Whether you're a",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2023-08-11T18:10:35Z",
+     "tags": [
+      "API development",
+      "DevOps",
+      "JavaScript",
+      "Laravel",
+      "PHP",
+      "Python",
+      "Tutorial",
+      "backend development",
+      "coding",
+      "coding bootcamp",
+      "coding challenges",
+      "database design",
+      "database management",
+      "development practices",
+      "devops practices",
+      "frontend",
+      "full-stack development",
+      "laravel tips",
+      "programming",
+      "pynade tutorials",
+      "python projects",
+      "python tutorial",
+      "python tutorial for beginners",
+      "software deployment",
+      "software development",
+      "software engineering",
+      "software testing",
+      "web design",
+      "web development",
+      "web frameworks"
+     ],
+     "title": "The Ultimate Python Roadmap: From Beginner to Expert in 2025!"
+    },
+    "statistics": {
+     "commentCount": "123",
+     "favoriteCount": "0",
+     "likeCount": "25933",
+     "viewCount": "1875435"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT11M50S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "7wnove7K-ZQ",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCeVMnSShP_Iviwkknt83cww",
+     "channelTitle": "CodeWithHarry",
+     "defaultAudioLanguage": "hi",
+     "defaultLanguage": "en",
+     "description": "Python Udemy Course: https://goharry.in/python\nGet this course at 90% Discount if you use this link\n\nCode Backup Repository: https://github.com/CodeWithHarry/100-days-of-code-youtube\n#100daysofcode \n\nPython is one of the most demanded programming languages in the job market. Surprisingly, it is equa",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2022-11-28T11:30:03Z",
+     "title": "Introduction to Programming & Python | Python Tutorial - Day #1"
+    },
+    "statistics": {
+     "commentCount": "38323",
+     "favoriteCount": "0",
+     "likeCount": "301409",
+     "viewCount": "14283562"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT17S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "AFtHfBs5tco",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCrT9Q8IEWkv4vGyf-Szx2eg",
+     "channelTitle": "Kushal Kode",
+     "defaultLanguage": "en",
+     "description": "Want to learn \"Python\" Before 2025\ud83d\udc80 \ud83c\udfafRoadmap \n#pythonforbeginners \n\n\ud83d\ude80 Python Roadmap for Beginners 2025 | Learn Python Step by Step \ud83d\udc0d\nConfused about where to start learning Python? This complete Python programming roadmap will guide you from basics to advanced concepts like data structures, algorith",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-09-06T04:30:11Z",
+     "tags": [
+      "python"
+     ],
+     "title": "Want to learn \"Python\" Before 2027\ud83d\udc80 \ud83c\udfafRoadmap"
+    },
+    "statistics": {
+     "commentCount": "2263",
+     "favoriteCount": "0",
+     "viewCount": "1107810"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT43S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "AQJbHAeUhzM",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC7zZ2-Q_oxbUaoMVL0z51wg",
+     "channelTitle": "Sajjaad Khader",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-07-28T21:30:00Z",
+     "title": "How to MASTER Python for FREE"
+    },
+    "statistics": {
+     "commentCount": "299",
+     "favoriteCount": "0",
+     "likeCount": "57311",
+     "viewCount": "1091340"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT6S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "AZ0M2s-dX4c",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "22",
+     "channelId": "UCObvCjgluikNrsk1sC1Qx6Q",
+     "channelTitle": "ZabihCodeLab ",
+     "defaultLanguage": "en",
+     "description": "Python Basics  First Python Program\n\nLearn how to write your first Python program using the print() function.\n\nIn this video, you will learn:\n\u2705 What is the print() function?\n\u2705 How to display text in Python\n\u2705 How Python executes code\n\u2705 How to write your first program\n\u2705 Simple practice examples\n\n\ud83d\udcbb Exa",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-09-16T17:08:23Z",
+     "title": "Python Basics  | First Python Program for Beginners"
+    },
+    "statistics": {
+     "commentCount": "10",
+     "favoriteCount": "0",
+     "likeCount": "698",
+     "viewCount": "161071"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT11M14S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "DInMru2Eq6E",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCM-yUTYGmrNvKOCcAl21g3w",
+     "channelTitle": "Jenny's Lectures CS IT",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "Wanna prepare for Tech Placements & Internships?\nJoin my new Batch of \u201cMastering DSA with Java Course 3.0\u201d : https://www.jennyslectures.com/courses/Mastering-DSA-with-JAVA---3-from-JennysLectures\n\nJenny's Lectures JAVA from Scratch Course: https://www.jennyslectures.com/courses/Java-From-Scratch-67c",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2022-08-26T14:30:02Z",
+     "tags": [
+      "operating system",
+      "data structure and algorithms",
+      "jayanti khatri lamba",
+      "jennys lectures",
+      "jennys lectures baby",
+      "C++",
+      "C++ complete course",
+      "c++ placement course",
+      "gate cs lectures",
+      "ugc net computer science preparation",
+      "ugc net syllabus",
+      "c++ jennys lectures",
+      "object oriented programming in C++",
+      "introduction to python programming",
+      "python full course for beginners",
+      "python jennys lectures",
+      "java programming",
+      "best channel to learn programming",
+      "c programming"
+     ],
+     "title": "Introduction to Python Programming | Python for Beginners #lec1"
+    },
+    "statistics": {
+     "commentCount": "995",
+     "favoriteCount": "0",
+     "likeCount": "28893",
+     "viewCount": "1761712"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT15M46S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "GmdGv5ndX54",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCmFUoPicoxuJAuR2NfNdQGA",
+     "channelTitle": "Swaroop Talks",
+     "defaultAudioLanguage": "te",
+     "defaultLanguage": "en",
+     "description": "JOIN & Turn on Notification to Not miss any JOB updates in WhatsApp Channel... \ud83d\udd25 WhatsApp Channel lo join avvandi (Free) \ud83d\udd25\n\nJobs, internships, free resources, career tips... akkade first ga vastayi. YouTube video vachhe lopu chala opportunities already gone.\n\n\u26a1 Miss avvakandi \ud83d\udc49 https://whatsapp.com/",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2024-01-01T14:57:42Z",
+     "tags": [
+      "python in telugu",
+      "python for beginners in telugu",
+      "python for beginners",
+      "python full course in telugu",
+      "python telugu",
+      "python tutorial for beginners",
+      "python tutorial telugu",
+      "python telugu tutorials",
+      "python",
+      "python interview questions in telugu",
+      "learn python in telugu",
+      "python tutorial in telugu",
+      "telugu computer world python",
+      "telugu python language",
+      "python tutorial",
+      "python full course",
+      "python course",
+      "coding for beginners in telugu",
+      "python tutorials in telugu"
+     ],
+     "title": "Python For Beginners in Telugu [PART 1] || Code with Swaroop || Zero to Hero || Introduction"
+    },
+    "statistics": {
+     "commentCount": "4893",
+     "favoriteCount": "0",
+     "likeCount": "70950",
+     "viewCount": "2172762"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT18M49S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "Gx5qb1uHss4",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCuudpdbKmQWq2PPzYgVCWlA",
+     "channelTitle": "Indently",
+     "defaultAudioLanguage": "en-GB",
+     "defaultLanguage": "en-GB",
+     "description": "In today's video we are going to be learning about 10 important Python concepts.\n\n\u25b6 Become job-ready with Python:\nhttps://www.indently.io\n\n\u25b6 Follow me on Instagram:\nhttps://www.instagram.com/indentlyreels\n\n00:00 Intro\n00:05 .py files\n00:35 Variables\n01:33 Basic data types\n03:00 Type annotations\n04:5",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2024-08-07T09:05:05Z",
+     "tags": [
+      "pyton",
+      "pyhton",
+      "pythn"
+     ],
+     "title": "10 Important Python Concepts In 20 Minutes"
+    },
+    "statistics": {
+     "commentCount": "502",
+     "favoriteCount": "0",
+     "likeCount": "46111",
+     "viewCount": "1773317"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT57S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "J9kP7bjwERk",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCwr-evhuzGZgDFrq_1pLt_A",
+     "channelTitle": "Error Makes Clever",
+     "defaultLanguage": "en",
+     "description": "Join our Live 4 Month Job-Ready BOOTCAMPS: \n \nFull Stack Development \u2013 Build web apps from scratch \nhttps://www.errormakesclever.com/fullstack-course?source=FSD_YT_Organic \n \nDevOps with AWS\u2013 Learn automation, CI/CD & cloud deployment \nhttps://www.errormakesclever.com/devops?source=Devops_YT_Organic",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-10-09T12:30:34Z",
+     "tags": [
+      "python",
+      "tech",
+      "career",
+      "errormakesclever"
+     ],
+     "title": "-Beginner\u2019s Roadmap to Learn Python | 2025 Starter Guide #shorts #python #pythonprogramming"
+    },
+    "statistics": {
+     "commentCount": "75",
+     "favoriteCount": "0",
+     "likeCount": "33721",
+     "viewCount": "480584"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT2H2M21S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "K5KVEU3aaeQ",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+     "channelTitle": "Programming with Mosh",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "Master Python from scratch \ud83d\ude80 No fluff\u2014just clear, practical coding skills to kickstart your journey! \n\n\ud83d\ude80 Want to dive deeper?\n- Check out my complete Python mastery course: https://mosh.link/python-course\n- Subscribe for more awesome Python content: https://goo.gl/6PYaGF\n\n\ud83d\udd17 Related videos \nhttps://y",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-02-12T12:30:31Z",
+     "tags": [
+      "python full course",
+      "python full course for begginers",
+      "python beginners course",
+      "python complete course",
+      "python full tutorial",
+      "python tutorial",
+      "python programming tutorial",
+      "python tutorial for beginners",
+      "learn python",
+      "python basics",
+      "programming tutorial",
+      "python crash course",
+      "complete python course",
+      "python",
+      "python course",
+      "python programming",
+      "python for everybody",
+      "programming with mosh",
+      "mosh hamedani",
+      "code with mosh"
+     ],
+     "title": "Python Full Course for Beginners"
+    },
+    "statistics": {
+     "commentCount": "4535",
+     "favoriteCount": "0",
+     "likeCount": "174366",
+     "viewCount": "8264798"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": false,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1H16M12S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "KorR0O7kiEk",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "24",
+     "channelId": "UC7OtUZuGeKcsXkdiP_ETXDg",
+     "channelTitle": "Entri Coding \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02 ",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "Welcome to the Python Malayalam Tutorial \u2013 Full Beginner Course Explained!\nThis complete Python course in Malayalam is designed for students, beginners, and anyone who wants to start coding from scratch.\n\nEntri Future Fest is LIVE! \ud83d\ude80\nGrab our AI-integrated courses with a special \ud835\udfd0\ud835\udfce% \ud835\udc1d\ud835\udc22\ud835\udc2c\ud835\udc1c\ud835\udc28\ud835\udc2e\ud835\udc27\ud835\udc2d \u2014 espec",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-12-01T11:30:30Z",
+     "title": "Python Malayalam Tutorial | Full Beginner Course Explained"
+    },
+    "statistics": {
+     "commentCount": "76",
+     "favoriteCount": "0",
+     "likeCount": "2339",
+     "viewCount": "98709"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT16S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "LRhOzoxHlJo",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "28",
+     "channelId": "UCJfCYYF5b1wqfTCn6u34Q4Q",
+     "channelTitle": "WebKnower",
+     "defaultAudioLanguage": "hi",
+     "defaultLanguage": "en-IN",
+     "description": "Python AI And Generative AI Course For Beginners \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYour Queries :-\nLearn AI basics with python \nGenerative ai essential full course for beginners \nBeginner friendly AI tutorials\nProgramming tutorials for beginners \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[Thanks For Watching This Video]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n#com",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-09-08T08:45:12Z",
+     "tags": [
+      "ai for beginners",
+      "learn ai",
+      "python",
+      "python ai course for beginners",
+      "python ai projects",
+      "generative ai for beginners",
+      "learn ai basics",
+      "ai tutorials",
+      "ai and generative ai course",
+      "generative ai essential full course",
+      "best youtube videos for learn ai",
+      "best youtube videos for learn generative ai essential",
+      "python ai programming",
+      "programming for beginners"
+     ],
+     "title": "Python AI And Generative AI Course For Beginners #ai #python #tutorial #course #study #learning"
+    },
+    "statistics": {
+     "commentCount": "61",
+     "favoriteCount": "0",
+     "likeCount": "16457",
+     "viewCount": "646456"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT24M59S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "PNSIWjWAA7o",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "24",
+     "channelId": "UCIuFRHmDktSjlHex7Hahcug",
+     "channelTitle": "Beau Carnes",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en-US",
+     "description": "This is the fastest way to learn almost all of Python syntax. Since this course moves quickly it may be helpful to have at least some programming experience. This applies to the latest version of Python.\n\nCode examples come from https://www.pythoncheatsheet.org\n\n00:00 Introduction\n00:28 Python Basic",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2023-08-13T12:00:19Z",
+     "title": "All Python Syntax in 25 Minutes \u2013 Tutorial"
+    },
+    "statistics": {
+     "commentCount": "180",
+     "favoriteCount": "0",
+     "likeCount": "12276",
+     "viewCount": "442160"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1M6S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "QXeEoD0pB3E",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "28",
+     "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+     "channelTitle": "Telusko",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "Python is one of the best programming language and easy to learn\nPython is used in Machine Learning, Data Science, Big Data, Web Development, Scripting.\n\nCheck out our courses:\n\nAgentic AI with Java : Live Cohort : https://go.telusko.com/agentic-ai-with-java-cohort\nCoupon: TELUSKO10   (10% Discount)",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2018-08-16T08:58:58Z",
+     "tags": [
+      "telusko",
+      "navin",
+      "reddy",
+      "tutorial",
+      "java",
+      "python"
+     ],
+     "title": "#0 Python for Beginners | Programming Tutorial"
+    },
+    "statistics": {
+     "commentCount": "1287",
+     "favoriteCount": "0",
+     "likeCount": "101300",
+     "viewCount": "10168970"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT10H53M55S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "UrsmFxEIp5k",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCeVMnSShP_Iviwkknt83cww",
+     "channelTitle": "CodeWithHarry",
+     "defaultAudioLanguage": "hi",
+     "defaultLanguage": "en",
+     "description": "Exciting News! I\u2019ve just launched my Data Science Course \u2013 and it\u2019s now in Early Bird Access!\nIf you loved this Python course, you\u2019re going to enjoy this one even more.\nCheck it out here: https://www.codewithharry.com/courses/the-ultimate-job-ready-data-science-course\nLet\u2019s take your skills to the n",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2024-06-16T05:36:24Z",
+     "title": "Python Tutorial For Beginners in Hindi | Complete Python Course \ud83d\udd25"
+    },
+    "statistics": {
+     "commentCount": "62314",
+     "favoriteCount": "0",
+     "likeCount": "477742",
+     "viewCount": "26491896"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT20S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "VNOz6vEHjEY",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "26",
+     "channelId": "UCsnJD4Akd1E5JldUGgDXMRw",
+     "channelTitle": "Pulok Sec",
+     "defaultAudioLanguage": "hi",
+     "defaultLanguage": "en-IN",
+     "description": "\ud83d\udcf1 Download the Python Tutorial App here:\nhttps://play.google.com/store/apps/details?id=com.codeliber.python\n\nhow to learn python in mobile\nhow to learn python in phone\nmobile Mai kaise python sikhe\npython mobile apps\npython tutorial\nhow learn python in 2025\nhow learn python in one videos\npython tuto",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2023-08-16T06:49:30Z",
+     "title": "How to learn python in mobile #viral #python #tutorial #code"
+    },
+    "statistics": {
+     "commentCount": "130",
+     "favoriteCount": "0",
+     "likeCount": "26188",
+     "viewCount": "1494053"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT55M20S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "WHY3bz5_QdI",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC4fxiAHHYmtQB4QYT41isnA",
+     "channelTitle": "Vamsi Bhavani",
+     "defaultAudioLanguage": "te",
+     "defaultLanguage": "en",
+     "description": "In this video, complete python language is explained in 1 hour. This python full course includes programming basics, variables, data types, operators, lists, tuples, sets, dictionaries, functions, important container functions, if elif else topics, while loop, for loop, lambda functions, classes and",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2022-03-22T15:41:18Z",
+     "tags": [
+      "python",
+      "python in telugu",
+      "python in 1 hour",
+      "python full course",
+      "complete python course",
+      "python course",
+      "python free course",
+      "python tutorials",
+      "complete python tutorials",
+      "vamsi bhavani",
+      "in telugu",
+      "python oops"
+     ],
+     "title": "Python full course in telugu in 1 hour | Complete python course | Vamsi Bhavani"
+    },
+    "statistics": {
+     "commentCount": "740",
+     "favoriteCount": "0",
+     "likeCount": "54152",
+     "viewCount": "1520080"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT13M43S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "XV-lIaO00H8",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+     "channelTitle": "Apna College",
+     "defaultAudioLanguage": "hi",
+     "defaultLanguage": "en",
+     "description": "How to start learning Python Language ? How to learn Python Faster & resources for learning.\n\nPython Playlist (complete) : https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0\n\nAI Basics Tutorial : https://www.youtube.com/watch?v=D1eL1EnxXXQ&t=1293s\n\n\ud83d\ude80 Get Placement Re",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-03-04T16:56:26Z",
+     "tags": [
+      "C++",
+      "C++ coding",
+      "C++ full course",
+      "C++ placement course",
+      "how to code",
+      "programming",
+      "college placement course",
+      "C++ language",
+      "java",
+      "java language",
+      "java full course",
+      "java placement",
+      "java code",
+      "java coding"
+     ],
+     "title": "Complete Python Learning RoadMap (A to Z)"
+    },
+    "statistics": {
+     "commentCount": "1551",
+     "favoriteCount": "0",
+     "likeCount": "39591",
+     "viewCount": "1381693"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT13M51S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "XfFkz_ND5jg",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "28",
+     "channelId": "UCCneap9DE1plCWwcObu-20Q",
+     "channelTitle": "Technical Sagar",
+     "defaultAudioLanguage": "hi",
+     "defaultLanguage": "en",
+     "description": "\ud83d\udcbbLEARN HACKING  \ud83d\udc31\u200d\ud83d\udc64 BUY My Hacking Courses \ud83d\udcbb\n1. HACKSTARS: https://imojo.in/2c72o51\n2. Tech Master Hacking Course: https://imojo.in/9srl0c\n3. Quick Hack: https://imojo.in/681ivb\nBuy with your Debit/Credit/Netbanking\nQuick Hack: 299 Rs \nTech Master: 299 Rs\nHACKSTARS: 299 Rs\n\n_________________________",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2022-05-20T13:18:37Z",
+     "tags": [
+      "python tutorial",
+      "python tutorial for beginners",
+      "python for beginners",
+      "python sikhe",
+      "python kaise sikhe",
+      "learn python easily",
+      "how can i learn python easily",
+      "learn python very easy",
+      "easy to learn python",
+      "easy way to learn python programming",
+      "learn coding free",
+      "technical sagar python class"
+     ],
+     "title": "Chapter: 1 - Variables - Learn Python Easily (In Hindi)"
+    },
+    "statistics": {
+     "commentCount": "1517",
+     "favoriteCount": "0",
+     "likeCount": "30533",
+     "viewCount": "863498"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT15M24S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "ZDa-Z5JzLYM",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+     "channelTitle": "Corey Schafer",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "In this Python Object-Oriented Tutorial, we will begin our series by learning how to create and use classes within Python. Classes allow us to logically group our data and functions in a way that is easy to reuse and also easy to build upon if need be. Let's get started.\n\nPython OOP 1 - Classes and ",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2016-06-20T17:00:03Z",
+     "tags": [
+      "Python",
+      "Classes",
+      "Object Oriented",
+      "OOP",
+      "Python Classes",
+      "Python Objects",
+      "Classes in Python",
+      "Python OOP",
+      "Class",
+      "Python Class",
+      "init",
+      "Python init",
+      "__init__",
+      "Instance",
+      "Instances",
+      "Objects",
+      "Object Oriented Programming",
+      "Python Tutorial",
+      "Attributes",
+      "Methods"
+     ],
+     "title": "Python OOP Tutorial 1: Classes and Instances"
+    },
+    "statistics": {
+     "commentCount": "3925",
+     "favoriteCount": "0",
+     "likeCount": "128150",
+     "viewCount": "5133650"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT6S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "gbYLsUngzLc",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCY18RY8wyCna6lMgl_7mwFA",
+     "channelTitle": "Computer Skills",
+     "defaultAudioLanguage": "ur",
+     "defaultLanguage": "en-GB",
+     "description": "In this video, we\u2019ll explore the most important Python functions every beginner and intermediate programmer must know! \ud83d\ude80\nFrom basics like print() and len() to advanced functions like map() and zip(), these built-in functions will help you write clean, powerful, and efficient Python code.\n\ud83d\udccc What you\u2019",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-08-21T17:00:55Z",
+     "tags": [
+      "python important functions",
+      "python built in functions",
+      "python tutorial",
+      "python for beginners",
+      "python tutorial for beginners",
+      "python programming",
+      "python coding",
+      "top python functions",
+      "python tips and tricks",
+      "learn python fast",
+      "python basics",
+      "python important functions for interview",
+      "python must know functions",
+      "python in 2025",
+      "python programming tutorial",
+      "python guide",
+      "python roadmap",
+      "python coding interview",
+      "moeen balouch",
+      "computer skills"
+     ],
+     "title": "Top 10 Most Important Python Functions You Must Know! \ud83d\ude80 | Python Tutorial for Beginners"
+    },
+    "statistics": {
+     "commentCount": "53",
+     "favoriteCount": "0",
+     "likeCount": "13777",
+     "viewCount": "1435421"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT4M13S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "hEgO047GxaQ",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "28",
+     "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+     "channelTitle": "Telusko",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "Check out our courses:\n\nAgentic AI with Java : Live Cohort : https://go.telusko.com/agentic-ai-with-java-cohort\nCoupon: TELUSKO10   (10% Discount)\n\nMaster Java Spring Development : https://go.telusko.com/learn-master\nCoupon: TELUSKO10   (10% Discount)\n\nFor More Queries WhatsApp or Call on  :  +91900",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2018-06-30T13:30:28Z",
+     "tags": [
+      "telusko",
+      "navin",
+      "reddy",
+      "tutorial",
+      "java",
+      "python",
+      "machine learning",
+      "data science",
+      "ai",
+      "google",
+      "robotics"
+     ],
+     "title": "#1 Python Tutorial for Beginners | Introduction to Python"
+    },
+    "statistics": {
+     "commentCount": "1442",
+     "favoriteCount": "0",
+     "likeCount": "85719",
+     "viewCount": "6255903"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT13M29S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "mC4nyib2sfg",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC7zZ2-Q_oxbUaoMVL0z51wg",
+     "channelTitle": "Sajjaad Khader",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "If I had to learn Python again from scratch.. and learn it FAST - this is exactly how I\u2019d do it. \n\nAfter teaching myself Python in just two months to survive a research lab, I built a simple 5-level \u201cPython Mastery Pyramid\u201d that takes you from absolute beginner to building real AI and machine learni",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-11-19T22:01:02Z",
+     "tags": [
+      "sajjaadkhader",
+      "sajjaad khader"
+     ],
+     "title": "How I Would Learn Python FAST (if I could start over)"
+    },
+    "statistics": {
+     "commentCount": "422",
+     "favoriteCount": "0",
+     "likeCount": "32198",
+     "viewCount": "865398"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1H42M41S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "oAkLSJNr5zY",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+     "channelTitle": "Corey Schafer",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "In this video, we'll be learning all about AsyncIO in Python and how to write asynchronous code using the async/await syntax. We'll explore how AsyncIO works under the hood with visual animations, understand key concepts like coroutines, tasks, and the event loop, and see how to convert existing syn",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-08-20T21:19:31Z",
+     "tags": [
+      "python",
+      "asyncio",
+      "async await",
+      "python tutorial",
+      "coroutines",
+      "event loop",
+      "python async",
+      "concurrency",
+      "asynchronous programming",
+      "asyncio tutorial",
+      "threading",
+      "multiprocessing",
+      "speed up python",
+      "visual tutorial",
+      "tasks",
+      "python asyncio",
+      "asyncio vs threads",
+      "python threads",
+      "httpx",
+      "taskgroup",
+      "python performance",
+      "async/await python",
+      "python concurrency",
+      "asyncio tasks",
+      "asyncio gather",
+      "threads vs processes",
+      "io-bound",
+      "cpu-bound",
+      "aiofiles",
+      "processpoolexecutor",
+      "visually explained",
+      "corey schafer"
+     ],
+     "title": "Python Tutorial: AsyncIO - Complete Guide to Asynchronous Programming with Animations"
+    },
+    "statistics": {
+     "commentCount": "438",
+     "favoriteCount": "0",
+     "likeCount": "6677",
+     "viewCount": "212623"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT2H2M33S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "q3AuP01daL4",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+     "channelTitle": "Apna College",
+     "defaultAudioLanguage": "hi",
+     "defaultLanguage": "en",
+     "description": "\ud83d\ude80 Get Placement Ready & learn from the best \ud83d\udc47\nNo.1 Online Tech Placement Batches : https://linktr.ee/apnacollege.in\n\nPython Notes : https://dsa.apnacollege.in/studymaterial/python-crash-course\n\n0:00 Intro\n1:04 Setup & Installation\n9:56 Printing & Variables\n18:33 Data Types\n21:34 Input & Comments\n27:",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-07-29T17:41:12Z",
+     "tags": [
+      "C++",
+      "C++ coding",
+      "C++ full course",
+      "C++ placement course",
+      "how to code",
+      "programming",
+      "college placement course",
+      "C++ language",
+      "java",
+      "java language",
+      "java full course",
+      "java placement",
+      "java code",
+      "java coding"
+     ],
+     "title": "Python Full Course for Beginners"
+    },
+    "statistics": {
+     "commentCount": "1398",
+     "favoriteCount": "0",
+     "likeCount": "35825",
+     "viewCount": "2396981"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT53S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "yZl5FJ3ChkI",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "28",
+     "channelId": "UCgKFOz_KrMbmypWrawtzDQg",
+     "channelTitle": "Erik Cupsa",
+     "defaultLanguage": "en",
+     "description": "If I was a beginner learning to code, I would use this Python roadmap step by step for beginners \ud83d\udcaa #coding #codingforbeginners #learntocode #codingtips #cs #python #computerscience",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2025-07-21T13:02:04Z",
+     "title": "Python Roadmap For Beginners (Step By Step)"
+    },
+    "statistics": {
+     "commentCount": "181",
+     "favoriteCount": "0",
+     "likeCount": "45156",
+     "viewCount": "671420"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   }
+  ],
+  "kind": "youtube#videoListResponse",
+  "pageInfo": {
+   "resultsPerPage": 26,
+   "totalResults": 26
+  }
+ }
+}

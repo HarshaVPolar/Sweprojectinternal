@@ -1,0 +1,150 @@
+{
+ "args": {
+  "id": "UC4a-Gbdw7vOaccHmFo40b9g,UCEBb1b_L6zDS3xTUrIALZOw,UCYO_jab_esuFRV4b17AJtAw",
+  "part": "snippet,contentDetails,statistics,brandingSettings,topicDetails"
+ },
+ "method": "channels_list",
+ "response": {
+  "items": [
+   {
+    "brandingSettings": {
+     "channel": {
+      "country": "US",
+      "description": "My name is Grant Sanderson. Videos here cover a variety of topics in math, or adjacent fields like physics and CS, all with an emphasis on visualizing the core ideas. The goal is to use animation to help elucidate and motivate otherwise tricky topics, and for difficult problems to be made simple wit",
+      "keywords": "Mathematics",
+      "title": "3Blue1Brown"
+     },
+     "image": {
+      "bannerExternalUrl": "https://yt3.googleusercontent.com/JfUD9Tu79zgoYGo5-WdP5YYj0XvAjPgV3c2Snj-cgy8jslro0Ln5by024zWL7XDin7Vs-qnxVg"
+     }
+    },
+    "contentDetails": {
+     "relatedPlaylists": {
+      "likes": "",
+      "uploads": "UUYO_jab_esuFRV4b17AJtAw"
+     }
+    },
+    "id": "UCYO_jab_esuFRV4b17AJtAw",
+    "kind": "youtube#channel",
+    "snippet": {
+     "country": "US",
+     "customUrl": "@3blue1brown",
+     "description": "My name is Grant Sanderson. Videos here cover a variety of topics in math, or adjacent fields like physics and CS, all with an emphasis on visualizing the core ideas. The goal is to use animation to help elucidate and motivate otherwise tricky topics, and for difficult problems to be made simple wit",
+     "publishedAt": "2015-03-03T23:11:55Z",
+     "title": "3Blue1Brown"
+    },
+    "statistics": {
+     "hiddenSubscriberCount": false,
+     "subscriberCount": "8790000",
+     "videoCount": "250",
+     "viewCount": "803964732"
+    },
+    "topicDetails": {
+     "topicCategories": [
+      "https://en.wikipedia.org/wiki/Knowledge"
+     ],
+     "topicIds": [
+      "/m/01k8wb"
+     ]
+    }
+   },
+   {
+    "brandingSettings": {
+     "channel": {
+      "country": "US",
+      "description": "Khan Academy is a nonprofit providing a free, world-class education for anyone, anywhere. Our interactive practice problems, articles, and videos help students succeed in math, biology, chemistry, physics, history, economics, finance, grammar, and many other topics.\n\nKhan Academy provides teachers w",
+      "keywords": "\"free online classes\" \"math tutorials\" \"science tutorials\" \"online education\" \"video classes\" \"arts and humanities videos\" \"online lessons\" \"online learning\"",
+      "title": "Khan Academy",
+      "trackingAnalyticsAccountId": "UA-22062823-1",
+      "unsubscribedTrailer": "FYqQgwI1FGs"
+     },
+     "image": {
+      "bannerExternalUrl": "https://yt3.googleusercontent.com/sS9LHiu43S5pMdxLi-kucha1s3ES3ah4t2vLdljfVtjr3B7PzuHR-v2e5vHpOR2yk4T_VwRhZ3s"
+     }
+    },
+    "contentDetails": {
+     "relatedPlaylists": {
+      "likes": "",
+      "uploads": "UU4a-Gbdw7vOaccHmFo40b9g"
+     }
+    },
+    "id": "UC4a-Gbdw7vOaccHmFo40b9g",
+    "kind": "youtube#channel",
+    "snippet": {
+     "country": "US",
+     "customUrl": "@khanacademy",
+     "description": "Khan Academy is a nonprofit providing a free, world-class education for anyone, anywhere. Our interactive practice problems, articles, and videos help students succeed in math, biology, chemistry, physics, history, economics, finance, grammar, and many other topics.\n\nKhan Academy provides teachers w",
+     "publishedAt": "2006-11-17T02:12:21Z",
+     "title": "Khan Academy"
+    },
+    "statistics": {
+     "hiddenSubscriberCount": false,
+     "subscriberCount": "9520000",
+     "videoCount": "9541",
+     "viewCount": "2266721128"
+    },
+    "topicDetails": {
+     "topicCategories": [
+      "https://en.wikipedia.org/wiki/Knowledge"
+     ],
+     "topicIds": [
+      "/m/01k8wb"
+     ]
+    }
+   },
+   {
+    "brandingSettings": {
+     "channel": {
+      "country": "US",
+      "description": "A free and open online publication of educational material from thousands of MIT courses, covering the entire MIT curriculum, ranging from introductory to the most advanced graduate courses. On the OCW website, each course includes a syllabus, instructional material like notes and reading lists, and",
+      "keywords": "MIT OCW OpenCourseWare engineering physics calculus mathematics algebra biology science lectures learning education STEM",
+      "title": "MIT OpenCourseWare",
+      "trackingAnalyticsAccountId": "UA-5145472-2",
+      "unsubscribedTrailer": "QgF3Ejhfh_k"
+     },
+     "image": {
+      "bannerExternalUrl": "https://yt3.googleusercontent.com/elNp3Js6ZhpmFOgF6lnC--eXaHz3-uUonFwO2BJBJnYmuBMu0ft0cicBREsbLhnM80Hd7acgLQ"
+     }
+    },
+    "contentDetails": {
+     "relatedPlaylists": {
+      "likes": "",
+      "uploads": "UUEBb1b_L6zDS3xTUrIALZOw"
+     }
+    },
+    "id": "UCEBb1b_L6zDS3xTUrIALZOw",
+    "kind": "youtube#channel",
+    "snippet": {
+     "country": "US",
+     "customUrl": "@mitocw",
+     "description": "A free and open online publication of educational material from thousands of MIT courses, covering the entire MIT curriculum, ranging from introductory to the most advanced graduate courses. On the OCW website, each course includes a syllabus, instructional material like notes and reading lists, and",
+     "publishedAt": "2005-10-11T09:36:14Z",
+     "title": "MIT OpenCourseWare"
+    },
+    "statistics": {
+     "hiddenSubscriberCount": false,
+     "subscriberCount": "6590000",
+     "videoCount": "8186",
+     "viewCount": "566511644"
+    },
+    "topicDetails": {
+     "topicCategories": [
+      "https://en.wikipedia.org/wiki/Technology",
+      "https://en.wikipedia.org/wiki/Knowledge",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+     ],
+     "topicIds": [
+      "/m/07c1v",
+      "/m/01k8wb",
+      "/m/019_rr"
+     ]
+    }
+   }
+  ],
+  "kind": "youtube#channelListResponse",
+  "pageInfo": {
+   "resultsPerPage": 5,
+   "totalResults": 3
+  }
+ }
+}

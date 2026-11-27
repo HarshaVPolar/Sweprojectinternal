@@ -1,0 +1,2075 @@
+{
+ "args": {
+  "id": "-7etvZSBxlk,-xg3fpegwEo,08v3PPgmL0E,0IZcjWtWmDA,17hvcCboukw,5ZgnEiA4oj0,5cwOeOKrA4A,6Vw9rgcykcA,6XPlmCDNLNc,6ay5WEkNusU,6q0qeDNrz6g,7L_eTem1SQ4,8hiGWBQ94WU,93UK_DNxZbA,ApjChL4yFZs,BjsOyW1Frd8,FnNwGxlrt3U,GlYgs6v2YfU,LKrwhjOI8Nc,MUn9aT8lOXA,Nbwv5wHQoj0,OnnWywg0q3Y,PUuX3xjIgas,QMt6FEuXz0s,RHamb6fs1CQ,SQYHE0YDHH8,VIZJyt0eeBA,V_uq3v6xK-4,YLVuW5U5_1k,ZU7lZAaNgVA,apc8jmzOqzE,ausLKMojXaY,bRQEWPA832A,kFQbz398kII,l6DKRf-fAAM,nrVaAz9KCms,qbsb9DpdZ6s,rYyJm1tD3d0,uqFwmaLoQcw,wGffBCfrAsE,wiLU4MMAS04,xQSTwehQdCc,y9gDOv79thc,zjUmTmY0aYA,zqzk43bSdDI",
+  "part": "snippet,contentDetails,statistics,status"
+ },
+ "method": "videos_list",
+ "response": {
+  "items": [
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT2M25S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "-7etvZSBxlk",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "Full video: https://youtu.be/l6DKRf-fAAM",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-06-12T13:22:02Z",
+     "tags": [
+      "Mathematics",
+      "three blue one brown",
+      "3 blue 1 brown",
+      "3b1b",
+      "3brown1blue",
+      "3 brown 1 blue",
+      "three brown one blue"
+     ],
+     "title": "Measuring the entropy of English"
+    },
+    "statistics": {
+     "commentCount": "180",
+     "favoriteCount": "0",
+     "likeCount": "22863",
+     "viewCount": "512387"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT3M11S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "-xg3fpegwEo",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "Sal discusses the three components of a strong investigative question and writes an example from a described study.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-18T19:24:34Z",
+     "tags": [
+      "online learning",
+      "online class",
+      "video class",
+      "video tutorial",
+      "online education"
+     ],
+     "title": "Understanding the components of an investigative question | AP Statistics | Khan Academy"
+    },
+    "statistics": {
+     "commentCount": "0",
+     "favoriteCount": "0",
+     "likeCount": "3",
+     "viewCount": "1970"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1H19M3S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "08v3PPgmL0E",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "MIT 3.071 Amorphous Materials, Spring 2025\nInstructor: Juejun Hu\n \nView the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLMFCFeCMp5Zc\n \nThe lecture covers the mechanical properties of glass and amorphous ",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-13T15:13:28Z",
+     "tags": [
+      "3-071-amorphous-materials-spring-2025",
+      "fracture",
+      "glass",
+      "mechanical",
+      "strength",
+      "toughness"
+     ],
+     "title": "Lecture 10 on Topic 8: Mechanical Properties"
+    },
+    "statistics": {
+     "commentCount": "0",
+     "favoriteCount": "0",
+     "likeCount": "4",
+     "viewCount": "1468"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": false,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT2M12S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "0IZcjWtWmDA",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "Full video: https://youtu.be/qbsb9DpdZ6s",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-17T16:43:03Z",
+     "tags": [
+      "Mathematics",
+      "three blue one brown",
+      "3 blue 1 brown",
+      "3b1b",
+      "3brown1blue",
+      "3 brown 1 blue",
+      "three brown one blue"
+     ],
+     "title": "Encoding the encyclopedia on a rod"
+    },
+    "statistics": {
+     "commentCount": "570",
+     "favoriteCount": "0",
+     "likeCount": "50496",
+     "viewCount": "773353"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1H10M43S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "17hvcCboukw",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "MIT 3.071 Amorphous Materials, Spring 2025\nInstructor: Juejun Hu\n \nView the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLMFCFeCMp5Zc\n \nThis lecture covers characterizing amorphous materials using X-ray d",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-13T15:13:12Z",
+     "tags": [
+      "3-071-amorphous-materials-spring-2025",
+      "characterization",
+      "raman spectroscopy",
+      "thermal analysis",
+      "x-ray diffraction"
+     ],
+     "title": "Lecture 22 on Topic 15: Characterizing the Amorphous State"
+    },
+    "statistics": {
+     "commentCount": "0",
+     "favoriteCount": "0",
+     "likeCount": "1",
+     "viewCount": "320"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": false,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1H14M19S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "5ZgnEiA4oj0",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "MIT 3.071 Amorphous Materials, Spring 2025\nInstructor: Juejun Hu\n \nView the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLMFCFeCMp5Zc\n \nThis lecture explains how biomineralization creates inorganic solids",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-13T15:13:10Z",
+     "tags": [
+      "3-071-amorphous-materials-spring-2025",
+      "amorphous precursors",
+      "bioinspired materials",
+      "hierarchical structures",
+      "transient phases"
+     ],
+     "title": "Lecture 24 on Topic 16: Biomineralization"
+    },
+    "statistics": {
+     "commentCount": "3",
+     "favoriteCount": "0",
+     "likeCount": "7",
+     "viewCount": "710"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": false,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1H13M26S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "5cwOeOKrA4A",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "MIT 3.071 Amorphous Materials, Spring 2025\nInstructor: Juejun Hu\n \nView the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLMFCFeCMp5Zc\n \nThe lecture covers amorphous silicon properties, hydrogen passivatio",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-13T15:13:18Z",
+     "tags": [
+      "3-071-amorphous-materials-spring-2025",
+      "amorphous silicon",
+      "display",
+      "hydrogenation",
+      "photovoltaic",
+      "thin film transistor"
+     ],
+     "title": "Lecture 17 on Topic 12: Amorphous Silicon Macroelectronics"
+    },
+    "statistics": {
+     "commentCount": "0",
+     "favoriteCount": "0",
+     "likeCount": "2",
+     "viewCount": "354"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": false,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1M12S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "6Vw9rgcykcA",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "After taking the MCAT twice, this learner shifted from passive review to a more active study routine: watch a lesson, revisit the concept, then reinforce it with practice.\n\nKhan Academy MCAT Prep is free, self-paced, developed in collaboration with the AAMC, and designed to align with the MCAT Offic",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-19T15:57:16Z",
+     "tags": [
+      "online learning",
+      "online class",
+      "video class",
+      "video tutorial",
+      "online education"
+     ],
+     "title": "Watching a video can help a concept click. Practicing with questions can help make it stick."
+    },
+    "statistics": {
+     "commentCount": "0",
+     "favoriteCount": "0",
+     "likeCount": "15",
+     "viewCount": "3062"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT56S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "6XPlmCDNLNc",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "See all monthly puzzles: https://momath.org/mindbenders/",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-07-24T15:05:39Z",
+     "tags": [
+      "Mathematics",
+      "three blue one brown",
+      "3 blue 1 brown",
+      "3b1b",
+      "3brown1blue",
+      "3 brown 1 blue",
+      "three brown one blue"
+     ],
+     "title": "The 64 sugar cubes puzzle"
+    },
+    "statistics": {
+     "commentCount": "398",
+     "favoriteCount": "0",
+     "likeCount": "9315",
+     "viewCount": "354575"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT3M11S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "6ay5WEkNusU",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "Sal interprets a confidence interval for a population proportion in context, then uses it to decide whether the interval gives convincing evidence against a claim.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-18T19:23:45Z",
+     "tags": [
+      "online learning",
+      "online class",
+      "video class",
+      "video tutorial",
+      "online education"
+     ],
+     "title": "Justifying a claim based on a confidence interval for a population proportion"
+    },
+    "statistics": {
+     "commentCount": "0",
+     "favoriteCount": "0",
+     "likeCount": "5",
+     "viewCount": "2273"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1H17M9S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "6q0qeDNrz6g",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "MIT 3.071 Amorphous Materials, Spring 2025\nInstructor: Juejun Hu\n \nView the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLMFCFeCMp5Zc\n \nThis lecture covers characterizing amorphous materials using X-ray d",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-13T15:13:24Z",
+     "tags": [
+      "3-071-amorphous-materials-spring-2025",
+      "characterization",
+      "raman spectroscopy",
+      "thermal analysis",
+      "x-ray diffraction"
+     ],
+     "title": "Lecture 23 on Topic 15: Characterizing the Amorphous State"
+    },
+    "statistics": {
+     "commentCount": "0",
+     "favoriteCount": "0",
+     "likeCount": "6",
+     "viewCount": "2687"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": false,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1M2S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "7L_eTem1SQ4",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "Full video: https://youtu.be/l6DKRf-fAAM",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-06-10T13:26:34Z",
+     "tags": [
+      "Mathematics",
+      "three blue one brown",
+      "3 blue 1 brown",
+      "3b1b",
+      "3brown1blue",
+      "3 brown 1 blue",
+      "three brown one blue"
+     ],
+     "title": "What's the perfect encoding? How do you know?"
+    },
+    "statistics": {
+     "commentCount": "160",
+     "favoriteCount": "0",
+     "likeCount": "7153",
+     "viewCount": "252506"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1H19M26S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "8hiGWBQ94WU",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "MIT 3.071 Amorphous Materials, Spring 2025\nInstructor: Juejun Hu\n \nView the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLMFCFeCMp5Zc\n \nThe lecture discusses phase-change materials used in data storage, s",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-13T15:13:31Z",
+     "tags": [
+      "3-071-amorphous-materials-spring-2025",
+      "amorphous",
+      "chalcogenide",
+      "glass",
+      "materials",
+      "structure"
+     ],
+     "title": "Lecture 5 on Topic 5: Viscosity of Glass"
+    },
+    "statistics": {
+     "commentCount": "5",
+     "favoriteCount": "0",
+     "likeCount": "41",
+     "viewCount": "10612"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": false,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT2M12S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "93UK_DNxZbA",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "Sal calculates joint relative frequency from a two-way table of counts.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-18T19:24:35Z",
+     "tags": [
+      "online learning",
+      "online class",
+      "video class",
+      "video tutorial",
+      "online education"
+     ],
+     "title": "Joint relative frequency | AP Statistics | Khan Academy"
+    },
+    "statistics": {
+     "commentCount": "0",
+     "favoriteCount": "0",
+     "likeCount": "5",
+     "viewCount": "2900"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1H9M21S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "ApjChL4yFZs",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en-US",
+     "description": "MIT 3.071 Amorphous Materials, Spring 2025\nInstructor: Juejun Hu\n \nView the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLMFCFeCMp5Zc\n \nThe lecture covers the course policy and introduces amorphous materi",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-13T15:13:22Z",
+     "tags": [
+      "3-071-amorphous-materials-spring-2025",
+      "amorphous solid",
+      "crystalline",
+      "glass transition",
+      "zachariasen's random network theory"
+     ],
+     "title": "Lecture 1 on Topic 1: Fundamentals of the Amorphous State"
+    },
+    "statistics": {
+     "commentCount": "12",
+     "favoriteCount": "0",
+     "likeCount": "147",
+     "viewCount": "34770"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": false,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT3M29S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "BjsOyW1Frd8",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "Check out our latest assessment feature: Explain Your Thinking (EYT)! In this video, Peter from the Khan Academy assessments team introduces Khanductor, our new AI assessment facilitator designed to gauge a student's conceptual understanding through interactive follow-up chats. Unlike other AI tools",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-19T17:25:12Z",
+     "tags": [
+      "online learning",
+      "online class",
+      "video class",
+      "video tutorial",
+      "online education"
+     ],
+     "title": "Explain Your Thinking - Khan Academy Interim Assessments"
+    },
+    "statistics": {
+     "commentCount": "5",
+     "favoriteCount": "0",
+     "likeCount": "50",
+     "viewCount": "9045"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1H14M58S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "FnNwGxlrt3U",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "MIT 3.071 Amorphous Materials, Spring 2025\nInstructor: Juejun Hu\n \nView the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLMFCFeCMp5Zc\n \nThe lecture covers classes of amorphous materials, including silicat",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-13T15:13:26Z",
+     "tags": [
+      "3-071-amorphous-materials-spring-2025",
+      "amorphous materials",
+      "glass structure",
+      "intermediates",
+      "modifiers",
+      "network formers"
+     ],
+     "title": "Lecture 2 on Topic 2: Classes of Amorphous Materials"
+    },
+    "statistics": {
+     "commentCount": "1",
+     "favoriteCount": "0",
+     "likeCount": "16",
+     "viewCount": "2268"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": false,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT33M51S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "GlYgs6v2YfU",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "Where the loss function for training LLMs comes from.\nJob opportunities aligned to this audience: https://3b1b.co/talent\nEarly views and other perks for supporters: https://3b1b.co/support\nHome page: https://www.3blue1brown.com\n\nPart 1: https://youtu.be/l6DKRf-fAAM\n\nIf you want to learn more about L",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-07-16T11:56:04Z",
+     "tags": [
+      "Mathematics",
+      "three blue one brown",
+      "3 blue 1 brown",
+      "3b1b",
+      "3brown1blue",
+      "3 brown 1 blue",
+      "three brown one blue"
+     ],
+     "title": "Cross-entropy: Compression ratios as loss functions | Compression & Intelligence, part 2"
+    },
+    "statistics": {
+     "commentCount": "1009",
+     "favoriteCount": "0",
+     "likeCount": "23677",
+     "viewCount": "984144"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT40M44S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "LKrwhjOI8Nc",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "Sharing a few thoughts on the future of math\nThese videos are funded directly by viewers: https://3b1b.co/support\nAn equally valuable form of support is to simply share the videos.\nHome page: https://www.3blue1brown.com\n\nIf you want a finger on the pulse of how mathematicians are feeling right now, ",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-10-16T16:15:20Z",
+     "tags": [
+      "Mathematics",
+      "three blue one brown",
+      "3 blue 1 brown",
+      "3b1b",
+      "3brown1blue",
+      "3 brown 1 blue",
+      "three brown one blue"
+     ],
+     "title": "There's never been a better time to go into math"
+    },
+    "statistics": {
+     "commentCount": "5556",
+     "favoriteCount": "0",
+     "likeCount": "45170",
+     "viewCount": "2891398"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1H15M11S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "MUn9aT8lOXA",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "MIT 3.071 Amorphous Materials, Spring 2025\nInstructor: Juejun Hu\n \nView the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLMFCFeCMp5Zc\n \nThe lecture discusses glass viscosity, its reference points, and the",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-13T15:13:31Z",
+     "tags": [
+      "3-071-amorphous-materials-spring-2025",
+      "amorphous",
+      "glass",
+      "materials",
+      "shear rate",
+      "viscosity"
+     ],
+     "title": "Lecture 6 on Topic 6: Glass Shaping"
+    },
+    "statistics": {
+     "commentCount": "1",
+     "favoriteCount": "0",
+     "likeCount": "28",
+     "viewCount": "2949"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": false,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT51M56S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "Nbwv5wHQoj0",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "A beautiful puzzle that eluded AI, and the intuition it requires.\nCheck out our virtual career fair: https://3b1b.co/talent\nSee new videos early: https://3b1b.co/support\nAn equally valuable form of support is to simply share the videos.\nHome page: https://www.3blue1brown.com\n\nNote for the quote at t",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-09-18T17:12:53Z",
+     "tags": [
+      "Mathematics",
+      "three blue one brown",
+      "3 blue 1 brown",
+      "3b1b",
+      "3brown1blue",
+      "3 brown 1 blue",
+      "three brown one blue"
+     ],
+     "title": "The last IMO problem AI could not solve"
+    },
+    "statistics": {
+     "commentCount": "1763",
+     "favoriteCount": "0",
+     "likeCount": "33411",
+     "viewCount": "3158411"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT4M29S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "OnnWywg0q3Y",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "Sal shows how to classify a quantitative variable as discrete or continuous, and give the reason for the classification.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-18T19:25:04Z",
+     "tags": [
+      "online learning",
+      "online class",
+      "video class",
+      "video tutorial",
+      "online education"
+     ],
+     "title": "Classifying discrete and continuous variables | AP Statistics | Khan Academy"
+    },
+    "statistics": {
+     "commentCount": "0",
+     "favoriteCount": "0",
+     "likeCount": "8",
+     "viewCount": "6868"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1M49S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "PUuX3xjIgas",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "Sal calculates marginal relative frequency from a two-way table of counts.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-18T19:24:34Z",
+     "tags": [
+      "online learning",
+      "online class",
+      "video class",
+      "video tutorial",
+      "online education"
+     ],
+     "title": "Marginal relative frequency | AP Statistics | Khan Academy"
+    },
+    "statistics": {
+     "commentCount": "0",
+     "favoriteCount": "0",
+     "likeCount": "4",
+     "viewCount": "1774"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT2M38S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "QMt6FEuXz0s",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "Which way is she facing? Is the dress black & blue, or white & gold? Prof. Josh McDermott explores our fascination with optical illusions and explains how the brain uses visual signals to make inferences about the world around us.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-16T18:00:17Z",
+     "tags": [
+      "optical illusion",
+      "optical illusions",
+      "science",
+      "stem",
+      "brain",
+      "brain and cog",
+      "cognitive sceince",
+      "the human brain",
+      "mit"
+     ],
+     "title": "Optical Illusions!"
+    },
+    "statistics": {
+     "commentCount": "6",
+     "favoriteCount": "0",
+     "likeCount": "173",
+     "viewCount": "15855"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT7M9S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "RHamb6fs1CQ",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "Engineers use physical models and computer simulations to test designs and predict performance. Controlled, repeated tests provide data for evaluating solutions against criteria and constraints. Engineers combine promising features, optimize designs through repeated testing, and investigate failures",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-20T13:09:36Z",
+     "tags": [
+      "online learning",
+      "online class",
+      "video class",
+      "video tutorial",
+      "online education"
+     ],
+     "title": "Testing an engineering design | Middle school science | Khan Academy"
+    },
+    "statistics": {
+     "commentCount": "0",
+     "favoriteCount": "0",
+     "likeCount": "50",
+     "viewCount": "3470"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": true,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT21S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "SQYHE0YDHH8",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "Check out the way this teacher hypes up her class for the Khan Academy Gem Jam! Catchy tune, huh? \n\nDoes your class have a warm up song or other way to get the Gem Jam learning started? Tag us in your exciting routines! \ud83d\udc8e\u2728",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-19T22:34:41Z",
+     "tags": [
+      "online learning",
+      "online class",
+      "video class",
+      "video tutorial",
+      "online education"
+     ],
+     "title": "\ud83d\udc8e Gem Jam Warmup Song \ud83c\udfb5"
+    },
+    "statistics": {
+     "commentCount": "2",
+     "favoriteCount": "0",
+     "likeCount": "32",
+     "viewCount": "5563"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT46M59S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "VIZJyt0eeBA",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "MIT 3.071 Amorphous Materials, Spring 2025\nInstructor: Peter Houk and Mariel Bass\n \nView the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLMFCFeCMp5Zc\n \nThe 3.071 class visited the MIT Glass Lab.\n \nLicens",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-13T15:13:20Z",
+     "tags": [
+      "3-071-amorphous-materials-spring-2025",
+      "glass making",
+      "lab tour",
+      "mit glass lab"
+     ],
+     "title": "Lecture 9: MIT Glass Lab Tour"
+    },
+    "statistics": {
+     "commentCount": "0",
+     "favoriteCount": "0",
+     "likeCount": "4",
+     "viewCount": "521"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": false,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT46S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "V_uq3v6xK-4",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "Part of a series of monthly puzzles\nEarly view of some other solutions:\nhttps://members.3blue1brown.com/posts/solution-to-10-158885046\nhttps://members.3blue1brown.com/posts/solution-to-sum-156593740",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-10-25T14:30:46Z",
+     "tags": [
+      "Mathematics",
+      "three blue one brown",
+      "3 blue 1 brown",
+      "3b1b",
+      "3brown1blue",
+      "3 brown 1 blue",
+      "three brown one blue"
+     ],
+     "title": "The Sphere Intersection Puzzle"
+    },
+    "statistics": {
+     "commentCount": "410",
+     "favoriteCount": "0",
+     "likeCount": "10055",
+     "viewCount": "343180"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT4M41S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "YLVuW5U5_1k",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "Sal explores a simulated deck of blue and red cards to demonstrate the idea of probability as \u201clong-run relative frequency\u201d: the proportion of outcomes observed after a large number of trials.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-18T19:24:34Z",
+     "tags": [
+      "online learning",
+      "online class",
+      "video class",
+      "video tutorial",
+      "online education"
+     ],
+     "title": "Probability as long run relative frequency | AP Statistics | Khan Academy"
+    },
+    "statistics": {
+     "commentCount": "0",
+     "favoriteCount": "0",
+     "likeCount": "6",
+     "viewCount": "1621"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT3M15S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "ZU7lZAaNgVA",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "Sal shows how to classify a described sampling procedure as with or without replacement.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-18T19:25:04Z",
+     "tags": [
+      "online learning",
+      "online class",
+      "video class",
+      "video tutorial",
+      "online education"
+     ],
+     "title": "Sampling with and without replacement | AP Statistics | Khan Academy"
+    },
+    "statistics": {
+     "commentCount": "0",
+     "favoriteCount": "0",
+     "likeCount": "7",
+     "viewCount": "3795"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT2M31S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "apc8jmzOqzE",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "Sal shows how to decide whether a described data collection method is a census, by naming the population and checking that every individual in it was recorded.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-18T19:25:04Z",
+     "tags": [
+      "online learning",
+      "online class",
+      "video class",
+      "video tutorial",
+      "online education"
+     ],
+     "title": "Identifying a census | AP Statistics | Khan Academy"
+    },
+    "statistics": {
+     "commentCount": "0",
+     "favoriteCount": "0",
+     "likeCount": "11",
+     "viewCount": "3824"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT44S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "ausLKMojXaY",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "Part of a monthly series of puzzles: https://momath.org/mindbenders/",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-09-25T13:35:02Z",
+     "tags": [
+      "Mathematics",
+      "three blue one brown",
+      "3 blue 1 brown",
+      "3b1b",
+      "3brown1blue",
+      "3 brown 1 blue",
+      "three brown one blue"
+     ],
+     "title": "The Phone Number puzzle"
+    },
+    "statistics": {
+     "commentCount": "376",
+     "favoriteCount": "0",
+     "likeCount": "20034",
+     "viewCount": "786337"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1M40S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "bRQEWPA832A",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "Full video: https://youtu.be/Nbwv5wHQoj0",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-09-18T17:14:08Z",
+     "tags": [
+      "Mathematics",
+      "three blue one brown",
+      "3 blue 1 brown",
+      "3b1b",
+      "3brown1blue",
+      "3 brown 1 blue",
+      "three brown one blue"
+     ],
+     "title": "The last IMO problem AI could not solve"
+    },
+    "statistics": {
+     "commentCount": "278",
+     "favoriteCount": "0",
+     "likeCount": "26158",
+     "viewCount": "779401"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT2M54S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "kFQbz398kII",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "Sal interprets a confidence interval for the difference between two population means, then uses it to evaluate a claim that the two means are equal.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-18T19:23:46Z",
+     "tags": [
+      "online learning",
+      "online class",
+      "video class",
+      "video tutorial",
+      "online education"
+     ],
+     "title": "Justifying a claim based on a confidence interval for the difference between two means"
+    },
+    "statistics": {
+     "commentCount": "0",
+     "favoriteCount": "0",
+     "likeCount": "3",
+     "viewCount": "1706"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT31M23S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "l6DKRf-fAAM",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "How to study the compressibility of language.\nCheck out our virtual career fair: https://3b1b.co/talent\nSee new projects before they go live: https://3b1b.co/support\n\nAnimation credit:\nManim scenes by Aaron Gostein and Grant Sanderson\nShannon\u2019s story, as well as those for various pi creatures, by Mi",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-06-07T11:49:51Z",
+     "tags": [
+      "Mathematics",
+      "three blue one brown",
+      "3 blue 1 brown",
+      "3b1b",
+      "3brown1blue",
+      "3 brown 1 blue",
+      "three brown one blue"
+     ],
+     "title": "How to invent entropy | Compression & Intelligence, part 1"
+    },
+    "statistics": {
+     "commentCount": "2425",
+     "favoriteCount": "0",
+     "likeCount": "57674",
+     "viewCount": "1808665"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1H14M48S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "nrVaAz9KCms",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "MIT 3.071 Amorphous Materials, Spring 2025\nInstructor: Juejun Hu\n \nView the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLMFCFeCMp5Zc\n \nThe lecture explains conduction in amorphous materials, covering ion",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-13T15:13:15Z",
+     "tags": [
+      "3-071-amorphous-materials-spring-2025",
+      "conductivity",
+      "electron transport",
+      "hopping",
+      "ionic conduction",
+      "localization"
+     ],
+     "title": "Lecture 16 on Topic 11: Electrical and Transport Properties"
+    },
+    "statistics": {
+     "commentCount": "0",
+     "favoriteCount": "0",
+     "likeCount": "3",
+     "viewCount": "334"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": false,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT37M25S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "qbsb9DpdZ6s",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "Arithmetic codes and what they reflect about compression & intelligence\nChannel career fair: https://3b1b.com/talent\nNew store items! https://3b1b.com/store\nEarly views for supporters: https://3b1b.com/support\n\nOn Arithmetic Codes:\n\nhttps://jacobfilipp.com/DrDobbs/articles/DDJ/1991/9102/9102a/9102a.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-17T16:43:16Z",
+     "tags": [
+      "Mathematics",
+      "three blue one brown",
+      "3 blue 1 brown",
+      "3b1b",
+      "3brown1blue",
+      "3 brown 1 blue",
+      "three brown one blue"
+     ],
+     "title": "This algorithm changed how I think about compression | Compression & Intelligence, part 3"
+    },
+    "statistics": {
+     "commentCount": "1549",
+     "favoriteCount": "0",
+     "likeCount": "26434",
+     "viewCount": "1480058"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT53S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "rYyJm1tD3d0",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "Part of a series of monthly puzzles with MoMath.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-08-18T14:54:17Z",
+     "tags": [
+      "Mathematics",
+      "three blue one brown",
+      "3 blue 1 brown",
+      "3b1b",
+      "3brown1blue",
+      "3 brown 1 blue",
+      "three brown one blue"
+     ],
+     "title": "The jumping pegs puzzle"
+    },
+    "statistics": {
+     "commentCount": "500",
+     "favoriteCount": "0",
+     "likeCount": "13246",
+     "viewCount": "581097"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "sd",
+     "dimension": "2d",
+     "duration": "P0D",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "uqFwmaLoQcw",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "An Open Conversation with Dr. Desir\u00e9e Plata and Dr. Chris Raben Hosted by Curt Newton\n\nUnderstanding the connections between climate, energy, and economic growth is critical to shaping a future where thriving communities and economic prosperity are no longer tied to greenhouse gas emissions. How can",
+     "liveBroadcastContent": "upcoming",
+     "publishedAt": "2026-11-17T15:23:41Z",
+     "title": "Building Climate and Energy Resilience through Education Live Webcast"
+    },
+    "statistics": {
+     "commentCount": "0",
+     "favoriteCount": "0",
+     "likeCount": "4",
+     "viewCount": "0"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "uploaded"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1M10S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "wGffBCfrAsE",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "Part of a series of monthly puzzles done in collaboration with MoMath.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-06-16T18:04:05Z",
+     "tags": [
+      "Mathematics",
+      "three blue one brown",
+      "3 blue 1 brown",
+      "3b1b",
+      "3brown1blue",
+      "3 brown 1 blue",
+      "three brown one blue"
+     ],
+     "title": "100 random chords, how many intersections?"
+    },
+    "statistics": {
+     "commentCount": "441",
+     "favoriteCount": "0",
+     "likeCount": "15137",
+     "viewCount": "620913"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1H11M53S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "wiLU4MMAS04",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "MIT 3.071 Amorphous Materials, Spring 2025\nInstructor: Juejun Hu\n \nView the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLMFCFeCMp5Zc\n \nThe lecture discusses glass viscosity, its reference points, and the",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-13T15:13:13Z",
+     "tags": [
+      "3-071-amorphous-materials-spring-2025",
+      "amorphous",
+      "glass",
+      "materials",
+      "shear rate",
+      "viscosity"
+     ],
+     "title": "Lecture 7 on Topic 6: Glass Shaping"
+    },
+    "statistics": {
+     "commentCount": "0",
+     "favoriteCount": "0",
+     "likeCount": "4",
+     "viewCount": "278"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": false,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1M53S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "xQSTwehQdCc",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "Sal shows how to turn counts for a single categorical variable into proportions in a relative frequency table.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-18T19:25:05Z",
+     "tags": [
+      "online learning",
+      "online class",
+      "video class",
+      "video tutorial",
+      "online education"
+     ],
+     "title": "Creating a relative frequency table for one categorical variable | AP Statistics | Khan Academy"
+    },
+    "statistics": {
+     "commentCount": "0",
+     "favoriteCount": "0",
+     "likeCount": "18",
+     "viewCount": "12683"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "false",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1M16S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "y9gDOv79thc",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "Sal calculates conditional relative frequency from a two-way table of counts.",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-18T19:24:35Z",
+     "tags": [
+      "online learning",
+      "online class",
+      "video class",
+      "video tutorial",
+      "online education"
+     ],
+     "title": "Conditional relative frequency | AP Statistics | Khan Academy"
+    },
+    "statistics": {
+     "commentCount": "1",
+     "favoriteCount": "0",
+     "likeCount": "8",
+     "viewCount": "2512"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT1H14M10S",
+     "licensedContent": false,
+     "projection": "rectangular"
+    },
+    "id": "zjUmTmY0aYA",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+     "channelTitle": "MIT OpenCourseWare",
+     "defaultAudioLanguage": "en-US",
+     "defaultLanguage": "en",
+     "description": "MIT 3.071 Amorphous Materials, Spring 2025\nInstructor: Juejun Hu\n \nView the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/\nYouTube Playlist: https://www.youtube.com/playlist?list=PLMFCFeCMp5Zc\n \nThe lecture covers the course policy and introduces amorphous materi",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-13T15:13:08Z",
+     "tags": [
+      "3-071-amorphous-materials-spring-2025",
+      "chromatic dispersion",
+      "glass coloring",
+      "optical loss",
+      "rayleigh scattering",
+      "refractive index"
+     ],
+     "title": "Lecture 13 on Topic 9: Glass Strengthening"
+    },
+    "statistics": {
+     "commentCount": "0",
+     "favoriteCount": "0",
+     "likeCount": "3",
+     "viewCount": "323"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": false,
+     "uploadStatus": "processed"
+    }
+   },
+   {
+    "contentDetails": {
+     "caption": "true",
+     "contentRating": {},
+     "definition": "hd",
+     "dimension": "2d",
+     "duration": "PT13M39S",
+     "licensedContent": true,
+     "projection": "rectangular"
+    },
+    "id": "zqzk43bSdDI",
+    "kind": "youtube#video",
+    "snippet": {
+     "categoryId": "27",
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "defaultAudioLanguage": "en",
+     "defaultLanguage": "en",
+     "description": "Hypothetical no more\nAnnouncement by Levent Alp\u00f6ge: https://alpo.ge/remark.pdf\n\nAnnouncement from Alessandro Maria Masullo\u00a0on his work on GHR: https://sites.google.com/view/tmotp/home\n\n0:00 - Kevin Buzzard\n0:45 - Ken Ono\n1:14 - Elliot Glazer\n1:28 - Jordan Ellenberg\n2:18 - Leo de Moura\n3:14 - Terence",
+     "liveBroadcastContent": "none",
+     "publishedAt": "2026-11-22T02:02:12Z",
+     "tags": [
+      "Mathematics",
+      "three blue one brown",
+      "3 blue 1 brown",
+      "3b1b",
+      "3brown1blue",
+      "3 brown 1 blue",
+      "three brown one blue"
+     ],
+     "title": "We've been asking: \u201cWhat if AI solved the Riemann Hypothesis?\u201d"
+    },
+    "statistics": {
+     "commentCount": "4469",
+     "favoriteCount": "0",
+     "likeCount": "48082",
+     "viewCount": "3492516"
+    },
+    "status": {
+     "embeddable": true,
+     "license": "youtube",
+     "madeForKids": false,
+     "privacyStatus": "public",
+     "publicStatsViewable": true,
+     "uploadStatus": "processed"
+    }
+   }
+  ],
+  "kind": "youtube#videoListResponse",
+  "pageInfo": {
+   "resultsPerPage": 45,
+   "totalResults": 45
+  }
+ }
+}

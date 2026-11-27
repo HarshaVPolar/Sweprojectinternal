@@ -1,0 +1,20 @@
+{
+ "args": {
+  "forHandle": "@3blue1brown",
+  "part": "id"
+ },
+ "method": "channels_list",
+ "response": {
+  "items": [
+   {
+    "id": "UCYO_jab_esuFRV4b17AJtAw",
+    "kind": "youtube#channel"
+   }
+  ],
+  "kind": "youtube#channelListResponse",
+  "pageInfo": {
+   "resultsPerPage": 5,
+   "totalResults": 1
+  }
+ }
+}

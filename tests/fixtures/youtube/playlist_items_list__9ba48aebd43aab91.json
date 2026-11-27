@@ -1,0 +1,363 @@
+{
+ "args": {
+  "maxResults": 15,
+  "part": "snippet,contentDetails",
+  "playlistId": "UU4a-Gbdw7vOaccHmFo40b9g"
+ },
+ "method": "playlist_items_list",
+ "response": {
+  "items": [
+   {
+    "contentDetails": {
+     "videoId": "RHamb6fs1CQ",
+     "videoPublishedAt": "2026-11-20T13:09:36Z"
+    },
+    "id": "VVU0YS1HYmR3N3ZPYWNjSG1GbzQwYjlnLlJIYW1iNmZzMUNR",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "description": "Engineers use physical models and computer simulations to test designs and predict performance. Controlled, repeated tests provide data for evaluating solutions against criteria and constraints. Engineers combine promising features, optimize designs through repeated testing, and investigate failures",
+     "playlistId": "UU4a-Gbdw7vOaccHmFo40b9g",
+     "position": 0,
+     "publishedAt": "2026-11-20T13:09:36Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "RHamb6fs1CQ"
+     },
+     "title": "Testing an engineering design | Middle school science | Khan Academy",
+     "videoOwnerChannelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "videoOwnerChannelTitle": "Khan Academy"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "SQYHE0YDHH8",
+     "videoPublishedAt": "2026-11-19T22:34:41Z"
+    },
+    "id": "VVU0YS1HYmR3N3ZPYWNjSG1GbzQwYjlnLlNRWUhFMFlESEg4",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "description": "Check out the way this teacher hypes up her class for the Khan Academy Gem Jam! Catchy tune, huh? \n\nDoes your class have a warm up song or other way to get the Gem Jam learning started? Tag us in your exciting routines! \ud83d\udc8e\u2728",
+     "playlistId": "UU4a-Gbdw7vOaccHmFo40b9g",
+     "position": 1,
+     "publishedAt": "2026-11-19T22:34:41Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "SQYHE0YDHH8"
+     },
+     "title": "\ud83d\udc8e Gem Jam Warmup Song \ud83c\udfb5",
+     "videoOwnerChannelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "videoOwnerChannelTitle": "Khan Academy"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "BjsOyW1Frd8",
+     "videoPublishedAt": "2026-11-19T17:25:12Z"
+    },
+    "id": "VVU0YS1HYmR3N3ZPYWNjSG1GbzQwYjlnLkJqc095VzFGcmQ4",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "description": "Check out our latest assessment feature: Explain Your Thinking (EYT)! In this video, Peter from the Khan Academy assessments team introduces Khanductor, our new AI assessment facilitator designed to gauge a student's conceptual understanding through interactive follow-up chats. Unlike other AI tools",
+     "playlistId": "UU4a-Gbdw7vOaccHmFo40b9g",
+     "position": 2,
+     "publishedAt": "2026-11-19T17:25:12Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "BjsOyW1Frd8"
+     },
+     "title": "Explain Your Thinking - Khan Academy Interim Assessments",
+     "videoOwnerChannelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "videoOwnerChannelTitle": "Khan Academy"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "6Vw9rgcykcA",
+     "videoPublishedAt": "2026-11-19T15:57:16Z"
+    },
+    "id": "VVU0YS1HYmR3N3ZPYWNjSG1GbzQwYjlnLjZWdzlyZ2N5a2NB",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "description": "After taking the MCAT twice, this learner shifted from passive review to a more active study routine: watch a lesson, revisit the concept, then reinforce it with practice.\n\nKhan Academy MCAT Prep is free, self-paced, developed in collaboration with the AAMC, and designed to align with the MCAT Offic",
+     "playlistId": "UU4a-Gbdw7vOaccHmFo40b9g",
+     "position": 3,
+     "publishedAt": "2026-11-19T15:57:16Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "6Vw9rgcykcA"
+     },
+     "title": "Watching a video can help a concept click. Practicing with questions can help make it stick.",
+     "videoOwnerChannelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "videoOwnerChannelTitle": "Khan Academy"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "xQSTwehQdCc",
+     "videoPublishedAt": "2026-11-18T19:25:05Z"
+    },
+    "id": "VVU0YS1HYmR3N3ZPYWNjSG1GbzQwYjlnLnhRU1R3ZWhRZENj",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "description": "Sal shows how to turn counts for a single categorical variable into proportions in a relative frequency table.",
+     "playlistId": "UU4a-Gbdw7vOaccHmFo40b9g",
+     "position": 4,
+     "publishedAt": "2026-11-18T19:25:05Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "xQSTwehQdCc"
+     },
+     "title": "Creating a relative frequency table for one categorical variable | AP Statistics | Khan Academy",
+     "videoOwnerChannelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "videoOwnerChannelTitle": "Khan Academy"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "OnnWywg0q3Y",
+     "videoPublishedAt": "2026-11-18T19:25:04Z"
+    },
+    "id": "VVU0YS1HYmR3N3ZPYWNjSG1GbzQwYjlnLk9ubld5d2cwcTNZ",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "description": "Sal shows how to classify a quantitative variable as discrete or continuous, and give the reason for the classification.",
+     "playlistId": "UU4a-Gbdw7vOaccHmFo40b9g",
+     "position": 5,
+     "publishedAt": "2026-11-18T19:25:04Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "OnnWywg0q3Y"
+     },
+     "title": "Classifying discrete and continuous variables | AP Statistics | Khan Academy",
+     "videoOwnerChannelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "videoOwnerChannelTitle": "Khan Academy"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "ZU7lZAaNgVA",
+     "videoPublishedAt": "2026-11-18T19:25:04Z"
+    },
+    "id": "VVU0YS1HYmR3N3ZPYWNjSG1GbzQwYjlnLlpVN2xaQWFOZ1ZB",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "description": "Sal shows how to classify a described sampling procedure as with or without replacement.",
+     "playlistId": "UU4a-Gbdw7vOaccHmFo40b9g",
+     "position": 6,
+     "publishedAt": "2026-11-18T19:25:04Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "ZU7lZAaNgVA"
+     },
+     "title": "Sampling with and without replacement | AP Statistics | Khan Academy",
+     "videoOwnerChannelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "videoOwnerChannelTitle": "Khan Academy"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "apc8jmzOqzE",
+     "videoPublishedAt": "2026-11-18T19:25:04Z"
+    },
+    "id": "VVU0YS1HYmR3N3ZPYWNjSG1GbzQwYjlnLmFwYzhqbXpPcXpF",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "description": "Sal shows how to decide whether a described data collection method is a census, by naming the population and checking that every individual in it was recorded.",
+     "playlistId": "UU4a-Gbdw7vOaccHmFo40b9g",
+     "position": 7,
+     "publishedAt": "2026-11-18T19:25:04Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "apc8jmzOqzE"
+     },
+     "title": "Identifying a census | AP Statistics | Khan Academy",
+     "videoOwnerChannelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "videoOwnerChannelTitle": "Khan Academy"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "93UK_DNxZbA",
+     "videoPublishedAt": "2026-11-18T19:24:35Z"
+    },
+    "id": "VVU0YS1HYmR3N3ZPYWNjSG1GbzQwYjlnLjkzVUtfRE54WmJB",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "description": "Sal calculates joint relative frequency from a two-way table of counts.",
+     "playlistId": "UU4a-Gbdw7vOaccHmFo40b9g",
+     "position": 8,
+     "publishedAt": "2026-11-18T19:24:35Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "93UK_DNxZbA"
+     },
+     "title": "Joint relative frequency | AP Statistics | Khan Academy",
+     "videoOwnerChannelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "videoOwnerChannelTitle": "Khan Academy"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "y9gDOv79thc",
+     "videoPublishedAt": "2026-11-18T19:24:35Z"
+    },
+    "id": "VVU0YS1HYmR3N3ZPYWNjSG1GbzQwYjlnLnk5Z0RPdjc5dGhj",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "description": "Sal calculates conditional relative frequency from a two-way table of counts.",
+     "playlistId": "UU4a-Gbdw7vOaccHmFo40b9g",
+     "position": 9,
+     "publishedAt": "2026-11-18T19:24:35Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "y9gDOv79thc"
+     },
+     "title": "Conditional relative frequency | AP Statistics | Khan Academy",
+     "videoOwnerChannelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "videoOwnerChannelTitle": "Khan Academy"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "-xg3fpegwEo",
+     "videoPublishedAt": "2026-11-18T19:24:34Z"
+    },
+    "id": "VVU0YS1HYmR3N3ZPYWNjSG1GbzQwYjlnLi14ZzNmcGVnd0Vv",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "description": "Sal discusses the three components of a strong investigative question and writes an example from a described study.",
+     "playlistId": "UU4a-Gbdw7vOaccHmFo40b9g",
+     "position": 10,
+     "publishedAt": "2026-11-18T19:24:34Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "-xg3fpegwEo"
+     },
+     "title": "Understanding the components of an investigative question | AP Statistics | Khan Academy",
+     "videoOwnerChannelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "videoOwnerChannelTitle": "Khan Academy"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "PUuX3xjIgas",
+     "videoPublishedAt": "2026-11-18T19:24:34Z"
+    },
+    "id": "VVU0YS1HYmR3N3ZPYWNjSG1GbzQwYjlnLlBVdVgzeGpJZ2Fz",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "description": "Sal calculates marginal relative frequency from a two-way table of counts.",
+     "playlistId": "UU4a-Gbdw7vOaccHmFo40b9g",
+     "position": 11,
+     "publishedAt": "2026-11-18T19:24:34Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "PUuX3xjIgas"
+     },
+     "title": "Marginal relative frequency | AP Statistics | Khan Academy",
+     "videoOwnerChannelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "videoOwnerChannelTitle": "Khan Academy"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "YLVuW5U5_1k",
+     "videoPublishedAt": "2026-11-18T19:24:34Z"
+    },
+    "id": "VVU0YS1HYmR3N3ZPYWNjSG1GbzQwYjlnLllMVnVXNVU1XzFr",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "description": "Sal explores a simulated deck of blue and red cards to demonstrate the idea of probability as \u201clong-run relative frequency\u201d: the proportion of outcomes observed after a large number of trials.",
+     "playlistId": "UU4a-Gbdw7vOaccHmFo40b9g",
+     "position": 12,
+     "publishedAt": "2026-11-18T19:24:34Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "YLVuW5U5_1k"
+     },
+     "title": "Probability as long run relative frequency | AP Statistics | Khan Academy",
+     "videoOwnerChannelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "videoOwnerChannelTitle": "Khan Academy"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "kFQbz398kII",
+     "videoPublishedAt": "2026-11-18T19:23:46Z"
+    },
+    "id": "VVU0YS1HYmR3N3ZPYWNjSG1GbzQwYjlnLmtGUWJ6Mzk4a0lJ",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "description": "Sal interprets a confidence interval for the difference between two population means, then uses it to evaluate a claim that the two means are equal.",
+     "playlistId": "UU4a-Gbdw7vOaccHmFo40b9g",
+     "position": 13,
+     "publishedAt": "2026-11-18T19:23:46Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "kFQbz398kII"
+     },
+     "title": "Justifying a claim based on a confidence interval for the difference between two means",
+     "videoOwnerChannelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "videoOwnerChannelTitle": "Khan Academy"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "6ay5WEkNusU",
+     "videoPublishedAt": "2026-11-18T19:23:45Z"
+    },
+    "id": "VVU0YS1HYmR3N3ZPYWNjSG1GbzQwYjlnLjZheTVXRWtOdXNV",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "channelTitle": "Khan Academy",
+     "description": "Sal interprets a confidence interval for a population proportion in context, then uses it to decide whether the interval gives convincing evidence against a claim.",
+     "playlistId": "UU4a-Gbdw7vOaccHmFo40b9g",
+     "position": 14,
+     "publishedAt": "2026-11-18T19:23:45Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "6ay5WEkNusU"
+     },
+     "title": "Justifying a claim based on a confidence interval for a population proportion",
+     "videoOwnerChannelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+     "videoOwnerChannelTitle": "Khan Academy"
+    }
+   }
+  ],
+  "kind": "youtube#playlistItemListResponse",
+  "nextPageToken": "SYNTH_PAGE_TOKEN_02",
+  "pageInfo": {
+   "resultsPerPage": 15,
+   "totalResults": 9541
+  }
+ }
+}

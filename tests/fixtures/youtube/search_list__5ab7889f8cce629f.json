@@ -1,0 +1,100 @@
+{
+ "args": {
+  "maxResults": 5,
+  "part": "snippet",
+  "q": "3blue1brown",
+  "type": "channel"
+ },
+ "method": "search_list",
+ "response": {
+  "items": [
+   {
+    "id": {
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "kind": "youtube#channel"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "description": "My name is Grant Sanderson. Videos here cover a variety of topics in math, or adjacent fields like physics and CS, all with an ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2015-03-03T23:11:55Z",
+     "publishedAt": "2015-03-03T23:11:55Z",
+     "title": "3Blue1Brown"
+    }
+   },
+   {
+    "id": {
+     "channelId": "UCBevyiJ2ierZY-0yZhfLrmQ",
+     "kind": "youtube#channel"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCBevyiJ2ierZY-0yZhfLrmQ",
+     "channelTitle": "3Blue1BrownJapan",
+     "description": "3Blue1Brown\u306e\u65e5\u672c\u8a9e\u7248\u516c\u5f0f\u30c1\u30e3\u30f3\u30cd\u30eb\u3067\u3059\u3002\u672c\u5bb63Blue1Brown\u306e\u516c\u5f0f\u30e9\u30a4\u30bb\u30f3\u30b9\u306e\u3082\u3068\u3001\u52d5\u753b\u3092\u65e5\u672c\u8a9e\u306b\u7ffb\u8a33\u30fb\u518d\u7de8\u96c6\u3057\u516c\u958b\u3057 ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2020-09-23T22:37:55Z",
+     "publishedAt": "2020-09-23T22:37:55Z",
+     "title": "3Blue1BrownJapan"
+    }
+   },
+   {
+    "id": {
+     "channelId": "UCU1gppH-Msk5RgXIsJ91SJw",
+     "kind": "youtube#channel"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCU1gppH-Msk5RgXIsJ91SJw",
+     "channelTitle": "3Blue1Brown \u0939\u093f\u0902\u0926\u0940",
+     "description": "",
+     "liveBroadcastContent": "none",
+     "publishTime": "2020-11-10T19:21:48Z",
+     "publishedAt": "2020-11-10T19:21:48Z",
+     "title": "3Blue1Brown \u0939\u093f\u0902\u0926\u0940"
+    }
+   },
+   {
+    "id": {
+     "channelId": "UC6hAYNOWMmuqOBvFOuAFKwA",
+     "kind": "youtube#channel"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UC6hAYNOWMmuqOBvFOuAFKwA",
+     "channelTitle": "3Blue1Brown \u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+     "description": "3Blue1Brown, \u0441\u043e\u0437\u0434\u0430\u043d\u043d\u044b\u0439 \u0413\u0440\u0430\u043d\u0442\u043e\u043c \u0421\u0430\u043d\u0434\u044d\u0440\u0441\u043e\u043d\u043e\u043c (Grant Sanderson), \u042d\u0442\u043e \u043a\u043e\u043c\u0431\u0438\u043d\u0430\u0446\u0438\u044f \u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0438 \u0438 \u0440\u0430\u0437\u0432\u043b\u0435\u0447\u0435\u043d\u0438\u044f - \u0432 ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2018-03-26T18:54:06Z",
+     "publishedAt": "2018-03-26T18:54:06Z",
+     "title": "3Blue1Brown \u0420\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+   },
+   {
+    "id": {
+     "channelId": "UCQbsk1JQNaskUlfdoyiWJDg",
+     "kind": "youtube#channel"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+     "channelId": "UCQbsk1JQNaskUlfdoyiWJDg",
+     "channelTitle": "3Blue1Brown Espa\u00f1ol",
+     "description": "Hola! Soy Grant Sanderson, y aqu\u00ed hablamos de temas de matem\u00e1ticas y \u00e1reas cercanas como f\u00edsica y computaci\u00f3n, siempre con ...",
+     "liveBroadcastContent": "none",
+     "publishTime": "2017-11-16T23:31:34Z",
+     "publishedAt": "2017-11-16T23:31:34Z",
+     "title": "3Blue1Brown Espa\u00f1ol"
+    }
+   }
+  ],
+  "kind": "youtube#searchListResponse",
+  "nextPageToken": "SYNTH_PAGE_TOKEN_SEARCH_01",
+  "pageInfo": {
+   "resultsPerPage": 5,
+   "totalResults": 5414
+  },
+  "regionCode": "IN"
+ }
+}

@@ -1,6 +1,7 @@
 """Sanitise raw YouTube API fixture files."""
 
 import argparse
+import hashlib
 import json
 import re
 import sys
@@ -18,6 +19,24 @@ BEARER_PATTERN = re.compile(r"Bearer\s+[a-zA-Z0-9_.-]{20,}")
 DROP_KEYS = {"etag", "thumbnails", "localized"}
 FORBIDDEN_ARG_KEYS = {"key", "access_token", "refresh_token", "client_secret"}
 MAX_OUTPUT_BYTES = 400_000
+
+PAGINATION_TOKEN_MAP: dict[str, str] = {
+    "EAAaHlBUOkNBOGlFRGsxUWtVNU1rRXlOVGMwT0RNNU9ESQ": "SYNTH_PAGE_TOKEN_01",
+    "EAAaHlBUOkNBOGlFREV4T1RjMU1VSTJOVGxGTWpKR05UYw": "SYNTH_PAGE_TOKEN_02",
+    "EAAaHlBUOkNBOGlFREkxTkRaRlJrTXpSamMxT1RSRk5VRQ": "SYNTH_PAGE_TOKEN_03",
+    "CAUQAA": "SYNTH_PAGE_TOKEN_SEARCH_01",
+    "CDIQAA": "SYNTH_PAGE_TOKEN_SEARCH_02",
+}
+
+
+def deterministic_page_token(token: str) -> str:
+    """Return a deterministic synthetic pagination token with low entropy."""
+    if token in PAGINATION_TOKEN_MAP:
+        return PAGINATION_TOKEN_MAP[token]
+    if token.startswith("SYNTH_"):
+        return token
+    digest = hashlib.sha256(token.encode("utf-8")).hexdigest()[:8]
+    return f"SYNTH_PAGE_{digest}"
 
 
 def redact_text(text: str) -> str:
@@ -52,6 +71,8 @@ def _sanitise_value(key: str | None, value: Any) -> Any:
     if isinstance(value, list):
         return [_sanitise_value(key, item) for item in value]
     if isinstance(value, str):
+        if key in ("nextPageToken", "pageToken"):
+            return deterministic_page_token(value)
         redacted = redact_text(value)
         if key == "description" and len(redacted) > 300:
             return redacted[:300]
@@ -64,9 +85,15 @@ def sanitise_fixture(data: dict[str, Any]) -> dict[str, Any]:
     if "args" in data:
         _check_sensitive_keys(data["args"])
 
+    args = data["args"]
+    if isinstance(args, dict) and "pageToken" in args and isinstance(args["pageToken"], str):
+        sanitised_args = dict(args)
+        sanitised_args["pageToken"] = deterministic_page_token(args["pageToken"])
+        args = sanitised_args
+
     result: dict[str, Any] = {
         "method": data["method"],
-        "args": data["args"],
+        "args": args,
     }
     if "status" in data:
         result["status"] = data["status"]
@@ -97,12 +124,13 @@ def _process_fixture_file(file_path: Path, out_dir: Path) -> tuple[Path, bytes]:
     serialized = json.dumps(sanitised, sort_keys=True, indent=1, ensure_ascii=True) + "\n"
     encoded = serialized.encode("utf-8")
 
+    out_name = f"{fixture_key(sanitised['method'], sanitised['args'])}.json"
     if len(encoded) > MAX_OUTPUT_BYTES:
         raise ValueError(
-            f"Output file {file_path.name} exceeds {MAX_OUTPUT_BYTES} bytes ({len(encoded)} bytes)"
+            f"Output file {out_name} exceeds {MAX_OUTPUT_BYTES} bytes ({len(encoded)} bytes)"
         )
 
-    return out_dir / file_path.name, encoded
+    return out_dir / out_name, encoded
 
 
 def main(argv: list[str] | None = None) -> int:

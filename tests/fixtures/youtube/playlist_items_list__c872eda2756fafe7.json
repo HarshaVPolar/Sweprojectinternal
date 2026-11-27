@@ -1,0 +1,363 @@
+{
+ "args": {
+  "maxResults": 15,
+  "part": "snippet,contentDetails",
+  "playlistId": "UUYO_jab_esuFRV4b17AJtAw"
+ },
+ "method": "playlist_items_list",
+ "response": {
+  "items": [
+   {
+    "contentDetails": {
+     "videoId": "zqzk43bSdDI",
+     "videoPublishedAt": "2026-11-22T02:02:12Z"
+    },
+    "id": "VVVZT19qYWJfZXN1RlJWNGIxN0FKdEF3Lnpxems0M2JTZERJ",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "description": "Hypothetical no more\nAnnouncement by Levent Alp\u00f6ge: https://alpo.ge/remark.pdf\n\nAnnouncement from Alessandro Maria Masullo\u00a0on his work on GHR: https://sites.google.com/view/tmotp/home\n\n0:00 - Kevin Buzzard\n0:45 - Ken Ono\n1:14 - Elliot Glazer\n1:28 - Jordan Ellenberg\n2:18 - Leo de Moura\n3:14 - Terence",
+     "playlistId": "UUYO_jab_esuFRV4b17AJtAw",
+     "position": 0,
+     "publishedAt": "2026-11-22T02:02:12Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "zqzk43bSdDI"
+     },
+     "title": "We've been asking: \u201cWhat if AI solved the Riemann Hypothesis?\u201d",
+     "videoOwnerChannelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "videoOwnerChannelTitle": "3Blue1Brown"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "qbsb9DpdZ6s",
+     "videoPublishedAt": "2026-11-17T16:43:16Z"
+    },
+    "id": "VVVZT19qYWJfZXN1RlJWNGIxN0FKdEF3LnFic2I5RHBkWjZz",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "description": "Arithmetic codes and what they reflect about compression & intelligence\nChannel career fair: https://3b1b.com/talent\nNew store items! https://3b1b.com/store\nEarly views for supporters: https://3b1b.com/support\n\nOn Arithmetic Codes:\n\nhttps://jacobfilipp.com/DrDobbs/articles/DDJ/1991/9102/9102a/9102a.",
+     "playlistId": "UUYO_jab_esuFRV4b17AJtAw",
+     "position": 1,
+     "publishedAt": "2026-11-17T16:43:16Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "qbsb9DpdZ6s"
+     },
+     "title": "This algorithm changed how I think about compression | Compression & Intelligence, part 3",
+     "videoOwnerChannelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "videoOwnerChannelTitle": "3Blue1Brown"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "0IZcjWtWmDA",
+     "videoPublishedAt": "2026-11-17T16:43:03Z"
+    },
+    "id": "VVVZT19qYWJfZXN1RlJWNGIxN0FKdEF3LjBJWmNqV3RXbURB",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "description": "Full video: https://youtu.be/qbsb9DpdZ6s",
+     "playlistId": "UUYO_jab_esuFRV4b17AJtAw",
+     "position": 2,
+     "publishedAt": "2026-11-17T16:43:03Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "0IZcjWtWmDA"
+     },
+     "title": "Encoding the encyclopedia on a rod",
+     "videoOwnerChannelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "videoOwnerChannelTitle": "3Blue1Brown"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "V_uq3v6xK-4",
+     "videoPublishedAt": "2026-10-25T14:30:46Z"
+    },
+    "id": "VVVZT19qYWJfZXN1RlJWNGIxN0FKdEF3LlZfdXEzdjZ4Sy00",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "description": "Part of a series of monthly puzzles\nEarly view of some other solutions:\nhttps://members.3blue1brown.com/posts/solution-to-10-158885046\nhttps://members.3blue1brown.com/posts/solution-to-sum-156593740",
+     "playlistId": "UUYO_jab_esuFRV4b17AJtAw",
+     "position": 3,
+     "publishedAt": "2026-10-25T14:30:46Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "V_uq3v6xK-4"
+     },
+     "title": "The Sphere Intersection Puzzle",
+     "videoOwnerChannelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "videoOwnerChannelTitle": "3Blue1Brown"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "LKrwhjOI8Nc",
+     "videoPublishedAt": "2026-10-16T16:15:20Z"
+    },
+    "id": "VVVZT19qYWJfZXN1RlJWNGIxN0FKdEF3LkxLcndoak9JOE5j",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "description": "Sharing a few thoughts on the future of math\nThese videos are funded directly by viewers: https://3b1b.co/support\nAn equally valuable form of support is to simply share the videos.\nHome page: https://www.3blue1brown.com\n\nIf you want a finger on the pulse of how mathematicians are feeling right now, ",
+     "playlistId": "UUYO_jab_esuFRV4b17AJtAw",
+     "position": 4,
+     "publishedAt": "2026-10-16T16:15:20Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "LKrwhjOI8Nc"
+     },
+     "title": "There's never been a better time to go into math",
+     "videoOwnerChannelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "videoOwnerChannelTitle": "3Blue1Brown"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "ausLKMojXaY",
+     "videoPublishedAt": "2026-09-25T13:35:02Z"
+    },
+    "id": "VVVZT19qYWJfZXN1RlJWNGIxN0FKdEF3LmF1c0xLTW9qWGFZ",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "description": "Part of a monthly series of puzzles: https://momath.org/mindbenders/",
+     "playlistId": "UUYO_jab_esuFRV4b17AJtAw",
+     "position": 5,
+     "publishedAt": "2026-09-25T13:35:02Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "ausLKMojXaY"
+     },
+     "title": "The Phone Number puzzle",
+     "videoOwnerChannelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "videoOwnerChannelTitle": "3Blue1Brown"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "bRQEWPA832A",
+     "videoPublishedAt": "2026-09-18T17:14:08Z"
+    },
+    "id": "VVVZT19qYWJfZXN1RlJWNGIxN0FKdEF3LmJSUUVXUEE4MzJB",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "description": "Full video: https://youtu.be/Nbwv5wHQoj0",
+     "playlistId": "UUYO_jab_esuFRV4b17AJtAw",
+     "position": 6,
+     "publishedAt": "2026-09-18T17:14:08Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "bRQEWPA832A"
+     },
+     "title": "The last IMO problem AI could not solve",
+     "videoOwnerChannelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "videoOwnerChannelTitle": "3Blue1Brown"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "Nbwv5wHQoj0",
+     "videoPublishedAt": "2026-09-18T17:12:53Z"
+    },
+    "id": "VVVZT19qYWJfZXN1RlJWNGIxN0FKdEF3Lk5id3Y1d0hRb2ow",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "description": "A beautiful puzzle that eluded AI, and the intuition it requires.\nCheck out our virtual career fair: https://3b1b.co/talent\nSee new videos early: https://3b1b.co/support\nAn equally valuable form of support is to simply share the videos.\nHome page: https://www.3blue1brown.com\n\nNote for the quote at t",
+     "playlistId": "UUYO_jab_esuFRV4b17AJtAw",
+     "position": 7,
+     "publishedAt": "2026-09-18T17:12:53Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "Nbwv5wHQoj0"
+     },
+     "title": "The last IMO problem AI could not solve",
+     "videoOwnerChannelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "videoOwnerChannelTitle": "3Blue1Brown"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "rYyJm1tD3d0",
+     "videoPublishedAt": "2026-08-18T14:54:17Z"
+    },
+    "id": "VVVZT19qYWJfZXN1RlJWNGIxN0FKdEF3LnJZeUptMXREM2Qw",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "description": "Part of a series of monthly puzzles with MoMath.",
+     "playlistId": "UUYO_jab_esuFRV4b17AJtAw",
+     "position": 8,
+     "publishedAt": "2026-08-18T14:54:17Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "rYyJm1tD3d0"
+     },
+     "title": "The jumping pegs puzzle",
+     "videoOwnerChannelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "videoOwnerChannelTitle": "3Blue1Brown"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "6XPlmCDNLNc",
+     "videoPublishedAt": "2026-07-24T15:05:39Z"
+    },
+    "id": "VVVZT19qYWJfZXN1RlJWNGIxN0FKdEF3LjZYUGxtQ0ROTE5j",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "description": "See all monthly puzzles: https://momath.org/mindbenders/",
+     "playlistId": "UUYO_jab_esuFRV4b17AJtAw",
+     "position": 9,
+     "publishedAt": "2026-07-24T15:05:39Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "6XPlmCDNLNc"
+     },
+     "title": "The 64 sugar cubes puzzle",
+     "videoOwnerChannelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "videoOwnerChannelTitle": "3Blue1Brown"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "GlYgs6v2YfU",
+     "videoPublishedAt": "2026-07-16T11:56:04Z"
+    },
+    "id": "VVVZT19qYWJfZXN1RlJWNGIxN0FKdEF3LkdsWWdzNnYyWWZV",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "description": "Where the loss function for training LLMs comes from.\nJob opportunities aligned to this audience: https://3b1b.co/talent\nEarly views and other perks for supporters: https://3b1b.co/support\nHome page: https://www.3blue1brown.com\n\nPart 1: https://youtu.be/l6DKRf-fAAM\n\nIf you want to learn more about L",
+     "playlistId": "UUYO_jab_esuFRV4b17AJtAw",
+     "position": 10,
+     "publishedAt": "2026-07-16T11:56:04Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "GlYgs6v2YfU"
+     },
+     "title": "Cross-entropy: Compression ratios as loss functions | Compression & Intelligence, part 2",
+     "videoOwnerChannelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "videoOwnerChannelTitle": "3Blue1Brown"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "wGffBCfrAsE",
+     "videoPublishedAt": "2026-06-16T18:04:05Z"
+    },
+    "id": "VVVZT19qYWJfZXN1RlJWNGIxN0FKdEF3LndHZmZCQ2ZyQXNF",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "description": "Part of a series of monthly puzzles done in collaboration with MoMath.",
+     "playlistId": "UUYO_jab_esuFRV4b17AJtAw",
+     "position": 11,
+     "publishedAt": "2026-06-16T18:04:05Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "wGffBCfrAsE"
+     },
+     "title": "100 random chords, how many intersections?",
+     "videoOwnerChannelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "videoOwnerChannelTitle": "3Blue1Brown"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "-7etvZSBxlk",
+     "videoPublishedAt": "2026-06-12T13:22:02Z"
+    },
+    "id": "VVVZT19qYWJfZXN1RlJWNGIxN0FKdEF3Li03ZXR2WlNCeGxr",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "description": "Full video: https://youtu.be/l6DKRf-fAAM",
+     "playlistId": "UUYO_jab_esuFRV4b17AJtAw",
+     "position": 12,
+     "publishedAt": "2026-06-12T13:22:02Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "-7etvZSBxlk"
+     },
+     "title": "Measuring the entropy of English",
+     "videoOwnerChannelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "videoOwnerChannelTitle": "3Blue1Brown"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "7L_eTem1SQ4",
+     "videoPublishedAt": "2026-06-10T13:26:34Z"
+    },
+    "id": "VVVZT19qYWJfZXN1RlJWNGIxN0FKdEF3LjdMX2VUZW0xU1E0",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "description": "Full video: https://youtu.be/l6DKRf-fAAM",
+     "playlistId": "UUYO_jab_esuFRV4b17AJtAw",
+     "position": 13,
+     "publishedAt": "2026-06-10T13:26:34Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "7L_eTem1SQ4"
+     },
+     "title": "What's the perfect encoding? How do you know?",
+     "videoOwnerChannelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "videoOwnerChannelTitle": "3Blue1Brown"
+    }
+   },
+   {
+    "contentDetails": {
+     "videoId": "l6DKRf-fAAM",
+     "videoPublishedAt": "2026-06-07T11:49:51Z"
+    },
+    "id": "VVVZT19qYWJfZXN1RlJWNGIxN0FKdEF3Lmw2REtSZi1mQUFN",
+    "kind": "youtube#playlistItem",
+    "snippet": {
+     "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "channelTitle": "3Blue1Brown",
+     "description": "How to study the compressibility of language.\nCheck out our virtual career fair: https://3b1b.co/talent\nSee new projects before they go live: https://3b1b.co/support\n\nAnimation credit:\nManim scenes by Aaron Gostein and Grant Sanderson\nShannon\u2019s story, as well as those for various pi creatures, by Mi",
+     "playlistId": "UUYO_jab_esuFRV4b17AJtAw",
+     "position": 14,
+     "publishedAt": "2026-06-07T11:49:51Z",
+     "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "l6DKRf-fAAM"
+     },
+     "title": "How to invent entropy | Compression & Intelligence, part 1",
+     "videoOwnerChannelId": "UCYO_jab_esuFRV4b17AJtAw",
+     "videoOwnerChannelTitle": "3Blue1Brown"
+    }
+   }
+  ],
+  "kind": "youtube#playlistItemListResponse",
+  "nextPageToken": "SYNTH_PAGE_TOKEN_01",
+  "pageInfo": {
+   "resultsPerPage": 15,
+   "totalResults": 250
+  }
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "args": {
+  "forHandle": "@mitocw",
+  "part": "id"
+ },
+ "method": "channels_list",
+ "response": {
+  "items": [
+   {
+    "id": "UCEBb1b_L6zDS3xTUrIALZOw",
+    "kind": "youtube#channel"
+   }
+  ],
+  "kind": "youtube#channelListResponse",
+  "pageInfo": {
+   "resultsPerPage": 5,
+   "totalResults": 1
+  }
+ }
+}
