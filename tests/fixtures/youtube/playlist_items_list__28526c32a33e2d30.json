@@ -30,7 +30,7 @@
     "snippet": {
      "playlistId": "PLsynthetic01",
      "position": 1,
-     "publishedAt": "2026-07-01T12:00:00Z",
+     "publishedAt": "2026-06-29T12:00:00Z",
      "resourceId": {
       "kind": "youtube#video",
       "videoId": "synlike0002"
@@ -45,7 +45,7 @@
     "snippet": {
      "playlistId": "PLsynthetic01",
      "position": 2,
-     "publishedAt": "2026-07-02T12:00:00Z",
+     "publishedAt": "2026-06-28T12:00:00Z",
      "resourceId": {
       "kind": "youtube#video",
       "videoId": "synlike0003"
@@ -60,7 +60,7 @@
     "snippet": {
      "playlistId": "PLsynthetic01",
      "position": 3,
-     "publishedAt": "2026-07-03T12:00:00Z",
+     "publishedAt": "2026-06-27T12:00:00Z",
      "resourceId": {
       "kind": "youtube#video",
       "videoId": "synlike0004"
@@ -75,7 +75,7 @@
     "snippet": {
      "playlistId": "PLsynthetic01",
      "position": 4,
-     "publishedAt": "2026-07-04T12:00:00Z",
+     "publishedAt": "2026-06-26T12:00:00Z",
      "resourceId": {
       "kind": "youtube#video",
       "videoId": "synlike0005"
@@ -90,7 +90,7 @@
     "snippet": {
      "playlistId": "PLsynthetic01",
      "position": 5,
-     "publishedAt": "2026-07-05T12:00:00Z",
+     "publishedAt": "2026-06-25T12:00:00Z",
      "resourceId": {
       "kind": "youtube#video",
       "videoId": "synlike0006"
@@ -105,7 +105,7 @@
     "snippet": {
      "playlistId": "PLsynthetic01",
      "position": 6,
-     "publishedAt": "2026-07-06T12:00:00Z",
+     "publishedAt": "2026-06-24T12:00:00Z",
      "resourceId": {
       "kind": "youtube#video",
       "videoId": "synlike0007"
@@ -120,7 +120,7 @@
     "snippet": {
      "playlistId": "PLsynthetic01",
      "position": 7,
-     "publishedAt": "2026-07-07T12:00:00Z",
+     "publishedAt": "2026-06-23T12:00:00Z",
      "resourceId": {
       "kind": "youtube#video",
       "videoId": "synlike0008"

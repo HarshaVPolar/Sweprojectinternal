@@ -188,7 +188,7 @@ def _build_playlist_items_fixtures() -> dict[str, dict[str, Any]]:
         for p in range(8):
             liked_idx = (k * 8 + p) % 64
             vid_id = f"synlike{liked_idx + 1:04d}"
-            item_pub = base_pub + timedelta(days=p)
+            item_pub = base_pub - timedelta(days=p)
             item_pub_str = item_pub.strftime("%Y-%m-%dT%H:%M:%SZ")
             items.append(
                 {
@@ -219,7 +219,7 @@ def _build_playlist_items_fixtures() -> dict[str, dict[str, Any]]:
 def _build_my_channel_fixture() -> dict[str, dict[str, Any]]:
     channel_id = _make_channel_id("synthetic-me")
     uploads_id = f"UU{channel_id[2:]}"
-    pub_dt = ANCHOR - timedelta(days=800)
+    pub_dt = ANCHOR - timedelta(days=500)
     pub_str = pub_dt.strftime("%Y-%m-%dT%H:%M:%SZ")
 
     item = {
