@@ -29,3 +29,4 @@ Append-only. One line per skill run, in this format: YYYY-MM-DD | skill | note |
 2026-11-26 | brain-refine | index
 2026-11-28 | brain-ingest | elicitation-spike
 2026-11-28 | brain-refine | index
+2026-11-28 | brain-ingest | review-stage-2
