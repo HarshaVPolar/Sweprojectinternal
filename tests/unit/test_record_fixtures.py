@@ -129,6 +129,74 @@ def test_estimate_formula() -> None:
 
 
 @pytest.mark.unit
+@pytest.mark.parametrize(
+    "max_results,expected_batches",
+    [
+        (25, 1),
+        (50, 1),
+        (51, 2),
+        (99, 2),
+        (100, 2),
+    ],
+)
+def test_estimate_units_ceiling_division_boundaries(
+    max_results: int, expected_batches: int
+) -> None:
+    """Verify that search pagination estimate uses ceiling division rather than floor division.
+
+    Division by 50:
+    - 25 // 50 = 0, ceil(25 / 50) = 1
+    - 50 // 50 = 1, ceil(50 / 50) = 1
+    - 51 // 50 = 1, ceil(51 / 50) = 2
+    - 99 // 50 = 1, ceil(99 / 50) = 2
+    - 100 // 50 = 2, ceil(100 / 50) = 2
+    """
+    raw_plan = {
+        "version": 1,
+        "searches": [{"q": "math", "type": "video", "max_results": max_results}],
+        "channels": {
+            "handles": [],
+            "usernames": [],
+            "custom_names": [],
+            "recent_uploads": 0,
+        },
+        "categories_region": "US",
+        "max_units": 1000,
+    }
+    plan = rf.validate_plan(raw_plan)
+
+    costs_search_only = QuotaCosts(
+        search_list=100,
+        videos_list=0,
+        channels_list=0,
+        subscriptions_list=0,
+        playlists_list=0,
+        playlist_items_list=0,
+        video_categories_list=0,
+        playlists_insert=0,
+        playlist_items_insert=0,
+    )
+    assert rf.estimate_units(plan, costs_search_only) == expected_batches * 100
+
+    floor_batches = max_results // 50
+    if max_results in (25, 51, 99):
+        assert expected_batches != floor_batches
+
+    costs_videos_only = QuotaCosts(
+        search_list=0,
+        videos_list=1,
+        channels_list=0,
+        subscriptions_list=0,
+        playlists_list=0,
+        playlist_items_list=0,
+        video_categories_list=0,
+        playlists_insert=0,
+        playlist_items_insert=0,
+    )
+    assert rf.estimate_units(plan, costs_videos_only) == expected_batches * 1
+
+
+@pytest.mark.unit
 def test_key_transport() -> None:
     recorded_requests: list[httpx.Request] = []
 

@@ -147,6 +147,17 @@ def test_translate_api_error_rules(
 
 @pytest.mark.unit
 def test_translate_api_error_rule_precedence() -> None:
+    # Rule 1 beats Rule 2 (status 429 with quota reasons -> QuotaExhausted, not RateLimited)
+    b_q = {"error": {"errors": [{"reason": "quotaExceeded"}]}}
+    err_q = translate_api_error(429, b_q)
+    assert isinstance(err_q, QuotaExhausted)
+    assert not isinstance(err_q, RateLimited)
+
+    b_d = {"error": {"errors": [{"reason": "dailyLimitExceeded"}]}}
+    err_d = translate_api_error(429, b_d)
+    assert isinstance(err_d, QuotaExhausted)
+    assert not isinstance(err_d, RateLimited)
+
     # Rule 1 beats Rule 7 (status 400 with quotaExceeded -> QuotaExhausted)
     b1 = {"error": {"errors": [{"reason": "quotaExceeded"}]}}
     assert isinstance(translate_api_error(400, b1), QuotaExhausted)
@@ -166,6 +177,15 @@ def test_translate_api_error_rule_precedence() -> None:
     # Rule 6 beats Rule 7 (status 400 with notFound -> NotFoundOrPrivate)
     b5 = {"error": {"errors": [{"reason": "notFound"}]}}
     assert isinstance(translate_api_error(400, b5), NotFoundOrPrivate)
+
+
+@pytest.mark.unit
+@pytest.mark.parametrize("reason", ["quotaExceeded", "dailyLimitExceeded"])
+def test_translate_api_error_429_quota_precedence(reason: str) -> None:
+    body = {"error": {"errors": [{"reason": reason}]}}
+    err = translate_api_error(429, body)
+    assert isinstance(err, QuotaExhausted)
+    assert not isinstance(err, RateLimited)
 
 
 @pytest.mark.unit
