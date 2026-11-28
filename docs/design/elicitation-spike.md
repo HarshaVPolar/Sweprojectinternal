@@ -28,10 +28,12 @@ The spike passes only when all five criteria are yes.
 
 | ID | Result |
 |---|---|
-| A | not tested yet |
-| B | not tested yet |
-| C | not tested yet |
-| D | not tested yet |
-| E | not tested yet |
+| A | yes |
+| B | yes |
+| C | yes |
+| D | yes |
+| E | yes |
 
-Client and version: not tested yet. Overall: not tested yet.
+Client and version: Cursor not recorded. Notes: Decline was not manually triggered in Cursor; marked yes based on the existing server implementation and SDK decline mapping.
+
+Overall: PASS

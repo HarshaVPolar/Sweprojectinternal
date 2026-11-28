@@ -25,6 +25,7 @@ Entry point of the second brain. Maintained by the brain-refine skill (SK-14). L
 ## Resources
 
 - [[agent-skills-format]]: SKILL.md structure, naming rules and progressive disclosure.
+- [[elicitation-spike]]: Result of the elicitation spike ES-1 for the approval gate.
 - [[fixture-recording-strategy]]: Record, sanitise and replay API fixtures for CI.
 - [[iso8601-durations]]: Parsing YouTube duration strings into seconds.
 - [[mcp-overview]]: Model Context Protocol concepts used by the server.
