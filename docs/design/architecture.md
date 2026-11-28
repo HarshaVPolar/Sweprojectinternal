@@ -18,7 +18,7 @@ The end user talks to an AI client (the MCP host). The client calls tools and re
 | tools, resources | thin MCP handlers that validate input, call one service and render the result envelope | services, models, errors, domain.sanitiser |
 | server.py, __main__.py | composition root: builds settings, clock, provider and services and registers the tools | everything |
 
-Rules that are tested: domain never imports I/O or other packages (import-linter and tests/test_layers.py); only providers/live.py performs HTTP; only infra/token_store.py touches token secrets; only services/confirmation_gate.py grants approvals; only PlaylistService.confirm writes to YouTube.
+Rules that are tested: domain never imports I/O or other packages (import-linter and tests/test_layers.py); only providers/live.py performs HTTP to the YouTube API and only infra/oauth.py talks to the Google OAuth endpoints; only infra/token_store.py touches token secrets; only services/confirmation_gate.py grants approvals; only PlaylistService.confirm writes to YouTube.
 
 ## 3. Composition and dependency injection
 

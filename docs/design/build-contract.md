@@ -37,7 +37,7 @@ Provider architecture:
 - providers/transport.py and providers/api_provider.py are part of the intended provider architecture and must be included in the relevant build items and prompts.
 
 Further rules:
-- Only providers/live.py performs HTTP. Only infra/token_store.py touches token secrets. Only services/confirmation_gate.py may set an approval to granted. Only PlaylistService.confirm calls create_playlist or add_playlist_item.
+- Only providers/live.py performs HTTP to the YouTube API and only infra/oauth.py talks to the Google OAuth endpoints (through google-auth-oauthlib). Only infra/token_store.py touches token secrets. Only services/confirmation_gate.py may set an approval to granted. Only PlaylistService.confirm calls create_playlist or add_playlist_item.
 - Every service operation that spends quota: build a plan, QuotaGuard.check, execute, record.
 - No tool handler calls a provider directly.
 
